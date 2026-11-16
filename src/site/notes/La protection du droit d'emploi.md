@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/la-protection-du-droit-d-emploi/","ctime":"2026-11-12T16:26:07.136+01:00","mtime":"2026-11-12T16:32:05.646+01:00","dg-note-properties":{"date created":"2026-11-12, 16 26","date modified":"2026-11-12, 16 26","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/la-protection-du-droit-d-emploi/","ctime":"2026-11-12T16:26:07.136+01:00","mtime":"2026-11-13T08:42:50.147+01:00","dg-note-properties":{"date created":"2026-11-12, 16 26","date modified":"2026-11-13, 8 42","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/les-sources-du-droit-du-travail/","ctime":"2026-11-12T16:05:37.624+01:00","mtime":"2026-11-12T16:32:05.654+01:00","dg-note-properties":{"date created":"2026-11-12, 16 05","date modified":"2026-11-12, 16 05","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/les-sources-du-droit-du-travail/","ctime":"2026-11-12T16:05:37.624+01:00","mtime":"2026-11-13T08:43:28.026+01:00","dg-note-properties":{"date created":"2026-11-12, 16 05","date modified":"2026-11-13, 8 43","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

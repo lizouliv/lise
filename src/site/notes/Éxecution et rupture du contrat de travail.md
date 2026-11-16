@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/execution-et-rupture-du-contrat-de-travail/","ctime":"2026-10-15T14:10:34.912+02:00","mtime":"2026-11-08T19:00:01.870+01:00","dg-note-properties":{"date created":"2026-10-15, 14 10","date modified":"2026-10-23, 15 21","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
+{"dg-publish":true,"permalink":"/execution-et-rupture-du-contrat-de-travail/","ctime":"2026-10-15T14:10:34.912+02:00","mtime":"2026-11-13T08:44:24.786+01:00","dg-note-properties":{"date created":"2026-10-15, 14 10","date modified":"2026-11-13, 8 44","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
 ---
 
 

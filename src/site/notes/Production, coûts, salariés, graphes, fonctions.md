@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/production-couts-salaries-graphes-fonctions/","ctime":"2026-10-17T15:47:33.379+02:00","mtime":"2026-10-17T16:38:21.126+02:00","dg-note-properties":{"date created":"2026-10-14, 14 53","date modified":"2026-10-17, 16 38","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Micro]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/production-couts-salaries-graphes-fonctions/","ctime":"2026-10-14T14:53:49.078+02:00","mtime":"2026-10-17T16:38:21.126+02:00","dg-note-properties":{"date created":"2026-10-14, 14 53","date modified":"2026-10-17, 16 38","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Micro]]","form":"[[References/CM]]","part":"[[References/2]]"}}
 ---
 
 

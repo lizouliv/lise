@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fonction-de-production/","tags":["AES/S3/micro","CM","éco","AES/S3"],"ctime":"2026-09-16T14:54:32.110+02:00","mtime":"2026-10-15T11:17:47.814+02:00","dg-note-properties":{"tags":["AES/S3/micro","CM","éco","AES/S3"],"class":"[[References/Micro]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/2]]","date created":"2026-09-16, 14 54","date modified":"2026-10-15, 11 17"}}
+{"dg-publish":true,"permalink":"/fonction-de-production/","ctime":"2026-09-16T14:54:32.110+02:00","mtime":"2026-11-15T13:18:34.064+01:00","dg-note-properties":{"tags":[],"class":"[[References/Micro]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/2]]","date created":"2026-09-16, 14 54","date modified":"2026-11-15, 13 18"}}
 ---
 
 

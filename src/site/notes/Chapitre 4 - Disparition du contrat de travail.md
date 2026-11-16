@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-4-disparition-du-contrat-de-travail/","ctime":"2026-11-12T14:39:33.342+01:00","mtime":"2026-11-13T01:23:14.918+01:00","dg-note-properties":{"date created":"2026-11-12, 14 39","date modified":"2026-11-13, 1 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
+{"dg-publish":true,"permalink":"/chapitre-4-disparition-du-contrat-de-travail/","ctime":"2026-11-12T14:39:33.342+01:00","mtime":"2026-11-13T10:31:27.803+01:00","dg-note-properties":{"date created":"2026-11-12, 14 39","date modified":"2026-11-13, 10 31","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
 ---
 
 

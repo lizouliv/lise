@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drive/josepha/s3/droit-du-travail/cm/partie-1-presentation-general-du-contrat-de-travail/chapitre-3-le-recrutement-du-salarie/","ctime":"2026-11-08T15:49:15.372+01:00","mtime":"2026-11-08T17:44:13.327+01:00","dg-note-properties":{"date created":"2026-11-08, 15 41","date modified":"2026-11-08, 15 59","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/1]]"}}
+{"dg-publish":true,"permalink":"/drive/josepha/s3/droit-du-travail/cm/partie-1-presentation-general-du-contrat-de-travail/chapitre-3-le-recrutement-du-salarie/","ctime":"2026-11-08T15:49:15.372+01:00","mtime":"2026-11-13T08:49:08.775+01:00","dg-note-properties":{"date created":"2026-11-08, 15 49","date modified":"2026-11-13, 8 49","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/1]]"}}
 ---
 
 
@@ -44,7 +44,7 @@ Les méthodes et techniques d'aide au recrutement ou d'évaluation des candidats
 
 #### Le CV demandé au candidat
 
-Un candidat cherche souvent à valoriser son parcours, mais la frontière entre “embellissement” et "fraude juridique" est contrôlée par le juge.
+Un candidat cherche souvent à valoriser son parcours, mais la frontière entre "embellissement" et "fraude juridique" est contrôlée par le juge.
 
 Mensonge sur le CV, certains employeurs ont demandés d'annuler le contrat de travail sous prétexte de dol
 
@@ -91,7 +91,7 @@ La période d'essai est une phase clé de l'insertion du salarié dans l'entrepr
 
 Bien qu'elle se caractérise par une grande souplesse de rupture, elle obéit à un régime juridique strict visant à éviter l'arbitraire ou le détournement de son objet.
 
-#### §1- l'existence de la période d'essai
+#### §1l'existence de la période d'essai
 
 #### A - principes généraux sur la période d'essai
 
@@ -129,7 +129,7 @@ On ne peut pas stipuler ou débuter une période d'essai en cours d'exécution d
 
 Atténuation --> Une nouvelle période d'essai est possible si le salarié est réembauché sur des fonctions totalement différentes ou si un délai très important s'est écoulé depuis la fin du précédent contrat.
 
-#### §2- La durée de la période d'essai
+#### §2La durée de la période d'essai
 
 #### A - la durée maximale de la période d'essai
 
@@ -168,11 +168,11 @@ Le renouvellement n'est jamais automatique. Il exige la réunion de 3 conditions
 
 - **Prévision par un accord de branche étendu** --> L'accord collectif de branche doit expressément autoriser le renouvellement et en fixer les conditions.
 - **Prévision dans le contrat de travail** --> La possibilité de renouveler doit être mentionnée dès l'origine dans la lettre d'engagement ou le contrat.
-- **Accord express du salarié avant l'échéance** --> Le renouvellement requiert l'accord clair et non équivoque du salarié exprimé avant la fin de la période d'essai initiale. La simple signature d'une mention « lu et approuvé » sur une lettre remise en main propre est admise, mais la poursuite du travail sans accord explicite ne vaut pas acceptation.
+- **Accord express du salarié avant l'échéance** --> Le renouvellement requiert l'accord clair et non équivoque du salarié exprimé avant la fin de la période d'essai initiale. La simple signature d'une mention " lu et approuvé " sur une lettre remise en main propre est admise, mais la poursuite du travail sans accord explicite ne vaut pas acceptation.
 
 Elle ne pourra être renouvelée qu'une fois.
 
-#### §3- La rupture de la période d'essai
+#### §3La rupture de la période d'essai
 
 Pendant la période d'essai, le contrat peut être rompu librement. Toutefois, cette liberté est encadrée afin d'en sanctionner les dérives.
 
