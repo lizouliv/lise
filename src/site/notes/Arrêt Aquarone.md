@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/arret-aquarone/","ctime":"2026-10-15T21:08:39.731+02:00","mtime":"2026-11-08T19:00:00.988+01:00","dg-note-properties":{"date created":"2026-10-15, 21 08","date modified":"2026-11-08, 18 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/arret-aquarone/","ctime":"2026-10-15T21:08:39.731+02:00","mtime":"2026-11-18T17:23:08.567+01:00","dg-note-properties":{"date created":"2026-10-15, 21 08","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
 # Arrêt Aquarone
 
+**Référence :** Conseil d'État, Assemblée, 6 juin 1997, n° 148683
+
+**Apport :** Ni l'[[Art. 55 Const.\|Art. 55 Const.]] ni aucune autre disposition constitutionnelle ne confèrent à la **coutume internationale** (ou aux principes généraux du droit international) une autorité supérieure à celle des lois françaises dans l'ordre interne.
+
+**Cité dans :** [[Les normes internationales et européennes\|Les normes internationales et européennes]]

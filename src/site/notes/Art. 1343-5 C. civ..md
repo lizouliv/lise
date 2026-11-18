@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-1343-5-c-civ/","ctime":"2026-11-08T18:47:18.690+01:00","mtime":"2026-11-08T18:47:18.691+01:00","dg-note-properties":{"date created":"2026-10-22, 14 28","date modified":"2026-11-08, 18 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-1343-5-c-civ/","ctime":"2026-11-08T18:47:18.690+01:00","mtime":"2026-11-18T17:14:43.458+01:00","dg-note-properties":{"date created":"2026-10-22, 14 28","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 En vigueur depuis le 01 octobre 2016
 
-[Création Ordonnance n°2016-131 du 10 février 2016 - art. 3](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000032006593/2016-10-01)  
+*Création Ordonnance n°2016-131 du 10 février 2016 - art. 3*  
 
 Le juge peut, compte tenu de la situation du débiteur et en considération des besoins du créancier, reporter ou échelonner, dans la limite de deux années, le paiement des sommes dues.
 

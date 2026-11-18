@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-72-const/","ctime":"2026-11-08T18:47:18.763+01:00","mtime":"2026-11-08T18:47:18.763+01:00","dg-note-properties":{"date created":"2026-11-05, 16 46","date modified":"2026-11-08, 18 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-72-const/","ctime":"2026-11-08T18:47:18.763+01:00","mtime":"2026-11-18T17:14:43.466+01:00","dg-note-properties":{"date created":"2026-11-05, 16 46","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
 ---
 
 
@@ -7,9 +7,9 @@
 
 **En vigueur depuis le 29 mars 2003**
 
-[Modifié par Loi constitutionnelle n°2003-276 du 28 mars 2003 - art. 5](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000006218055/2003-03-29)  
+*Modifié par Loi constitutionnelle n°2003-276 du 28 mars 2003 - art. 5*  
 
-Les collectivités territoriales de la République sont les communes, les départements, les régions, les collectivités à statut particulier et les collectivités d'outre-mer régies par [l'article 74](https://www.legifrance.gouv.fr/affichTexteArticle.do?cidTexte=JORFTEXT000000571356&idArticle=LEGIARTI000006527584&dateTexte=&categorieLien=cid "Constitution du 4 octobre 1958 - art. 74 (V)"). Toute autre collectivité territoriale est créée par la loi, le cas échéant en lieu et place d'une ou de plusieurs collectivités mentionnées au présent alinéa.
+Les collectivités territoriales de la République sont les communes, les départements, les régions, les collectivités à statut particulier et les collectivités d'outre-mer régies par l'article 74. Toute autre collectivité territoriale est créée par la loi, le cas échéant en lieu et place d'une ou de plusieurs collectivités mentionnées au présent alinéa.
 
 Les collectivités territoriales ont vocation à prendre les décisions pour l'ensemble des compétences qui peuvent le mieux être mises en oeuvre à leur échelon.
 

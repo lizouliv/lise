@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-1235-1-c-trav/","ctime":"2026-11-12T14:50:23.265+01:00","mtime":"2026-11-12T15:15:11.181+01:00","dg-note-properties":{"date created":"2026-11-12, 14 50","date modified":"2026-11-12, 14 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-1235-1-c-trav/","ctime":"2026-11-12T14:50:23.265+01:00","mtime":"2026-11-18T17:14:43.485+01:00","dg-note-properties":{"date created":"2026-11-12, 14 50","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 
-En cas de litige, lors de la conciliation prévue à l'article [L. 1411-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901457&dateTexte=&categorieLien=cid), l'employeur et le salarié peuvent convenir ou le bureau de conciliation et d'orientation proposer d'y mettre un terme par accord. Cet accord prévoit le versement par l'employeur au salarié d'une indemnité forfaitaire dont le montant est déterminé, sans préjudice des indemnités légales, conventionnelles ou contractuelles, en référence à un barème fixé par décret en fonction de l'ancienneté du salarié.
+# Art. L. 1235-1 C. trav.
+
+En cas de litige, lors de la conciliation prévue à l'article [[Art. L. 1411-1 C. trav.\|L. 1411-1]], l'employeur et le salarié peuvent convenir ou le bureau de conciliation et d'orientation proposer d'y mettre un terme par accord. Cet accord prévoit le versement par l'employeur au salarié d'une indemnité forfaitaire dont le montant est déterminé, sans préjudice des indemnités légales, conventionnelles ou contractuelles, en référence à un barème fixé par décret en fonction de l'ancienneté du salarié.
 
 Le procès-verbal constatant l'accord vaut renonciation des parties à toutes réclamations et indemnités relatives à la rupture du contrat de travail prévues au présent chapitre.
 

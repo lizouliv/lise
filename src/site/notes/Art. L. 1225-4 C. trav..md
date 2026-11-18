@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-1225-4-c-trav/","ctime":"2026-11-12T14:20:36.408+01:00","mtime":"2026-11-12T14:21:37.900+01:00","dg-note-properties":{"date created":"2026-11-12, 14 20","date modified":"2026-11-12, 14 21","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-1225-4-c-trav/","ctime":"2026-11-12T14:20:36.408+01:00","mtime":"2026-11-18T17:14:43.484+01:00","dg-note-properties":{"date created":"2026-11-12, 14 20","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
+
+# Art. L. 1225-4 C. trav.
 
 **Protection absolue du salarié en contrat de travail**
 

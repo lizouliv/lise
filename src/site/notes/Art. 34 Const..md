@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-34-const/","ctime":"2026-11-08T18:47:18.754+01:00","mtime":"2026-11-08T18:47:18.754+01:00","dg-note-properties":{"date created":"2026-10-22, 16 19","date modified":"2026-11-08, 18 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-34-const/","ctime":"2026-11-08T18:47:18.754+01:00","mtime":"2026-11-18T17:14:43.458+01:00","dg-note-properties":{"date created":"2026-10-22, 16 19","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
 ---
 
 
@@ -7,7 +7,7 @@
 
 En vigueur depuis le 10 mars 2024
 
-[Modifié par LOI n°2024-200 du 8 mars 2024 - art. unique (V)](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000049255008/2024-03-10)  
+*Modifié par LOI n°2024-200 du 8 mars 2024 - art. unique (V)*  
 
 La loi fixe les règles concernant :
 

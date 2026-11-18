@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-1242-7-c-trav/","ctime":"2026-10-17T17:03:18.565+02:00","mtime":"2026-11-08T18:47:18.678+01:00","dg-note-properties":{"date created":"2026-10-17, 17 03","date modified":"2026-11-08, 18 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/art-l-1242-7-c-trav/","ctime":"2026-10-17T17:03:18.565+02:00","mtime":"2026-11-18T17:14:43.491+01:00","dg-note-properties":{"date created":"2026-10-17, 17 03","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 
@@ -15,9 +15,9 @@ Toutefois, le contrat peut ne pas comporter de terme précis lorsqu'il est concl
 
 3° Dans l'attente de l'entrée en service effective d'un salarié recruté par contrat à durée indéterminée ;
 
-4° Emplois à caractère saisonnier définis au 3° de l'article [L. 1242-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006901195&dateTexte=&categorieLien=cid "Code du travail - art. L1242-2 (V)") ou pour lesquels, dans certains secteurs d'activité définis par décret ou par voie de convention ou d'accord collectif étendu, il est d'usage constant de ne pas recourir au contrat de travail à durée indéterminée en raison de la nature de l'activité exercée et du caractère par nature temporaire de ces emplois ;
+4° Emplois à caractère saisonnier définis au 3° de l'article [[Art. L. 1242-2 C. trav.\|L. 1242-2]] ou pour lesquels, dans certains secteurs d'activité définis par décret ou par voie de convention ou d'accord collectif étendu, il est d'usage constant de ne pas recourir au contrat de travail à durée indéterminée en raison de la nature de l'activité exercée et du caractère par nature temporaire de ces emplois ;
 
-5° Remplacement de l'une des personnes mentionnées aux 4° et 5° de [l'article L. 1242-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033024658&dateTexte=&categorieLien=id "Code du travail - art. L1242-2 (V)") ;
+5° Remplacement de l'une des personnes mentionnées aux 4° et 5° de [[Art. L. 1242-2 C. trav.\|l'article L. 1242-2]] ;
 
 6° Recrutement d'ingénieurs et de cadres en vue de la réalisation d'un objet défini, prévu au 6° de l'article L. 1242-2.
 

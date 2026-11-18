@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-1225-17-c-trav/","ctime":"2026-11-12T13:41:35.389+01:00","mtime":"2026-11-12T13:53:41.480+01:00","dg-note-properties":{"date created":"2026-11-12, 13 41","date modified":"2026-11-12, 13 53","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-1225-17-c-trav/","ctime":"2026-11-12T13:41:35.389+01:00","mtime":"2026-11-18T17:14:43.484+01:00","dg-note-properties":{"date created":"2026-11-12, 13 41","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
+
+# Art. L. 1225-17 C. trav.
 
 La salariée a le droit de bénéficier d'un congé de maternité pendant une période qui commence six semaines avant la date présumée de l'accouchement et se termine dix semaines après la date de celui-ci.
 
