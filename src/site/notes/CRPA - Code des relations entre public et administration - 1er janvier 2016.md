@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/crpa-code-des-relations-entre-public-et-administration-1er-janvier-2016/","ctime":"2026-11-12T15:50:39.999+01:00","mtime":"2026-11-12T16:31:50.516+01:00","dg-note-properties":{"date created":"2026-11-12, 15 50","date modified":"2026-11-12, 16 30","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/crpa-code-des-relations-entre-public-et-administration-1er-janvier-2016/","ctime":"2026-11-12T15:50:39.999+01:00","mtime":"2026-11-18T17:18:01.054+01:00","dg-note-properties":{"date created":"2026-11-12, 15 50","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
+
+# CRPA - Code des relations entre public et administration - 1er janvier 2016
 
 ## Article L100-1
 

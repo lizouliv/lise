@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-3-fevrier-2010/","ctime":"2026-11-16T13:22:06.789+01:00","mtime":"2026-11-16T13:22:06.789+01:00","dg-note-properties":{"date created":"2026-11-16, 13 22","date modified":"2026-11-16, 13 22","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-3-fevrier-2010/","ctime":"2026-11-16T13:22:06.789+01:00","mtime":"2026-11-16T15:38:52.535+01:00","dg-note-properties":{"date created":"2026-11-16, 13 22","date modified":"2026-11-16, 15 38","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -10,7 +10,7 @@
 > L'affectation occasionnelle d'un salarié hors de son secteur géographique habituel (ou hors du périmètre fixé par une clause de mobilité) ne relève du pouvoir de direction de l'employeur que si quatre conditions cumulatives strictes sont réunies.
 
 ## Solution de principe
-Aux termes de l'attendu de principe rendu au visa de l'[[Art. L. 1221-1 C. trav.\|Art. L. 1221-1 C. trav.]] et de l'article 1134 (devenu 1103) du Code civil :
+Aux termes de l'attendu de principe rendu au visa de l'[[Art. L. 1221-1 C. trav.\|Art. L. 1221-1 C. trav.]] et de l'article 1134 (devenu [[Art. 1103 C. civ.\|Art. 1103 C. civ.]]) du Code civil :
 L'affectation occasionnelle en dehors du secteur géographique habituel peut ne pas constituer une modification du contrat de travail, mais **il n'en est ainsi que lorsque cette affectation réunit 4 critères cumulatifs** :
 1. Être **motivée par l'intérêt de l'entreprise** ;
 2. Être **justifiée par des circonstances exceptionnelles** ;

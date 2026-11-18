@@ -1,6 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-3123-7-c-trav/","ctime":"2026-10-14T00:04:45.840+02:00","mtime":"2026-11-08T18:47:18.683+01:00","dg-note-properties":{"date created":"2026-10-14, 0 04","date modified":"2026-11-08, 18 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-3123-7-c-trav/","ctime":"2026-10-14T00:04:45.840+02:00","mtime":"2026-11-18T17:14:43.509+01:00","dg-note-properties":{"date created":"2026-10-14, 0 04","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 
 # Art. L. 3123-7 C. trav.
+
+Le salarié à temps partiel bénéficie d'une durée minimale de travail hebdomadaire déterminée selon les modalités fixées aux articles L. 3123-19 et L. 3123-27.
+Le premier alinéa du présent article n'est pas applicable :
+1° Aux contrats d'une durée au plus égale à sept jours ;
+2° Aux contrats à durée déterminée conclus au titre du 1° de l'article L. 1242-2 ;
+3° Aux contrats de travail temporaire conclus au titre du 1° de l'article L. 1251-6 pour le remplacement d'un salarié absent.
+4° Aux contrats de travail à durée indéterminée conclus dans le cadre d'un cumul avec l'un des contrats prévus aux articles L. 5132-5, L. 5132-11-1 ou L. 5132-15-1, afin d'atteindre une durée globale d'activité correspondant à un temps plein ou au moins égale à la durée mentionnée à l'article L. 3123-27.
+Une durée de travail inférieure à celle prévue au premier alinéa du présent article peut être fixée à la demande du salarié soit pour lui permettre de faire face à des contraintes personnelles, soit pour lui permettre de cumuler plusieurs activités afin d'atteindre une durée globale d'activité correspondant à un temps plein ou au moins égale à la durée mentionnée au même premier alinéa. Cette demande est écrite et motivée.
+Une durée de travail inférieure à celle prévue audit premier alinéa peut être fixée, à sa demande, au bénéfice du salarié ayant atteint l'âge prévu au premier alinéa de l'article L. 161-22-1-5 du code de la sécurité sociale.
+Une durée de travail inférieure à celle prévue au premier alinéa, compatible avec ses études, est fixée de droit, à sa demande, au bénéfice du salarié âgé de moins de vingt-six ans poursuivant ses études.
+
+*En vigueur depuis le 2023-09-01*
+
+**Cité dans :** [[Le recrutement du salarié\|Le recrutement du salarié]], [[Plan TD 2 - Les différents types de contrat\|Plan TD 2 - Les différents types de contrat]]

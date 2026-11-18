@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-3123-6-c-trav/","ctime":"2026-10-17T17:03:14.021+02:00","mtime":"2026-11-08T18:47:18.683+01:00","dg-note-properties":{"date created":"2026-10-17, 17 03","date modified":"2026-11-08, 18 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/art-l-3123-6-c-trav/","ctime":"2026-10-17T17:03:14.021+02:00","mtime":"2026-11-18T17:14:43.508+01:00","dg-note-properties":{"date created":"2026-10-17, 17 03","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 
@@ -10,7 +10,7 @@ Le contrat de travail du salarié à temps partiel est un contrat écrit.
 
 Il mentionne :
 
-1° La qualification du salarié, les éléments de la rémunération, la durée hebdomadaire ou mensuelle prévue et, sauf pour les salariés des associations et entreprises d'aide à domicile et les salariés relevant d'un accord collectif conclu en application de l'article [L. 3121-44](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902483&dateTexte=&categorieLien=cid "Code du travail - art. L3121-44 (V)"), la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois ;
+1° La qualification du salarié, les éléments de la rémunération, la durée hebdomadaire ou mensuelle prévue et, sauf pour les salariés des associations et entreprises d'aide à domicile et les salariés relevant d'un accord collectif conclu en application de l'article L. 3121-44, la répartition de la durée du travail entre les jours de la semaine ou les semaines du mois ;
 
 2° Les cas dans lesquels une modification éventuelle de cette répartition peut intervenir ainsi que la nature de cette modification ;
 
@@ -18,4 +18,4 @@ Il mentionne :
 
 4° Les limites dans lesquelles peuvent être accomplies des heures complémentaires au delà de la durée de travail fixée par le contrat.
 
-L'avenant au contrat de travail prévu à l'article [L. 3123-22](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902562&dateTexte=&categorieLien=cid "Code du travail - art. L3123-22 (V)") mentionne les modalités selon lesquelles des compléments d'heures peuvent être accomplis au delà de la durée fixée par le contrat.
+L'avenant au contrat de travail prévu à l'article L. 3123-22 mentionne les modalités selon lesquelles des compléments d'heures peuvent être accomplis au delà de la durée fixée par le contrat.

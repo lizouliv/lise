@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-8221-3-c-trav/","ctime":"2026-10-14T00:03:26.413+02:00","mtime":"2026-11-08T18:47:18.687+01:00","dg-note-properties":{"date created":"2026-10-14, 0 03","date modified":"2026-11-08, 18 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-8221-3-c-trav/","ctime":"2026-10-14T00:03:26.413+02:00","mtime":"2026-11-18T17:14:43.517+01:00","dg-note-properties":{"date created":"2026-10-14, 0 03","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 
 # Art. L. 8221-3 C. trav.
+
+Est réputé travail dissimulé par dissimulation d'activité, l'exercice à but lucratif d'une activité de production, de transformation, de réparation ou de prestation de services ou l'accomplissement d'actes de commerce par toute personne qui, se soustrayant intentionnellement à ses obligations :
+1° Soit n'a pas demandé son immatriculation au registre national des entreprises en tant qu'entreprise du secteur des métiers et de l'artisanat ou au registre du commerce et des sociétés, lorsque celle-ci est obligatoire, ou a poursuivi son activité après refus d'immatriculation, ou postérieurement à une radiation ;
+2° Soit n'a pas procédé aux déclarations qui doivent être faites aux organismes de protection sociale ou à l'administration fiscale en vertu des dispositions légales en vigueur. Cette situation peut notamment résulter de la non-déclaration d'une partie de son chiffre d'affaires ou de ses revenus ou de la continuation d'activité après avoir été radié par les organismes de protection sociale en application de l'article L. 613-4 du code de la sécurité sociale ;
+3° Soit s'est prévalue des dispositions applicables au détachement de salariés lorsque l'employeur de ces derniers exerce dans l'Etat sur le territoire duquel il est établi des activités relevant uniquement de la gestion interne ou administrative, ou lorsque son activité est réalisée sur le territoire national de façon habituelle, stable et continue.
+
+*En vigueur depuis le 2023-01-01*
+
+**Cité dans :** [[Le recrutement du salarié\|Le recrutement du salarié]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-4-disparition-du-contrat-de-travail/","ctime":"2026-11-12T14:39:33.342+01:00","mtime":"2026-11-13T10:31:27.803+01:00","dg-note-properties":{"date created":"2026-11-12, 14 39","date modified":"2026-11-13, 10 31","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
+{"dg-publish":true,"permalink":"/chapitre-4-disparition-du-contrat-de-travail/","ctime":"2026-11-12T14:39:33.342+01:00","mtime":"2026-11-18T13:23:26.767+01:00","dg-note-properties":{"date created":"2026-11-12, 14 39","date modified":"2026-11-13, 10 31","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/4]]"}}
 ---
 
 
@@ -35,9 +35,9 @@ La **[[La suspension du contrat de travail\|La suspension du contrat de travail]
 2. **La maladie et les accidents** :
    - S'applique tant à la maladie ordinaire et aux accidents de la vie privée qu'aux Accidents du Travail et Maladies Professionnelles (AT/MP).
    - *Début* : Constaté par la délivrance de l'arrêt de travail par le médecin traitant.
-   - *Fin* : Pour les arrêts courts ordinaires, reprise automatique au terme de l'arrêt. Pour les arrêts longs ou AT/MP où une visite médicale de reprise auprès du médecin du travail est légale, **la suspension ne prend fin que le jour où le médecin du travail déclare l'aptitude du salarié** (==[[Cass. Soc., 22 février 2017\|Cass. Soc., 22 février 2017]]==).
+   - *Fin* : Pour les arrêts courts ordinaires, reprise automatique au terme de l'arrêt. Pour les arrêts longs ou AT/MP où une visite médicale de reprise auprès du médecin du travail est légale, **la suspension ne prend fin que le jour où le médecin du travail déclare l'aptitude du salarié** (==[[Cass. soc., 22 février 2017\|Cass. soc., 22 février 2017]]==).
 3. **L'exercice du droit de grève** :
-   - Défini comme un arrêt collectif et concerté du travail en vue d'appuyer des revendications professionnelles (==[[18 janvier 1995 - Grève\|18 janvier 1995 - Grève]]== / ==[[Cass. soc., 18 janvier 1995\|Cass. soc., 18 janvier 1995]]==).
+   - Défini comme un arrêt collectif et concerté du travail en vue d'appuyer des revendications professionnelles (==[[Grève\|Grève]]== / ==[[Cass. soc., 18 janvier 1995\|Cass. soc., 18 janvier 1995]]==).
    - Entraîne la suspension du contrat ; le salarié gréviste ne peut être licencié que pour **faute lourde** ([[Art. L. 2511-1 C. trav.\|Art. L. 2511-1 C. trav.]]).
 4. **L'incarcération, la détention provisoire ou la garde à vue** du salarié.
 5. **Les congés spécifiques et jours fériés** : Congés parentaux, de création d'entreprise, sabbatiques, congés pour événements familiaux (mariage, décès, naissance) et jours fériés chômés.
@@ -50,7 +50,7 @@ La **[[La suspension du contrat de travail\|La suspension du contrat de travail]
 - **Suspension des obligations principales** :
   - Le salarié est dispensé de fournir sa prestation de travail.
   - L'employeur est corrélativement dispensé de verser le salaire (le salaire étant la contrepartie du travail).
-  - *Tempéraments* : Maintien des avantages en nature accessoires (logement de fonction : ==[[Cass. Soc., 26 janvier 2011\|Cass. Soc., 26 janvier 2011]]== ; véhicule de fonction à usage personnel : ==[[Cass. Soc., 24 mars 2010\|Cass. Soc., 24 mars 2010]]==), maintien conventionnel du salaire pour événements familiaux, et prise en charge par les indemnités journalières de la Sécurité sociale (IJSS) en cas de maladie ou maternité.
+  - *Tempéraments* : Maintien des avantages en nature accessoires (logement de fonction : ==[[Cass. soc., 26 janvier 2011\|Cass. soc., 26 janvier 2011]]== ; véhicule de fonction à usage personnel : ==[[Cass. soc., 24 mars 2010\|Cass. soc., 24 mars 2010]]==), maintien conventionnel du salaire pour événements familiaux, et prise en charge par les indemnités journalières de la Sécurité sociale (IJSS) en cas de maladie ou maternité.
 - **Maintien des obligations accessoires** :
   - Les obligations de loyauté, de confidentialité, de secret professionnel et de non-concurrence subsistent intégralement pendant toute la durée de la suspension. Leur violation demeure sanctionnable disciplinairement (ex. divulgation de secrets de fabrication pendant un arrêt maladie).
 
@@ -61,12 +61,12 @@ La **[[La suspension du contrat de travail\|La suspension du contrat de travail]
 - Un licenciement demeure possible pendant la suspension pour un motif totalement étranger : faute commise dans l'exécution des obligations accessoires, motif économique, ou [[Trouble au bon fonctionnement de l'entreprise\|Trouble au bon fonctionnement de l'entreprise]]. L'absence justifiée ne constitue jamais un abandon de poste fautif.
 
 ##### B. Protection en cas de maternité ([[Art. L. 1225-4 C. trav.\|Art. L. 1225-4 C. trav.]])
-- **Protection absolue pendant le congé de maternité** : Interdiction totale de notifier un licenciement, mais également **interdiction de prendre toute mesure préparatoire** (==[[Cass. Soc., 01 février 2017\|Cass. Soc., 01 février 2017]]==) ou d'adresser une convocation à l'entretien préalable pendant cette période (==[[Cass. Soc., 29 novembre 2023\|Cass. Soc., 29 novembre 2023]]==). Sanction : nullité de plein droit du licenciement pour discrimination (droit à réintégration ou indemnité minimale de 6 mois de salaire assortie des salaires d'éviction).
+- **Protection absolue pendant le congé de maternité** : Interdiction totale de notifier un licenciement, mais également **interdiction de prendre toute mesure préparatoire** (==[[Cass. soc., 1 février 2017\|Cass. soc., 1 février 2017]]==) ou d'adresser une convocation à l'entretien préalable pendant cette période (==[[Cass. soc., 29 novembre 2023\|Cass. soc., 29 novembre 2023]]==). Sanction : nullité de plein droit du licenciement pour discrimination (droit à réintégration ou indemnité minimale de 6 mois de salaire assortie des salaires d'éviction).
 - **Protection relative avant et après le congé** : Dès la déclaration médicale de l'état de grossesse (justifiable sous 15 jours) et pendant les **10 semaines suivant le retour**, la salariée ne peut être licenciée que pour **faute grave** non liée à l'état de grossesse ou pour impossibilité de maintenir le contrat pour un motif étranger (motif économique avéré).
 
 ##### C. Protection en cas de maladie
 - **Pendant l'arrêt de travail** : Interdiction absolue de licencier un salarié en raison de son état de santé ([[Art. L. 1132-1 C. trav.\|Art. L. 1132-1 C. trav.]]).
-  - *Exception jurisprudentielle* : Licenciement fondé sur le **[[Trouble au bon fonctionnement de l'entreprise\|Trouble au bon fonctionnement de l'entreprise]]** dû à une absence prolongée ou à des absences répétées perturbant gravement l'activité, sous la condition cumulative obligatoire d'un **remplacement définitif du salarié par l'embauche d'un tiers en CDI** (==[[Cass. Ass. 22 avril 2011\|Cass. Ass. 22 avril 2011]]==).
+  - *Exception jurisprudentielle* : Licenciement fondé sur le **[[Trouble au bon fonctionnement de l'entreprise\|Trouble au bon fonctionnement de l'entreprise]]** dû à une absence prolongée ou à des absences répétées perturbant gravement l'activité, sous la condition cumulative obligatoire d'un **remplacement définitif du salarié par l'embauche d'un tiers en CDI** (==[[Cass. Ass. Plén., 22 avril 2011\|Cass. Ass. Plén., 22 avril 2011]]==).
 - **À l'issue de l'arrêt de travail** : Si le médecin du travail déclare le salarié inapte lors de la visite médicale de reprise, l'employeur a l'obligation de rechercher un reclassement sur un poste adapté. Si le reclassement est impossible ou refusé par le salarié, le licenciement est prononcé pour inaptitude médicale et impossibilité de reclassement, justifié par l'obligation de sécurité de l'employeur.
 
 #### III. Le droit à réintégration
@@ -87,7 +87,7 @@ Aux termes de l'==[[Art. L. 1232-1 C. trav.\|Art. L. 1232-1 C. trav.]]==, tout l
 #### I. La notion de cause réelle et sérieuse
 1. **Une cause réelle** :
    - *Matérialité objective* : Les faits reprochés doivent être matériellement vérifiables et exister dans la réalité (non forgés ni fictifs).
-   - *Exactitude du motif véritable* : Le juge écarte la cause apparente invoquée par l'employeur pour rechercher la cause réelle et profonde de la rupture (==[[Cass. Soc., 18 octobre 1990\|Cass. Soc., 18 octobre 1990]]== : vol dérisoire de quelques pots de confiture masquant en réalité un témoignage rendu par la salariée dans le cadre du divorce de son employeur).
+   - *Exactitude du motif véritable* : Le juge écarte la cause apparente invoquée par l'employeur pour rechercher la cause réelle et profonde de la rupture (==[[Cass. soc., 18 octobre 1990\|Cass. soc., 18 octobre 1990]]== : vol dérisoire de quelques pots de confiture masquant en réalité un témoignage rendu par la salariée dans le cadre du divorce de son employeur).
 2. **Une cause sérieuse** :
    - Les griefs doivent revêtir une gravité suffisante pour rendre impossible la poursuite de la relation contractuelle sans préjudice direct pour l'entreprise (exigence de proportionnalité).
 
@@ -100,7 +100,7 @@ Aux termes de l'==[[Art. L. 1232-1 C. trav.\|Art. L. 1232-1 C. trav.]]==, tout l
 Le licenciement pour motif personnel ne suppose pas nécessairement une faute :
 
 1. **Rejet de la perte de confiance** :
-   - Par un revirement jurisprudentiel de principe (==[[Cass. Soc., 29 mai 2001\|Cass. Soc., 29 mai 2001]]==), la Cour de cassation affirme que **la perte de confiance ne peut jamais constituer en soi une cause de licenciement**, le juge ne pouvant admettre de motivations subjectives.
+   - Par un revirement jurisprudentiel de principe (==[[Cass. soc., 29 mai 2001\|Cass. soc., 29 mai 2001]]==), la Cour de cassation affirme que **la perte de confiance ne peut jamais constituer en soi une cause de licenciement**, le juge ne pouvant admettre de motivations subjectives.
 2. **L'[[Insuffisance professionnelle\|Insuffisance professionnelle]]** :
    - Définie comme l'incompétence ou le manque de capacités du salarié à exécuter convenablement ses missions.
    - Ne constituant pas une faute (l'incompétence non volontaire n'est pas fautive), elle ne peut donner lieu à une sanction disciplinaire, mais justifie un licenciement pour cause réelle et sérieuse si elle perturbe objectivement l'exploitation de l'entreprise.
@@ -114,7 +114,7 @@ Le licenciement pour motif personnel ne suppose pas nécessairement une faute :
 - [[Charge de la preuve de la cause réelle et sérieuse\|Charge de la preuve de la cause réelle et sérieuse]]
 - [[Trouble au bon fonctionnement de l'entreprise\|Trouble au bon fonctionnement de l'entreprise]]
 - [[Insuffisance professionnelle\|Insuffisance professionnelle]]
-- [[18 janvier 1995 - Grève\|18 janvier 1995 - Grève]]
+- [[Grève\|Grève]]
 - [[Art. L. 1225-4 C. trav.\|Art. L. 1225-4 C. trav.]]
 - [[Art. L. 1225-17 C. trav.\|Art. L. 1225-17 C. trav.]]
 - [[Art. L. 1231-1 C. trav.\|Art. L. 1231-1 C. trav.]]
@@ -123,18 +123,18 @@ Le licenciement pour motif personnel ne suppose pas nécessairement une faute :
 - [[Art. L. 2511-1 C. trav.\|Art. L. 2511-1 C. trav.]]
 - [[Art. L. 3123-12 C. trav.\|Art. L. 3123-12 C. trav.]]
 - [[Art. L. 1132-1 C. trav.\|Art. L. 1132-1 C. trav.]]
-- [[Cass. Soc., 24 janvier 2001\|Cass. Soc., 24 janvier 2001]]
-- [[Cass. Soc., 24 avril 2001\|Cass. Soc., 24 avril 2001]]
-- [[Cass. Soc., 14 janvier 2015\|Cass. Soc., 14 janvier 2015]]
-- [[Cass. Soc., 3 juin 2003\|Cass. Soc., 3 juin 2003]]
-- [[Cass. Soc., 26 janvier 2011\|Cass. Soc., 26 janvier 2011]]
-- [[Cass. Soc., 24 mars 2010\|Cass. Soc., 24 mars 2010]]
-- [[Cass. Soc., 22 février 2017\|Cass. Soc., 22 février 2017]]
-- [[Cass. Soc., 01 février 2017\|Cass. Soc., 01 février 2017]]
-- [[Cass. Soc., 29 novembre 2023\|Cass. Soc., 29 novembre 2023]]
-- [[Cass. Ass. 22 avril 2011\|Cass. Ass. 22 avril 2011]]
-- [[Cass. Soc., 18 octobre 1990\|Cass. Soc., 18 octobre 1990]]
-- [[Cass. Soc., 29 mai 2001\|Cass. Soc., 29 mai 2001]]
+- [[Cass. soc., 24 janvier 2001\|Cass. soc., 24 janvier 2001]]
+- [[Cass. soc., 24 avril 2001\|Cass. soc., 24 avril 2001]]
+- [[Cass. soc., 14 janvier 2015\|Cass. soc., 14 janvier 2015]]
+- [[Cass. soc., 3 juin 2003\|Cass. soc., 3 juin 2003]]
+- [[Cass. soc., 26 janvier 2011\|Cass. soc., 26 janvier 2011]]
+- [[Cass. soc., 24 mars 2010\|Cass. soc., 24 mars 2010]]
+- [[Cass. soc., 22 février 2017\|Cass. soc., 22 février 2017]]
+- [[Cass. soc., 1 février 2017\|Cass. soc., 1 février 2017]]
+- [[Cass. soc., 29 novembre 2023\|Cass. soc., 29 novembre 2023]]
+- [[Cass. Ass. Plén., 22 avril 2011\|Cass. Ass. Plén., 22 avril 2011]]
+- [[Cass. soc., 18 octobre 1990\|Cass. soc., 18 octobre 1990]]
+- [[Cass. soc., 29 mai 2001\|Cass. soc., 29 mai 2001]]
 - [[Cass. soc., 18 janvier 1995\|Cass. soc., 18 janvier 1995]]
 - [[Conseil de Prud'hommes\|Conseil de Prud'hommes]]
 - [[Cour de cassation\|Cour de cassation]]

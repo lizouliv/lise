@@ -1,7 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-18-decembre-1997/","ctime":"2026-10-15T14:30:44.982+02:00","mtime":"2026-11-08T19:00:01.075+01:00","dg-note-properties":{"date created":"2026-10-15, 14 30","date modified":"2026-11-08, 18 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-18-decembre-1997/","ctime":"2026-10-15T14:30:44.982+02:00","mtime":"2026-11-18T17:23:08.627+01:00","dg-note-properties":{"date created":"2026-10-15, 14 30","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
 # Cass. soc., 18 décembre 1997
 
+**Référence :** Cour de cassation, Chambre sociale, 18 décembre 1997, n° 95-43.409
+
+> « Une clause de non-concurrence peut valablement interdire toute activité dans une entreprise concurrente, dès l'instant qu'elle est nécessaire à la protection des intérêts légitimes de l'entreprise et qu'elle n'empêche pas le salarié de retrouver un emploi conforme à sa formation et à son expérience professionnelle. »
+
+**Apport :** La clause de non-concurrence ne doit pas aboutir à une interdiction absolue pour le salarié d'exercer un emploi correspondant à sa qualification.
+
+**Cité dans :** [[Exos TD 3 - Les clauses spécifiques du contrat de travail\|Exos TD 3 - Les clauses spécifiques du contrat de travail]], [[Éxecution et rupture du contrat de travail\|Éxecution et rupture du contrat de travail]], [[Éxécution du contrat de travail - Période d'essai et clauses spécifiques\|Éxécution du contrat de travail - Période d'essai et clauses spécifiques]]

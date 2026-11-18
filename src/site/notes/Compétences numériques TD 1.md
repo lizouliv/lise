@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences-numeriques-td-1/","ctime":"2026-11-12T01:04:49.789+01:00","mtime":"2026-11-12T18:01:15.141+01:00","dg-note-properties":{"date created":"2026-11-12, 1 04","date modified":"2026-11-12, 18 01","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Compétences numériques]]","form":"[[References/TD]]","part":"[[References/1]]"}}
+{"dg-publish":true,"permalink":"/competences-numeriques-td-1/","ctime":"2026-11-18T19:02:28.226+01:00","mtime":"2026-11-18T19:06:50.177+01:00","dg-note-properties":{"date created":"2026-11-12, 1 04","date modified":"2026-11-18, 19 06","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Compétences numériques]]","form":"[[References/TD]]","part":"[[References/1]]"}}
 ---
 
 
@@ -11,8 +11,7 @@
 ---
 
 ## Livrables prêts à l'emploi (Dossier `Attachments/TD1 Livrables/`)
-- **Document ODT (5 pages) :** `Attachments/TD1 Livrables/Alcool_et_performances_scolaires.odt`
-- **Document PDF exporté (5 pages) :** `Attachments/TD1 Livrables/Alcool_et_performances_scolaires.pdf`
+- **Document ODT (5 pages) :** `Attachments/TD1 Livrables/Alcool_et_performances_scolaires.odt
 - **Fichier de concordance SDI :** `Attachments/TD1 Livrables/concordance_lexicale.sdi`
 - **Archive ZIP finale à déposer :** `Attachments/TD1 Livrables/TD_Competences_Numeriques_Alcool_Performances.zip`
 - **Images libres de droits :** dans `Attachments/TD1 Livrables/illustrations/` (CC0 et CC BY).

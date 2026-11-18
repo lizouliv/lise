@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/droit-de-l-union-europeenne-et-constitution/","ctime":"2026-10-22T16:34:35.525+02:00","mtime":"2026-11-12T15:42:24.983+01:00","dg-note-properties":{"date created":"2026-10-22, 16 34","date modified":"2026-11-05, 16 27","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/1]]"}}
+{"dg-publish":true,"permalink":"/droit-de-l-union-europeenne-et-constitution/","ctime":"2026-10-22T16:34:35.525+02:00","mtime":"2026-11-18T17:06:59.346+01:00","dg-note-properties":{"date created":"2026-10-22, 16 34","date modified":"2026-11-18, 17 05","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/1]]"}}
 ---
 
 
@@ -51,7 +51,7 @@
 * **Jurisprudence d'obstruction** : ==[[Arrêt Ministre de l'Intérieur c. Cohn-Bendit\|Arrêt Ministre de l'Intérieur c. Cohn-Bendit]] (Conseil d'État Ass., 22 décembre 1978)==.
   * **Règle posée** : Le Conseil d'État juge qu'une directive ne peut pas être invoquée par un particulier à l'appui d'un recours contre un **acte administratif individuel**, la directive ne s'adressant qu'aux États.
 * **Assouplissements jurisprudentiels progressifs** :
-  * Possibilité d'invoquer la directive contre un **acte réglementaire** national (CE, 1989, *[[Arrêt Compagnie Alitalia\|Arrêt Compagnie Alitalia]]*).
+  * Possibilité d'invoquer la directive contre un **acte réglementaire** national (CE, 1989, *[[CE, 3 février 1989, Compagnie Alitalia\|Arrêt Compagnie Alitalia]]*).
   * Invocabilité par voie d'exception d'illégalité de la loi fondant l'acte individuel (CE, 1992, *[[Arrêt SA Rothmans International\|Arrêt SA Rothmans International]]*).
 
 ### 3. La consécration complète de l'effet direct des directives

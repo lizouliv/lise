@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-23-mai-2007/","ctime":"2026-10-14T00:07:45.345+02:00","mtime":"2026-11-08T19:00:01.087+01:00","dg-note-properties":{"date created":"2026-10-14, 0 07","date modified":"2026-11-08, 18 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-23-mai-2007/","ctime":"2026-10-14T00:07:45.345+02:00","mtime":"2026-11-18T17:23:08.637+01:00","dg-note-properties":{"date created":"2026-10-14, 0 07","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
 # Cass. soc., 23 mai 2007
+
+**Référence :** Cour de cassation, Chambre sociale, 23 mai 2007, n° 06-41.338
+
+> « La période d'essai est valablement suspendue et peut donc être prolongée pour une durée correspondante lorsque le salarié a pris un congé durant cette période. »
+
+**Apport :** Toute suspension du contrat pendant la période d'essai (maladie, accident, congés) entraîne sa **prolongation** d'une durée équivalente à l'absence effective du salarié.
+
+**Cité dans :** [[Le recrutement du salarié\|Le recrutement du salarié]]

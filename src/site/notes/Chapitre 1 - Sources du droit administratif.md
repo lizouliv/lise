@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-1-sources-du-droit-administratif/","tags":["admin","CM","droit","AES/S3"],"ctime":"2026-09-24T16:30:42.193+02:00","mtime":"2026-11-12T15:42:40.093+01:00","dg-note-properties":{"date created":"2026-09-24, 16 30","date modified":"2026-11-12, 15 39","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/1]]","tags":["admin","CM","droit","AES/S3"]}}
+{"dg-publish":true,"permalink":"/chapitre-1-sources-du-droit-administratif/","tags":["admin","CM","droit","AES/S3"],"ctime":"2026-09-24T16:30:42.193+02:00","mtime":"2026-11-18T17:24:13.083+01:00","dg-note-properties":{"date created":"2026-09-24, 16 30","date modified":"2026-11-18, 17 24","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/1]]","tags":["admin","CM","droit","AES/S3"]}}
 ---
 
 
@@ -21,7 +21,7 @@
 		3. **La Charte de l'environnement**, rédigée en 2004 et insérée en **2005** sur les garanties des Droits en termes de **liberté humaine**
    
 	3. **Les principes à valeur constitutionnelle**, les principes **non-écrits** qui résultent du conseil constitutionnel
-	- Ex. une décision de **1979** sur le **principe de continuité des services publics**, notamment vis à vis de sa symbiose avec le **droit de grève** (*[[normes constitutionnelles alinéa 7\|normes constitutionnelles alinéa 7]]*) 
+	- Ex. une décision de **1979** sur le **principe de continuité des services publics**, notamment vis à vis de sa symbiose avec le **droit de grève** (*Préambule de 1946, alinéa 7*) 
 ### b. Normes constitutionnelles comme limite à l'administration
 ## B - Normes internationales et européennes
 ## C - Normes en droit
