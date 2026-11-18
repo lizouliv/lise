@@ -47,8 +47,8 @@
 > | [[Homo oeconomicus\|Homo oeconomicus]]                                           | [[Adam Smith\|Adam Smith]]                                                           |
 > | [[Théorie de la valeur\|Théorie de la valeur]]                                   | [[Adam Smith\|Adam Smith]]                                                           |
 > | [[Théorie de la valeur\|Théorie de la valeur]]                                   | [[David Ricardo\|David Ricardo]]                                                     |
-> | [[Alfred Marshall\|Alfred Marshall]]                                             | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Adam Smith\|Adam Smith]]                                                       | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
+> | [[Alfred Marshall\|Alfred Marshall]]                                             | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Baisse tendancielle du taux de profit\|Baisse tendancielle du taux de profit]] | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Carl Menger\|Carl Menger]]                                                     | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[David Ricardo\|David Ricardo]]                                                 | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
@@ -63,7 +63,6 @@
 > | [[William Stanley Jevons\|William Stanley Jevons]]                               | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Équilibre général\|Équilibre général]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Équilibre partiel\|Équilibre partiel]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
-> | [[Plus-value\|Plus-value]]                                                       | [[L'impôt sur les sociétés.md\|L'impôt sur les sociétés]]                               |
 > 
 { .block-language-dataview}
 >

@@ -5,9 +5,9 @@
 
 [[DOC 1.mp3]]
 [DOC 2.pdf](/img/user/DOC%202.pdf)
-[[DOC 3.mp4\|DOC 3.mp4]]
+[[DOC 3.mp4]]
 [DOC 4.pdf](/img/user/DOC%204.pdf)
-[[DOC 5.mp4\|DOC 5.mp4]]
+[[DOC 5.mp4]]
 [DOC 6.pdf](/img/user/DOC%206.pdf)
 [DOC 7.pdf](/img/user/DOC%207.pdf)
 [DOC 8.pdf](/img/user/DOC%208.pdf)

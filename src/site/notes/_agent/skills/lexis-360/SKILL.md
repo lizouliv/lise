@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agent/skills/lexis-360/skill/","ctime":"2026-11-18T17:24:42.826+01:00","mtime":"2026-11-18T18:54:31.361+01:00","dg-note-properties":{"date created":"2026-11-18, 17 25","date modified":"2026-11-18, 18 55","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"lexis-360","description":"Audite les cours de droit du coffre Obsidian pour dresser la liste priorisée des fiches Lexis 360 Intelligence (Fiches pédagogiques, Fiches pratiques, Synthèses JurisClasseur) manquantes à télécharger manuellement, exploite les renvois internes des PDF locaux et intègre les nouveaux PDF téléchargés dans le coffre."}}
+{"dg-publish":true,"permalink":"/agent/skills/lexis-360/skill/","ctime":"2026-11-18T17:24:42.826+01:00","mtime":"2026-11-18T19:09:04.068+01:00","dg-note-properties":{"date created":"2026-11-18, 17 25","date modified":"2026-11-18, 19 09","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"lexis-360","description":"Audite les cours de droit du coffre Obsidian pour dresser la liste priorisée des fiches Lexis 360 Intelligence (Fiches pédagogiques, Fiches pratiques, Synthèses JurisClasseur) manquantes à télécharger manuellement, exploite les renvois internes des PDF locaux et intègre les nouveaux PDF téléchargés dans le coffre."}}
 ---
 
 
@@ -48,17 +48,19 @@ Pour chaque matière juridique du périmètre :
 4. N'utiliser `Drive/Josepha/` qu'en référence secondaire si une matière n'a pas encore de plan ou de CM personnel complet (en le mentionnant explicitement).
 
 ### Étape 3 : Extraction des renvois exacts depuis les PDF Lexis locaux
-La section 4 du rapport de [inventory_lexis.py](./scripts/inventory_lexis.py) liste les PDF locaux contenant des renvois vers des fiches/synthèses absentes du coffre.
+La section 5 du rapport de [inventory_lexis.py](./scripts/inventory_lexis.py) liste les PDF locaux contenant des renvois vers des fiches/synthèses absentes du coffre.
 - Ouvrir ces PDF **directement avec `read_file`** (les flux internes des PDF Lexis encodent le texte en glyphes CID ; `read_file` est le moyen fiable d'en extraire le texte).
 - Lire en priorité les **pages 1 à 3** de chaque *Fiche pédagogique* :
   - Section **`3.1. Synthèses JurisClasseur`** et **`3.2. Fascicules JurisClasseur`** $\rightarrow$ titres exacts des synthèses et fascicules associés.
   - En-tête et corps / encadrés `Connaissances` $\rightarrow$ renvois inline `V. Fiche pédagogique n° XXXX : Titre` et `V. Fiche pratique n° XXXX : Titre`.
 - Recouper chaque titre/numéro trouvé avec la liste locale de l'étape 1 (attention aux fiches de méthodologie déjà présentes sous un nom personnalisé, ex. `Maîtriser le commentaire d'arrêt.pdf` ou `Résoudre un cas pratique - Lexis 360 Intelligence.pdf`).
 
-### Étape 4 : Analyse des écarts (Gap Analysis) et priorisation
-Croiser les chapitres/TD (étape 2) avec les PDF déjà présents et les renvois extraits (étape 3), puis classer les documents manquants selon deux niveaux :
-- **Priorité 1 (Immédiat) :** thèmes déjà vus en CM ou travaillés en TD, fiches sœurs directement appelées par les fiches du cours, ou matières juridiques quasiment dépourvues de PDF Lexis.
-- **Priorité 2 (À venir / Approfondissement) :** chapitres marqués `(à venir)` dans le syllabus, compléments de méthodologie manquants (ex. dissertation/cas pratique/note de synthèse si absents) et *Synthèses JurisClasseur* de consolidation.
+### Étape 4 : Analyse des écarts (Gap Analysis) et calibration AES (20 h)
+Croiser les chapitres/TD (étape 2) avec les PDF déjà présents et les renvois extraits (étape 3) en respectant le **profil du cursus (L2 AES, cours magistraux ~20 h, niveau non poussé)** :
+- **Périmètre méthodologique :** Pas de dissertation juridique (`n° 3335` inutile) ; privilégier uniquement les exercices pratiqués en cours/TD (questions de raisonnement court, cas pratique, lecture/commentaire d'arrêt).
+- **Périmètre doctrinal :** Ne **pas** recommander de *Synthèses* ni de *Fascicules JurisClasseur* (trop denses pour des cours de 20 h), sauf demande expresse de l'utilisateur.
+- **Priorité 1 (Utile / Lacune réelle) :** thème déjà vu en CM ou travaillé en TD qui n'a encore **aucune** fiche dédiée (ex. BIC en fiscalité si absent), ou matière juridique quasiment dépourvue de PDF Lexis.
+- **Priorité 2 (Optionnel / À venir) :** chapitres marqués `(à venir)` dans le syllabus s'ils tiennent effectivement dans les 20 h du semestre. Si tous les thèmes du programme utile sont déjà couverts par les *Fiches pédagogiques* / *Fiches pratiques* locales, indiquer clairement qu'aucun téléchargement supplémentaire n'est nécessaire.
 
 > [!IMPORTANT]
 > **Règle stricte anti-hallucination :** Ne jamais inventer un numéro `n° XXXX` de Fiche pédagogique/pratique ni une référence *JurisClasseur*. N'afficher un numéro exact que s'il a été lu directement dans un PDF du coffre via `read_file` à l'étape 3 ; dans tous les autres cas, formuler une suggestion par thème exact du cours accompagnée des mots-clés de recherche.
@@ -69,7 +71,7 @@ Présenter un compte-rendu clair et directement utilisable :
 2. **Checklist de téléchargement par matière** (classée par **Priorité 1** puis **Priorité 2**), précisant pour chaque document :
    - Intitulé et référence exacte (si lue à l'étape 3) ;
    - Lien direct avec le cours / TD / fiche qui y renvoie ;
-   - **Requête recommandée** dans la barre de recherche **Lexis 360 Intelligence** et filtre conseillé (*Fiches pédagogiques*, *Synthèses JurisClasseur*, *Fiches pratiques*).
+   - **Requête recommandée** dans la barre de recherche **Lexis 360 Intelligence** et filtre conseillé (*Fiches pédagogiques*, *Fiches pratiques* ; n'ajouter *Synthèses JurisClasseur* qu'en cas de besoin approfondi).
 3. **Prochaine étape :** inviter l'utilisateur à déposer les nouveaux PDF dans le coffre puis à demander l'intégration (**Mode 2**).
 
 ---
