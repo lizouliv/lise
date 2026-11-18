@@ -1,6 +1,0 @@
----
-{"dg-publish":true,"permalink":"/abroge-le-4-mai-2012/","ctime":"2026-10-05T11:45:13.025+02:00","mtime":"2026-11-08T19:12:06.700+01:00","dg-note-properties":{"date created":"2026-10-05, 11 45","date modified":"2026-11-08, 18 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null,"tags":[]}}
----
-
-
-# abrogé le 4 mai 2012
