@@ -16,8 +16,39 @@
 >  | Articles                                                                            | Chapitre                                                                                |
 > | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 > | [[Plus-value\|Plus-value]]                                                       | [[TD Séance 3 - Fiscalité des entreprises\|TD Séance 3 - Fiscalité des entreprises]] |
-> | [[Adam Smith\|Adam Smith]]                                                       | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
+> | [[Équilibre partiel\|Équilibre partiel]]                                         | [[Alfred Marshall\|Alfred Marshall]]                                                 |
+> | [[Baisse tendancielle du taux de profit\|Baisse tendancielle du taux de profit]] | [[Karl Marx\|Karl Marx]]                                                             |
+> | [[Plus-value\|Plus-value]]                                                       | [[Karl Marx\|Karl Marx]]                                                             |
+> | [[Théorie de la valeur\|Théorie de la valeur]]                                   | [[Karl Marx\|Karl Marx]]                                                             |
+> | [[Adam Smith\|Adam Smith]]                                                       | [[Théorie de la valeur\|Théorie de la valeur]]                                       |
+> | [[David Ricardo\|David Ricardo]]                                                 | [[Théorie de la valeur\|Théorie de la valeur]]                                       |
+> | [[Karl Marx\|Karl Marx]]                                                         | [[Théorie de la valeur\|Théorie de la valeur]]                                       |
+> | [[Marginalisme\|Marginalisme]]                                                   | [[Théorie de la valeur\|Théorie de la valeur]]                                       |
+> | [[Utilité marginale\|Utilité marginale]]                                         | [[Théorie de la valeur\|Théorie de la valeur]]                                       |
+> | [[Karl Marx\|Karl Marx]]                                                         | [[Plus-value\|Plus-value]]                                                           |
+> | [[Karl Marx\|Karl Marx]]                                                         | [[Baisse tendancielle du taux de profit\|Baisse tendancielle du taux de profit]]     |
+> | [[Plus-value\|Plus-value]]                                                       | [[Baisse tendancielle du taux de profit\|Baisse tendancielle du taux de profit]]     |
+> | [[Carl Menger\|Carl Menger]]                                                     | [[Marginalisme\|Marginalisme]]                                                       |
+> | [[Homo oeconomicus\|Homo oeconomicus]]                                           | [[Marginalisme\|Marginalisme]]                                                       |
+> | [[Léon Walras\|Léon Walras]]                                                     | [[Marginalisme\|Marginalisme]]                                                       |
+> | [[Utilité marginale\|Utilité marginale]]                                         | [[Marginalisme\|Marginalisme]]                                                       |
+> | [[William Stanley Jevons\|William Stanley Jevons]]                               | [[Marginalisme\|Marginalisme]]                                                       |
+> | [[Adam Smith\|Adam Smith]]                                                       | [[Homo oeconomicus\|Homo oeconomicus]]                                               |
+> | [[Marginalisme\|Marginalisme]]                                                   | [[Homo oeconomicus\|Homo oeconomicus]]                                               |
+> | [[Léon Walras\|Léon Walras]]                                                     | [[Équilibre général\|Équilibre général]]                                             |
+> | [[Alfred Marshall\|Alfred Marshall]]                                             | [[Équilibre partiel\|Équilibre partiel]]                                             |
+> | [[Léon Walras\|Léon Walras]]                                                     | [[Vilfredo Pareto\|Vilfredo Pareto]]                                                 |
+> | [[Marginalisme\|Marginalisme]]                                                   | [[Léon Walras\|Léon Walras]]                                                         |
+> | [[Équilibre général\|Équilibre général]]                                         | [[Léon Walras\|Léon Walras]]                                                         |
+> | [[Marginalisme\|Marginalisme]]                                                   | [[Carl Menger\|Carl Menger]]                                                         |
+> | [[Utilité marginale\|Utilité marginale]]                                         | [[Carl Menger\|Carl Menger]]                                                         |
+> | [[Marginalisme\|Marginalisme]]                                                   | [[William Stanley Jevons\|William Stanley Jevons]]                                   |
+> | [[Utilité marginale\|Utilité marginale]]                                         | [[William Stanley Jevons\|William Stanley Jevons]]                                   |
+> | [[Homo oeconomicus\|Homo oeconomicus]]                                           | [[Adam Smith\|Adam Smith]]                                                           |
+> | [[Théorie de la valeur\|Théorie de la valeur]]                                   | [[Adam Smith\|Adam Smith]]                                                           |
+> | [[Théorie de la valeur\|Théorie de la valeur]]                                   | [[David Ricardo\|David Ricardo]]                                                     |
 > | [[Alfred Marshall\|Alfred Marshall]]                                             | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
+> | [[Adam Smith\|Adam Smith]]                                                       | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Baisse tendancielle du taux de profit\|Baisse tendancielle du taux de profit]] | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Carl Menger\|Carl Menger]]                                                     | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[David Ricardo\|David Ricardo]]                                                 | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
@@ -32,6 +63,7 @@
 > | [[William Stanley Jevons\|William Stanley Jevons]]                               | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Équilibre général\|Équilibre général]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
 > | [[Équilibre partiel\|Équilibre partiel]]                                         | [[Karl Marx et la Révolution Marginaliste\|Karl Marx et la Révolution Marginaliste]] |
+> | [[Plus-value\|Plus-value]]                                                       | [[L'impôt sur les sociétés.md\|L'impôt sur les sociétés]]                               |
 > 
 { .block-language-dataview}
 >

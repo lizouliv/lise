@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exos-td-3-les-clauses-specifiques-du-contrat-de-travail/","ctime":"2026-11-07T23:41:06.144+01:00","mtime":"2026-11-08T20:52:39.362+01:00","dg-note-properties":{"date created":"2026-11-07, 23 41","date modified":"2026-11-08, 20 52","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/3]]"}}
+{"dg-publish":true,"permalink":"/exos-td-3-les-clauses-specifiques-du-contrat-de-travail/","ctime":"2026-11-07T23:41:06.144+01:00","mtime":"2026-11-16T16:06:52.701+01:00","dg-note-properties":{"date created":"2026-11-07, 23 41","date modified":"2026-11-16, 16 07","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/3]]"}}
 ---
 
 
@@ -11,16 +11,15 @@
 
 # Partie I : Analyse d'arrêts
 
-### Exercice 1 : Cass. soc., 15 décembre 2010 – Motif étranger aux aptitudes et rupture abusive en période d'essai
+### Exercice 1 : Cass. soc., 15 décembre 2010
 - **Catégorie :** Analyse d'arrêt – Période d'essai (finalité légale et abus de droit)
-- **Méthode de référence :** `[[Méthodo td travail#Méthodo commentaire d'arrêt]]`
 
 > [!abstract] Énoncé synthétique
 > Mme X a été engagée en qualité de serveuse par la société Hôtel Le Galaxie sous [[CDD\|CDD]] saisonnier du 1er janvier 2007 au 31 mars 2007, assorti d'une période d'essai de 10 jours. L'employeur rompt la période d'essai le 8 janvier 2007 en raison du manque de neige l'obligeant à fermer l'établissement. La salariée saisit le [[Conseil de Prud'hommes\|Conseil de Prud'hommes]] pour contester la rupture et solliciter des indemnités. La cour d'appel de Grenoble la déboute au motif que la période d'essai convenue était de 10 jours, qu'elle a été exécutée jusqu'au 8 janvier et qu'aucune prestation n'a été fournie postérieurement. La salariée se pourvoit en cassation.
 > 
 > **Question de droit posée :** L'employeur peut-il rompre unilatéralement la période d'essai pour un motif économique et conjoncturel lié à l'absence de neige ?
 
-#### Résolution étape par étape 
+#### Résolution 
 1. **Étape 1 - Identification des hypothèses :**
    - Visa des textes fondamentaux : [[Art. L. 1221-20 C. trav.\|Art. L. 1221-20 C. trav.]], articles L. 1242-10 et L. 1242-11 du [[Code du travail\|Code du travail]]
    - Si la rupture de la période d'essai est en principe libre et dispensée de motivation obligatoire lors de sa notification, elle ne confère pas à l'employeur un pouvoir discrétionnaire ou absolu : la rupture devient fautive si elle repose sur un motif détourné ou illicite.
@@ -38,16 +37,15 @@
 
 ---
 
-### Exercice 2 : Cass. soc., 8 juillet 2015 – Formalisme et exigence de l'accord exprès au renouvellement de l'essai
+### Exercice 2 : Cass. soc., 8 juillet 2015
 - **Catégorie :** Analyse d'arrêt – Période d'essai (Conditions cumulatives et formalisme du renouvellement)
-- **Méthode de référence :** `[[Méthodo td travail#Méthodo commentaire d'arrêt]]`
 
 > [!abstract] Énoncé synthétique
 > M. X a été engagé le 17 janvier 2011 en qualité de contrôleur de gestion par la société Cobatis (CDI prévoyant une période d'essai de 3 mois renouvelable). Le 8 avril 2011, l'employeur lui remet en main propre une lettre prolongeant l'essai de 3 mois jusqu'au 16 juillet 2011. Le salarié appose sa signature sous la mention manuscrite " lettre remise en main propre contre décharge ". Le 28 juin 2011, l'employeur lui notifie la fin de son essai. Contestant la rupture, le salarié saisit la juridiction prud'homale. La cour d'appel de Reims le déboute, retenant que la signature d'un cadre supérieur sans réserve établit sa volonté non équivoque de consentir au renouvellement. Le salarié forme un pourvoi en cassation.
 > 
 > **Question de droit posée :** La signature du salarié et la mention "remise en main propre contre décharge" suffisent-elles à manifester son accord au renouvellement de la période d'essai ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses :**
    - Application de l'[[Art. L. 1221-21 C. trav.\|Art. L. 1221-21 C. trav.]]
    - Pour être juridiquement valable, le renouvellement de l'essai suppose trois conditions cumulatives :
@@ -68,16 +66,15 @@
 
 ---
 
-### Exercice 3 : Cass. soc., 10 juillet 2002 – Conditions de validité de la clause de non-concurrence et contrepartie financière
+### Exercice 3 : Cass. soc., 10 juillet 2002
 - **Catégorie :** Analyse d'arrêt – Clauses spécifiques (Arrêt de principe sur la licéité de la clause de non-concurrence)
-- **Méthode de référence :** `[[Méthodo td travail#Méthodo commentaire d'arrêt]]`
 
 > [!abstract] Énoncé synthétique
 > M. André a été engagé le 1er janvier 1993 comme responsable de magasin par la société Brossard. Son contrat comportait une clause de non-concurrence lui interdisant de s'installer à son compte pendant 2 ans dans la même branche et le même secteur, sans contrepartie financière. Licencié le 30 août 1996, il crée son entreprise le 10 mai 1997. L'ancien employeur le poursuit devant le [[Conseil de Prud'hommes\|Conseil de Prud'hommes]] pour obtenir le paiement de l'indemnité contractuelle de violation de la clause. La cour d'appel d'Angers condamne le salarié, estimant que l'existence d'une contrepartie pécuniaire n'est pas une condition de validité dès lors que la convention collective ne l'exige pas. Le salarié forme un pourvoi en cassation.
 > 
 > **Question de droit posée :** La contrepartie financière constitue-t-elle une condition de validité d'une clause de non-concurrence ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses :**
    - Visa solennel du principe fondamental de libre exercice d'une activité professionnelle et de l'[[Art. L. 1121-1 C. trav.\|Art. L. 1121-1 C. trav.]] (ancien L. 120-2 du Code du travail).
    - Portée des restrictions aux libertés fondamentales : La liberté du travail et d'entreprendre est garantie constitutionnellement ; toute clause contractuelle qui y porte atteinte doit impérativement satisfaire à un régime strict de proportionnalité et de compensation.
@@ -96,18 +93,17 @@
 
 ---
 
-### Exercice 4 : Cass. soc., 14 octobre 2008 – Clause de mobilité géographique et délimitation impérative du périmètre
+### Exercice 4 : Cass. soc., 14 octobre 2008
 - **Catégorie :** Analyse d'arrêt – Clauses spécifiques (Validité de la clause de mobilité et interdiction du périmètre évolutif)
-- **Méthode de référence :** `[[Méthodo td travail#Méthodo commentaire d'arrêt]]`
 
 > [!abstract] Énoncé synthétique
 > Mme X a été engagée le 1er janvier 2004 par l'Union des amis et compagnons d'Emmaüs (UACE) en qualité d'adjointe fédérale affectée à Bourges. Son contrat stipulait qu'elle " accepte par avance […] d'être affectée dans une communauté, en tant que responsable, en fonction des nécessités de l'UACE " et que la disponibilité portait sur toute la zone d'activité, à savoir l'ensemble du territoire où une association est ou sera implantée. Le 3 mars 2005, l'employeur lui notifie sa mutation à Tarare. Suite à son refus, elle est licenciée pour faute le 12 mai 2005. La cour d'appel de Bourges juge le licenciement fondé, considérant que la clause était claire et ne conférait pas un pouvoir unilatéral d'extension. La salariée se pourvoit en cassation.
 > 
 > **Question de droit posée :** Une clause de mobilité géographique peut-elle s'imposer unilatéralement à l'employeur ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses :**
-   - Application de l'article 1134 (devenu 1103) du Code civil relatif à la force obligatoire et à la déterminabilité de l'objet contractuel.
+   - Application de l'article 1134 (devenu [[Art. 1103 C. civ.\|Art. 1103 C. civ.]]) du Code civil relatif à la force obligatoire et à la déterminabilité de l'objet contractuel.
    - Validité de la clause de mobilité : Le salarié consentant à renoncer à la fixité de son lieu de travail, la zone d'application doit être définie de façon précise et invariable dès la souscription de l'engagement.
 1. **Étape 2 - Déroulé de l'argumentation :** (éléments de cours)
    - *Principe jurisprudentiel de précision géographique :* Une clause de mobilité doit impérativement définir avec précision sa zone géographique d'application dès la conclusion du contrat et ne peut conférer à l'employeur le pouvoir d'en étendre unilatéralement la portée.
@@ -123,18 +119,17 @@
 
 ---
 
-### Exercice 5 : Cass. soc., 14 octobre 2008 – Mise en œuvre de la mobilité géographique et conciliation avec la vie personnelle
+### Exercice 5 : Cass. soc., 14 octobre 2008 (Pricewaterhouse)
 - **Catégorie :** Analyse d'arrêt – Clauses spécifiques (Contrôle de proportionnalité et respect de la vie personnelle et familiale)
-- **Méthode de référence :** `[[Méthodo td travail#Méthodo commentaire d'arrêt]]`
 
 > [!abstract] Énoncé synthétique
 > Mme X a été engagée le 26 janvier 2001 par la société Pricewaterhouse comme consultante à Marseille, avant de passer à temps partiel dans le cadre d'un congé parental le 6 juin 2003. Son contrat prévoyait que son poste était fixé à Marseille avec faculté de déplacements impliquant l'établissement temporaire de sa résidence sur place. Suite à son refus d'accepter une mission de 3 mois en région parisienne, l'employeur la licencie le 26 février 2004. La cour d'appel d'Aix-en-Provence la déboute de sa demande de dommages-intérêts pour licenciement abusif au motif que Paris est à quelques heures de trajet de Marseille, que l'activité subsiste et que la mauvaise foi de l'employeur n'est pas établie. La salariée forme un pourvoi en cassation.
 > 
 > **Question de droit posée :** Une clause de mobilité peut-elle porter atteinte au droit à une vie personnelle et familiale ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses :**
-   - Visa de l'[[Art. L. 1121-1 C. trav.\|Art. L. 1121-1 C. trav.]] (ancien L. 120-2 du Code du travail), de l'[[Art. 8 Conv. EDH\|Art. 8 Conv. EDH]] garantissant le droit au respect de la vie privée et familiale, et de l'article 1134 du Code civil.
+   - Visa de l'[[Art. L. 1121-1 C. trav.\|Art. L. 1121-1 C. trav.]] (ancien L. 120-2 du Code du travail), de l'[[Art. 8 Conv. EDH\|Art. 8 Conv. EDH]] garantissant le droit au respect de la vie privée et familiale, et de l'article 1134 (devenu [[Art. 1103 C. civ.\|Art. 1103 C. civ.]]) du Code civil.
    - Articulation entre pouvoir de direction et droits fondamentaux : Même lorsqu'une clause de mobilité est licite dans sa rédaction, sa mise en œuvre concrète ne doit pas emporter de restrictions disproportionnées aux droits fondamentaux du salarié.
 2. **Étape 2 - Déroulé de l'argumentation :**
    - *Obligation d'un contrôle in concreto de proportionnalité :* Aux termes de l'[[Art. L. 1121-1 C. trav.\|Art. L. 1121-1 C. trav.]], nul ne peut apporter aux droits des personnes et aux libertés individuelles des restrictions qui ne seraient pas justifiées par la nature de la tâche à accomplir ni proportionnées au but recherché.
@@ -150,16 +145,15 @@
 
 ---
 
-### Exercice 6 : Cass. soc., 23 septembre 2009 – Mobilité intragroupe et prohibition du changement d'employeur
+### Exercice 6 : Cass. soc., 23 septembre 2009
 - **Catégorie :** Analyse d'arrêt – Clauses spécifiques (Nullité de la mobilité intragroupe et autonomie des personnes morales)
-- **Méthode de référence :** `[[Méthodo td travail#Méthodo commentaire d'arrêt]]`
 
 > [!abstract] Énoncé synthétique
 > M. X a été engagé en 1999 par la société Renault France Automobiles (devenue Réagroup) en qualité de responsable marketing sur le site de Caen. En janvier 2004, il signe un avenant contenant une promotion et une clause de mobilité stipulant qu'il pourra être amené à exercer ses fonctions dans toute autre société de Renault France Automobile, avec signature d'un nouveau contrat de travail auprès de la société d'accueil. Ayant refusé une mutation dans une autre filiale du groupe, il est licencié pour non-respect de sa clause de mobilité le 3 janvier 2006. La cour d'appel de Caen déclare le licenciement fondé sur une cause réelle et sérieuse, qualifiant la mutation d'un simple changement des conditions de travail relevant du pouvoir de direction. Le salarié se pourvoit en cassation.
 > 
 > **Question de droit posée :** Une clause de mobilité peut-elle contraindre un salarié à être muté auprès d'une autre personne morale ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses :**
    - Visa d'ordre public de l'article [[Art. L. 1222-1 C. trav.\|Art. L. 1222-1 C. trav.]] et principe selon lequel le contrat de travail est conclu *intuitu personae*. (de bonne foi)
    - Problématique de l'autonomie juridique des sociétés d'un groupe : Chaque filiale jouit d'une personnalité morale propre et distincte.
@@ -179,9 +173,8 @@
 
 # Partie II : Cas pratiques (Entreprise Sheldon C.)
 
-### Exercice 7 : Cas pratique 1 – Penny H. (Cadre commerciale : clause de non-concurrence et période d'essai)
+### Exercice 7 : Cas pratique 1
 - **Catégorie :** Cas pratique – Clauses spécifiques (Clause de non-concurrence et encadrement de la période d'essai cadre)
-- **Méthode de référence :** `[[Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique]]` (et `[[Éxécution du contrat de travail - Période d'essai et clauses spécifiques]]`)
 
 > [!abstract] Énoncé synthétique
 > Sheldon C., dirigeant d'une entreprise de fabrication de trains miniatures (site de Caen et établissement à Lille), recrute Penny H. comme responsable commerciale cadre à Caen. Sheldon souhaite :
@@ -190,7 +183,7 @@
 > 
 > **Questions :** Proposer les clauses adaptées, déterminer leurs conditions de validité, leurs avantages, leurs limites et identifier les erreurs juridiques de Sheldon.
 
-#### Résolution étape par étape
+#### Résolution
 
 ##### A. Sur la clause de non-concurrence de Penny
 1. **Étape 1 - Identification des hypothèses et règles de droit (Majeure) :**
@@ -232,9 +225,8 @@
 
 ---
 
-### Exercice 8 : Cas pratique 2 – Leonard H. (Agent d'entretien : illicéité de la non-concurrence et principe de faveur)
+### Exercice 8 : Cas pratique 2
 - **Catégorie :** Cas pratique – Clauses spécifiques (Incompatibilité de la non-concurrence avec un poste d'exécution & principe de faveur)
-- **Méthode de référence :** `[[Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique]]` (et `[[Éxécution du contrat de travail - Période d'essai et clauses spécifiques#B. Les cinq conditions cumulatives de validité]]`)
 
 > [!abstract] Énoncé synthétique
 > Sheldon envisage de recruter Leonard H. pour nettoyer la poussière des ateliers de Caen, avec le statut d'employé. Sheldon souhaite :
@@ -243,7 +235,7 @@
 > 
 > **Question :** Tout cela vous paraît-il juridiquement envisageable ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses (Majeure) :**
    - Validité de la non-concurrence : La première condition posée par [[Cass. soc., 10 juillet 2002\|Cass. soc., 10 juillet 2002]] exige que la clause soit **indispensable à la protection des intérêts légitimes de l'entreprise** au regard des fonctions réelles du salarié ([[Cass. soc., 18 décembre 1997\|Cass. soc., 18 décembre 1997]]).
    - Hiérarchie des normes et principe de faveur (article L. 2251-1 du Code du travail) : Les stipulations d'une convention collective étendue s'imposent au contrat de travail, sauf dispositions contractuelles plus favorables au salarié.
@@ -263,9 +255,8 @@
 
 ---
 
-### Exercice 9 : Cas pratique 3 – Howard W. (Technicien qualité : clause de mobilité géographique et détournement de pouvoir)
+### Exercice 9 : Cas pratique 3
 - **Catégorie :** Cas pratique – Clauses spécifiques (Clause de mobilité géographique, détournement de pouvoir et conciliation vie privée)
-- **Méthode de référence :** `[[Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique]]` (et `[[Éxécution du contrat de travail - Période d'essai et clauses spécifiques#Paragraphe 3 - La clause de mobilité géographique]]`)
 
 > [!abstract] Énoncé synthétique
 > Sheldon recrute Howard W. comme technicien contrôleur qualité à Caen. Il souhaite :
@@ -275,7 +266,7 @@
 > 
 > **Question :** Proposer une clause de mobilité adaptée, analyser les risques juridiques liés au motif et à la situation personnelle, et exposer ses avantages et inconvénients.
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses et règles applicables (Majeure) :**
    - Délimitation de la clause : Doit déterminer avec précision sa zone géographique d'application dès l'origine sans possibilité d'extension unilatérale future ([[Cass. soc., 14 octobre 2008\|Cass. soc., 14 octobre 2008]], Emmaüs).
    - Exécution de bonne foi et intérêt de l'entreprise : La mise en œuvre de la mobilité doit être dictée exclusivement par l'intérêt objectif de l'entreprise ([[Cass. soc., 23 février 2005\|Cass. soc., 23 février 2005]]).
@@ -297,16 +288,15 @@
 
 ---
 
-### Exercice 10 : Cas pratique 4 – Rajesh K. (Standardiste : suspension du contrat et prolongation de la période d'essai)
+### Exercice 10 : Cas pratique 4
 - **Catégorie :** Cas pratique – Période d'essai (Suspension du contrat pour maladie/accident et prolongation de plein droit)
-- **Méthode de référence :** `[[Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique]]` (et `[[Éxécution du contrat de travail - Période d'essai et clauses spécifiques#Paragraphe 1 - Précisions complémentaires sur la période d'essai]]`)
 
 > [!abstract] Énoncé synthétique
 > Rajesh K. a été embauché récemment comme standardiste avec une période d'essai d'un mois. Un mois et demi après son embauche, ses compétences sont jugées insuffisantes. Il a toutefois été arrêté pendant trois semaines à la suite d'un accident de voiture. Sheldon aimerait s'en séparer, mais pense que la période d'essai d'un mois est expirée et ne lui est plus d'aucun secours.
 > 
 > **Question :** La période d'essai est-elle réellement achevée ? Sheldon peut-il encore rompre le contrat sous le régime assoupli de l'essai ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses et règles applicables (Majeure) :**
    - Finalité de l'essai : Selon l'[[Art. L. 1221-20 C. trav.\|Art. L. 1221-20 C. trav.]], la période d'essai est destinée à apprécier le travail effectif du salarié.
    - Principe de prolongation de plein droit (Jurisprudence constante, ex. Cass. soc., 12 janvier 1993 et Cass. soc., 26 janvier 2011) : En cas de suspension du contrat de travail survenue au cours de la période d'essai (maladie, accident de trajet/travail, congés sans solde), **la période d'essai est prolongée de plein droit d'une durée rigoureusement égale à celle de l'absence du salarié**, décomptée en jours calendaires.
@@ -329,10 +319,3 @@
 
 > [!check]- Remarques méthodologiques et pièges à éviter
 > - **Attention au dépassement du terme :** Si Sheldon laisse Rajesh exécuter son délai de prévenance au-delà du terme prorogé de l'essai, le contrat se convertit instantanément en [[CDI\|CDI]] définitif et la rupture devient un licenciement sans cause réelle et sérieuse.
-
----
-
-## Méthodes et fiches mobilisées
-- `[[Méthodo td travail#Méthodo commentaire d'arrêt]]` : Exercices 1, 2, 3, 4, 5, 6
-- `[[Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique]]` : Exercices 7, 8, 9, 10
-- `[[Éxécution du contrat de travail - Période d'essai et clauses spécifiques]]` : Exercices 1, 2, 3, 4, 5, 6, 7, 8, 9, 10

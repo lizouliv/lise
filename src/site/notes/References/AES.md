@@ -14,6 +14,8 @@ views:
       and:
         - semester == link("S3")
         - "!form.isEmpty()"
+        - sector != link("Lexis")
+        - '!file.inFolder("Lexis 360")'
     order:
       - file.name
       - semester

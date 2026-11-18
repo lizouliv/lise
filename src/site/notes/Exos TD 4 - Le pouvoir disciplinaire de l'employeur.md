@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exos-td-4-le-pouvoir-disciplinaire-de-l-employeur/","ctime":"2026-11-09T19:54:47.624+01:00","mtime":"2026-11-11T20:40:14.832+01:00","dg-note-properties":{"date created":"2026-11-09, 19 50","date modified":"2026-11-11, 20 40","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/4]]"}}
+{"dg-publish":true,"permalink":"/exos-td-4-le-pouvoir-disciplinaire-de-l-employeur/","ctime":"2026-11-09T19:54:47.624+01:00","mtime":"2026-11-16T16:07:07.741+01:00","dg-note-properties":{"date created":"2026-11-09, 19 50","date modified":"2026-11-16, 16 07","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/4]]"}}
 ---
 
 
@@ -11,16 +11,15 @@
 
 # Partie I : Analyse d'arrêts
 
-### Exercice 1 : Cass. soc., 22 novembre 2017 – Liberté religieuse, clause de neutralité et souhait de la clientèle
+### Exercice 1 : Cass. soc., 22 novembre 2017
 - **Catégorie :** Analyse d'arrêt – Pouvoir disciplinaire et libertés fondamentales (Restriction à la liberté religieuse, clause de neutralité du règlement intérieur et discrimination directe)
-- **Méthode de référence :** [[Méthodo td travail#Méthodo commentaire d'arrêt\|Méthodo td travail#Méthodo commentaire d'arrêt]] (et [[Éxecution et rupture du contrat de travail#Paragraphe 1 : Le principe de non-discrimination\|Éxecution et rupture du contrat de travail#Paragraphe 1 : Le principe de non-discrimination]])
 
 > [!abstract] Énoncé synthétique
 > Mme X. a été engagée à compter du 15 juillet 2008 en [[CDI\|CDI]] par la société *Micropole Univers* (société de conseil et d'ingénierie informatique) en qualité d'ingénieure d'études. À la suite de la plainte d'une entreprise cliente souhaitant que ses interventions se fassent désormais sans port de voile afin de ne pas gêner certains de ses collaborateurs, l'employeur lui demande oralement d'ôter son foulard islamique lors de ses déplacements chez les clients. Face à son refus, elle est convoquée à un entretien préalable le 15 juin 2009 et licenciée pour faute le 22 juin 2009. La salariée saisit le [[Conseil de Prud'hommes\|Conseil de Prud'hommes]] le 10 novembre 2009 pour contester son licenciement comme discriminatoire à raison de ses convictions religieuses. La cour d'appel de Paris (18 avril 2013) juge le licenciement fondé sur une cause réelle et sérieuse au motif que la restriction était limitée aux contacts avec la clientèle et proportionnée au but recherché de préserver les intérêts de l'entreprise. La salariée se pourvoit en cassation (donnant lieu à une question préjudicielle devant la [[CJUE\|CJUE]], tranchée le 14 mars 2017).
 > 
 > **Question de droit posée :** L'employeur peut-il licencier une salariée qui refuse d'ôter son hijab dans le cadre d'une demande clientèle ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses :**
    - Visa des textes fondamentaux : [[Art. L. 1121-1 C. trav.\|Art. L. 1121-1 C. trav.]] (principe de justification et de proportionnalité des restrictions aux libertés), [[Art. L. 1132-1 C. trav.\|Art. L. 1132-1 C. trav.]] (principe de non-discrimination), articles L. 1133-1 et L. 1321-3, 2° (devenu L. 1321-2-1) du [[Code du travail\|Code du travail]], article 9 de la Convention EDH et articles 2 § 2 et 4 § 1 de la directive 2000/78/CE du 27 novembre 2000.
    - Articulation avec les deux arrêts de la [[CJUE\|CJUE]] du 14 mars 2017 (*Asma Bougnaoui*, C-188/15 et *G4S Secure Solutions*, C-157/15) distinguant la discrimination directe (interdiction ciblée ou souhait d'un client) de la discrimination indirecte potentielle susceptible d'être justifiée par une règle interne générale de neutralité.
@@ -42,16 +41,15 @@
 
 ---
 
-### Exercice 2 : Cass. soc., 2 octobre 2001 (Arrêt Nikon) – Vie privée au travail et secret des correspondances numériques
+### Exercice 2 : Cass. soc., 2 octobre 2001 (Arrêt Nikon)
 - **Catégorie :** Analyse d'arrêt – Pouvoir de contrôle et pouvoir disciplinaire (Intimité de la vie privée au temps et au lieu de travail, secret des correspondances et licéité de la preuve)
-- **Méthode de référence :** [[Méthodo td travail#Méthodo commentaire d'arrêt\|Méthodo td travail#Méthodo commentaire d'arrêt]] (et [[Éxecution et rupture du contrat de travail#D. La vie privée du salarié\|Éxecution et rupture du contrat de travail#D. La vie privée du salarié]])
 
 > [!abstract] Énoncé synthétique
 > M. X. a été engagé le 22 avril 1991 par la société *Nikon France* en qualité d'ingénieur, chef du département topographie, et a signé un accord de confidentialité en 1992. Le 29 juin 1995, il est licencié pour faute grave au motif notamment d'avoir utilisé le matériel informatique mis à sa disposition par la société à des fins personnelles pour entretenir une activité parallèle pendant ses heures de travail. Pour établir cette faute, l'employeur a consulté l'ordinateur professionnel du salarié et ouvert des messages stockés dans un fichier expressément intitulé " personnel ". Le salarié saisit le [[Conseil de Prud'hommes\|Conseil de Prud'hommes]]. La cour d'appel de Paris (22 mars 1999) juge le licenciement fondé sur une faute grave en s'appuyant sur le contenu de ces messages. Le salarié forme un pourvoi incident en cassation.
 > 
 > **Question de droit posée :** L'employeur peut-il motiver le licenciement d'un salarié via des faits obtenus au détriment du droit à la vie privée ? Le poste de travail du salarié échappe-t-il aux règles relatives au respect de la vie privée ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses :**
    - Visa solennel de l'[[Art. 8 Conv. EDH\|Art. 8 Conv. EDH]] (droit au respect de la vie privée et familiale et de la correspondance), de l'article 9 du Code civil (droit au respect de la vie privée), de l'article 9 du Code de procédure civile (loyauté et licéité de la preuve) et de l'[[Art. L. 1121-1 C. trav.\|Art. L. 1121-1 C. trav.]] (ancien article L. 120-2 du Code du travail).
    - Tension entre le pouvoir de direction/contrôle de l'employeur (propriétaire de l'outil informatique professionnel) et les droits fondamentaux du citoyen-salarié au sein de l'entreprise.
@@ -70,18 +68,17 @@
 
 ---
 
-### Exercice 3 : Cass. soc., 28 avril 2011 – Refus d'une rétrogradation disciplinaire et délai de prescription de deux mois
+### Exercice 3 : Cass. soc., 28 avril 2011
 - **Catégorie :** Analyse d'arrêt – Procédure disciplinaire et modification du contrat (Substitution de sanction après refus d'une rétrogradation et prescription de l'article L. 1332-4 C. trav.)
-- **Méthode de référence :** [[Méthodo td travail#Méthodo commentaire d'arrêt\|Méthodo td travail#Méthodo commentaire d'arrêt]] (et [[Chapitre 3 - Le pouvoir disciplinaire#III. La procédure disciplinaire et les délais légaux\|Chapitre 3 - Le pouvoir disciplinaire#III. La procédure disciplinaire et les délais légaux]])
 
 > [!abstract] Énoncé synthétique
 > Mme X., employée par la *Société d'exploitation des thermes de Divonne* en qualité de responsable des cures thermales, est convoquée à un entretien préalable le 6 février 2006. Par courrier du 1er mars 2006, l'employeur lui notifie à titre disciplinaire une rétrogradation (retrait de la gestion des cures pour ne lui laisser que le service d'hygiène, du ménage et du linge) et lui demande de signer un avenant à son contrat de travail. La salariée refuse expressément cette modification les 6 avril et 17 mai 2006 et sollicite sa réintégration dans ses fonctions antérieures. Elle est ensuite placée en arrêt maladie du 23 mai au 16 octobre 2006. Le 10 novembre 2006, l'employeur la convoque à un nouvel entretien préalable et lui notifie son licenciement disciplinaire le 30 novembre 2006. Saisie par la salariée, la cour d'appel de Lyon (6 janvier 2010) déclare le licenciement sans cause réelle et sérieuse au motif que l'employeur avait épuisé son pouvoir disciplinaire dès le 1er mars 2006 en prononçant la rétrogradation. La société forme un pourvoi en cassation.
 > 
 > **Question de droit posée :** Peut-on unilatéralement imposer une rétrogradation à sa salariée ? Le refus d'une salariée, les jours effectifs d'un arrêt maladie, sont-ils pris en compte dans la période du pouvoir disciplinaire ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses :**
-   - Visa de l'article 1134 (devenu 1103) du Code civil, des [[Art. L. 1331-1 C. trav.\|Art. L. 1331-1 C. trav.]], [[Art. L. 1332-2 C. trav.\|Art. L. 1332-2 C. trav.]] et [[Art. L. 1332-4 C. trav.\|Art. L. 1332-4 C. trav.]], ainsi que de l'article L. 1232-1 du [[Code du travail\|Code du travail]].
+   - Visa de l'article 1134 (devenu [[Art. 1103 C. civ.\|Art. 1103 C. civ.]]) du Code civil, des [[Art. L. 1331-1 C. trav.\|Art. L. 1331-1 C. trav.]], [[Art. L. 1332-2 C. trav.\|Art. L. 1332-2 C. trav.]] et [[Art. L. 1332-4 C. trav.\|Art. L. 1332-4 C. trav.]], ainsi que de l'article L. 1232-1 du [[Code du travail\|Code du travail]].
    - Articulation entre trois règles : (1) le principe selon lequel une sanction modifiant le contrat de travail requiert l'accord exprès du salarié ; (2) la faculté pour l'employeur de substituer une autre sanction en cas de refus ; (3) l'enfermement de cette substitution dans le délai légal de prescription de 2 mois.
 2. **Étape 2 - Déroulé de l'argumentation :**
    - *Erreur de droit de la cour d'appel sur l'épuisement du pouvoir disciplinaire :* Une modification du contrat de travail prononcée à titre disciplinaire (rétrogradation) ne peut jamais être imposée unilatéralement au salarié, et son acceptation ne peut résulter ni de son silence ni de la seule poursuite du travail aux conditions nouvelles. Dès lors que la salariée refuse l'avenant, la première sanction est non avenue : **l'employeur n'a pas épuisé son pouvoir disciplinaire** et peut prononcer une autre sanction (un licenciement) aux lieu et place de la sanction refusée.
@@ -98,16 +95,15 @@
 
 ---
 
-### Exercice 4 : Cass. ch. mixte, 18 mai 2007 – Courrier dépourvu de mention " personnel ", vie privée et trouble objectif
+### Exercice 4 : Cass. ch. mixte, 18 mai 2007
 - **Catégorie :** Analyse d'arrêt – Pouvoir disciplinaire et vie privée (Ouverture d'un pli non identifié comme personnel, immunité disciplinaire de la vie privée et distinction avec le trouble objectif)
-- **Méthode de référence :** [[Méthodo td travail#Méthodo commentaire d'arrêt\|Méthodo td travail#Méthodo commentaire d'arrêt]] (et [[Chapitre 3 - Le pouvoir disciplinaire#I. La faute disciplinaire\|Chapitre 3 - Le pouvoir disciplinaire#I. La faute disciplinaire]])
 
 > [!abstract] Énoncé synthétique
 > M. X., chauffeur de direction au service de la société *Haironville*, s'est fait adresser sur son lieu de travail, sous une simple enveloppe commerciale comportant uniquement son nom, sa fonction et l'adresse de l'entreprise (sans mention " personnel "), une revue destinée à des couples échangistes à laquelle il était abonné. Conformément à la pratique habituelle connue du salarié, le service du courrier a ouvert l'enveloppe et l'a déposée avec son contenu au standard. Plusieurs employés s'étant offusqués de la présence de ce magazine dans un lieu de passage, l'employeur a engagé une procédure disciplinaire ayant abouti à une rétrogradation avec baisse de salaire, matérialisée par un avenant signé par M. X. Ce dernier saisit ultérieurement le [[Conseil de Prud'hommes\|Conseil de Prud'hommes]] pour contester la sanction. La cour d'appel de Nancy (6 décembre 2004) rejette sa demande, estimant que le document obscène avait provoqué un trouble patent dans l'entreprise et porté atteinte à son image de marque ainsi qu'à son directeur. Le salarié se pourvoit en cassation.
 > 
 > **Question de droit posée :** L'employeur et les juges du fond peuvent-il se fonder sur du contenu privé, un enveloppe sous pli, pour invoquer un trouble objectif à l'entreprise ? Ce trouble objectif peut-il être motif à rétrogradation du salarié ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses :**
    - Visa de l'article 9 du Code civil (respect de la vie privée) et de l'[[Art. L. 1331-1 C. trav.\|Art. L. 1331-1 C. trav.]] (ancien article L. 122-40 du Code du travail définissant la sanction disciplinaire).
    - Examen successif par la Chambre mixte de trois moyens distincts : (1) la recevabilité de la contestation malgré la signature de l'avenant ; (2) la licéité de l'ouverture de l'enveloppe ; (3) la légalité au fond de la sanction disciplinaire.
@@ -128,16 +124,15 @@
 
 ---
 
-### Exercice 5 : Cass. soc., 3 mai 2011 – Retrait du permis de conduire dans la vie personnelle et illicéité du licenciement disciplinaire
+### Exercice 5 : Cass. soc., 3 mai 2011
 - **Catégorie :** Analyse d'arrêt – Faute disciplinaire et vie personnelle (Suspension/retrait du permis de conduire hors temps de travail et interdiction du licenciement disciplinaire)
-- **Méthode de référence :** [[Méthodo td travail#Méthodo commentaire d'arrêt\|Méthodo td travail#Méthodo commentaire d'arrêt]] (et [[Chapitre 3 - Le pouvoir disciplinaire#Évolution jurisprudentielle : faits de la vie personnelle se rattachant à la vie professionnelle\|Chapitre 3 - Le pouvoir disciplinaire#Évolution jurisprudentielle : faits de la vie personnelle se rattachant à la vie professionnelle]])
 
 > [!abstract] Énoncé synthétique
 > M. X. a été engagé en avril 1994 en qualité d'ouvrier nettoyeur par la société *Bandry* (devenue société *Challancin*) et percevait par avenant une prime réservée aux conducteurs permanents d'un véhicule de société pour aller sortir les poubelles de différentes copropriétés. Le 10 janvier 2006, il informe son employeur du retrait de son permis de conduire à la suite de la perte de la totalité de ses points pour des infractions au Code de la route commises en dehors de son temps de travail. Le 9 février 2006, l'employeur le licencie pour **faute grave** au motif qu'il n'est plus en mesure de conduire le véhicule professionnel. Saisie par le salarié, la cour d'appel de Paris (30 avril 2009) juge le licenciement dépourvu de cause réelle et sérieuse et condamne la société à lui payer un rappel de salaires de mise à pied, l'indemnité compensatrice de préavis et des dommages-intérêts. L'employeur forme un pourvoi en cassation.
 > 
 > **Question de droit posée :** Un retrait de permis issu d'infractions au Code de la route commises hors du temps de travail constitue-t-il un manquement contractuel pour faute grave ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses :**
    - Principe directeur : La lettre de licenciement fixe les limites du litige. Lorsque l'employeur prononce un licenciement pour **faute grave**, il se place sur le **terrain disciplinaire**, ce qui oblige le juge à vérifier l'existence d'une faute professionnelle imputable au salarié.
    - Frontière entre vie personnelle et obligations contractuelles ([[Chapitre 3 - Le pouvoir disciplinaire#I. La faute disciplinaire\|Chapitre 3 - Le pouvoir disciplinaire#I. La faute disciplinaire]]).
@@ -158,16 +153,15 @@
 
 # Partie II : Cas pratiques (Entreprise " Rénovation entreprise Manche " – Emmanuel M.)
 
-### Exercice 6 : Cas pratique 1 – Richard F. (Responsable RH : récidive d'injures, mutation disciplinaire à 400 km et modification du contrat)
+### Exercice 6 : Cas pratique 1
 - **Catégorie :** Cas pratique – Pouvoir disciplinaire et modification du contrat de travail (Récidive après un blâme, mutation disciplinaire hors secteur géographique et droit au refus du salarié)
-- **Méthode de référence :** [[Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique\|Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique]] (et [[Chapitre 3 - Le pouvoir disciplinaire\|Chapitre 3 - Le pouvoir disciplinaire]], [[Modification du contrat de travail d'un salarié#L'employeur peut-il changer le lieu de travail du salarié ?\|Modification du contrat de travail d'un salarié#L'employeur peut-il changer le lieu de travail du salarié ?]])
 
 > [!abstract] Énoncé synthétique
 > Emmanuel M. dirige l'entreprise " Rénovation entreprise Manche " (REM), basée à Cherbourg. Son bras droit, Richard F., responsable salarié du service RH, multiplie depuis plusieurs mois les remarques désagréables envers ses subordonnés. Il y a un mois, il a insulté une salariée en mettant en cause sa moralité, ce qui a conduit Emmanuel à lui infliger un **blâme**. Aujourd'hui, un autre salarié se plaint d'une nouvelle injure proférée par Richard mettant en cause les mœurs supposées dissolues de sa mère. Emmanuel souhaite prendre une sanction plus sévère : il envisage de muter Richard au poste de responsable du personnel dans un établissement annexe situé dans le Finistère, à environ 400 km de Cherbourg. Il se demande s'il peut le contraindre à changer de poste compte tenu de cette modification importante de son contrat de travail.
 > 
 > **Question de droit posée :** L'employeur peut-il sanctionner deux fois la même faute commise de manière répétée, et imposer unilatéralement une mutation disciplinaire ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses et règles de droit (Majeure) :**
    - *1. Faute disciplinaire, règle Non bis in idem et récidive :* Selon l'[[Art. L. 1331-1 C. trav.\|Art. L. 1331-1 C. trav.]], constitue une sanction toute mesure autre que les observations verbales prise à la suite d'un agissement fautif. En vertu du principe *Non bis in idem*, une même faute ne peut être sanctionnée deux fois. Toutefois, si le salarié commet un **nouveau fait fautif**, l'employeur peut engager de nouvelles poursuites dans le délai de 2 mois ([[Art. L. 1332-4 C. trav.\|Art. L. 1332-4 C. trav.]]) et invoquer une sanction antérieure de moins de 3 ans ([[Art. L. 1332-5 C. trav.\|Art. L. 1332-5 C. trav.]]) pour caractériser la récidive et prononcer une sanction plus lourde. De plus, l'employeur est tenu d'une obligation légale de sécurité ([[Art. L. 4121-1 C. trav.\|Art. L. 4121-1 C. trav.]]) lui imposant de protéger la santé physique et mentale des salariés contre les agissements dégradants ou injurieux d'un supérieur.
    - *2. Régime de la mutation disciplinaire et modification du contrat de travail :* En l'absence de clause de mobilité géographique valide dans le contrat de travail, le changement du lieu de travail **en dehors du même secteur géographique** constitue une **modification d'un élément essentiel du contrat de travail** ([[Modification du contrat de travail d'un salarié#En dehors du secteur géographique\|Modification du contrat de travail d'un salarié#En dehors du secteur géographique]]).
@@ -189,16 +183,15 @@
 
 ---
 
-### Exercice 7 : Cas pratique 2 – Jean-Vincent P. (Ouvrier : rixe violente et injures racistes dans un bar hors temps de travail)
+### Exercice 7 : Cas pratique 2
 - **Catégorie :** Cas pratique – Pouvoir disciplinaire et vie personnelle (Fait commis hors temps et lieu de travail, immunité disciplinaire et conditions du licenciement pour trouble objectif)
-- **Méthode de référence :** [[Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique\|Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique]] (et [[Chapitre 3 - Le pouvoir disciplinaire#I. La faute disciplinaire\|Chapitre 3 - Le pouvoir disciplinaire#I. La faute disciplinaire]], [[Éxecution et rupture du contrat de travail#D. La vie privée du salarié\|Éxecution et rupture du contrat de travail#D. La vie privée du salarié]])
 
 > [!abstract] Énoncé synthétique
 > La nuit précédente, Jean-Vincent P., ouvrier de l'entreprise REM, après une soirée alcoolisée dans un bar, a été impliqué dans une bagarre au cours de laquelle ont été échangés des injures racistes et des coups particulièrement violents ayant conduit à l'hospitalisation de deux personnes. Il est soupçonné par les enquêteurs d'être l'un des auteurs des coups les plus violents. Emmanuel est décidé à le licencier, ne serait-ce que pour le tort que sa réputation pourra causer à l'entreprise.
 > 
 > **Question de droit posée :** L'employeur peut-il licencier pour faute grave un ouvrier pour des faits privés et dont l'enquête est en cours, par crainte pour la réputation de son entreprise ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses et règles de droit (Majeure) :**
    - *1. Sur le terrain disciplinaire (Principe d'immunité de la vie personnelle) :* Selon une jurisprudence constante de la [[Cour de cassation\|Cour de cassation]] ([[Cass. soc., 16 décembre 1992\|Cass. soc., 16 décembre 1992]] ; [[Cass. ch. mixte, 18 mai 2007\|Cass. ch. mixte, 18 mai 2007]] ; [[Cass. soc., 3 mai 2011\|Cass. soc., 3 mai 2011]]), **un fait tiré de la vie personnelle du salarié, commis en dehors du temps et du lieu de travail, ne peut jamais constituer une faute disciplinaire ni justifier un licenciement disciplinaire**, quand bien même il constituerait une infraction pénale, sauf s'il se rattache à la vie professionnelle ou caractérise un manquement de l'intéressé à une obligation découlant de son contrat de travail.
    - *2. Sur le terrain non disciplinaire (Le trouble objectif caractérisé au bon fonctionnement de l'entreprise) :* Un fait de la vie personnelle ne peut justifier un licenciement **non disciplinaire** (pour cause réelle et sérieuse) que s'il engendre, compte tenu de la nature des fonctions du salarié et de la finalité propre de l'entreprise, un **trouble objectif caractérisé** dans le fonctionnement de celle-ci ([[Cass. soc., 22 janvier 1992\|Cass. soc., 22 janvier 1992]] ; [[Cass. soc., 21 mai 2002\|Cass. soc., 21 mai 2002]]). Ce trouble doit être **réel, actuel et avéré**, et non purement hypothétique ou éventuel.
@@ -218,16 +211,15 @@
 
 ---
 
-### Exercice 8 : Cas pratique 3 – Éric D. (Responsable commercial : retrait du permis de conduire le dimanche pour alcoolémie)
+### Exercice 8 : Cas pratique 3
 - **Catégorie :** Cas pratique – Pouvoir disciplinaire et vie personnelle (Retrait du permis de conduire hors temps de travail : interdiction du licenciement pour faute grave et recours au licenciement non disciplinaire)
-- **Méthode de référence :** [[Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique\|Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique]] (et [[Chapitre 3 - Le pouvoir disciplinaire#Évolution jurisprudentielle : faits de la vie personnelle se rattachant à la vie professionnelle\|Chapitre 3 - Le pouvoir disciplinaire#Évolution jurisprudentielle : faits de la vie personnelle se rattachant à la vie professionnelle]], [[Cass. soc., 3 mai 2011\|Cass. soc., 3 mai 2011]])
 
 > [!abstract] Énoncé synthétique
 > Éric D., responsable commercial au sein de l'entreprise REM, ne peut plus aller visiter les clients car il s'est vu retirer son permis de conduire pour alcoolémie supérieure aux seuils autorisés, dimanche dernier à deux heures du matin, au volant de son véhicule personnel après une soirée entre amis. Sa fonction impliquant nécessairement la conduite d'un véhicule, Emmanuel envisage de le licencier pour **faute grave**.
 > 
 > **Question de droit posée :** L'employeur peut-il licencier pour faute grave son responsable pour un retrait de permis de conduire qui fait suite à une infraction commise dans un cadre privé ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses et règles de droit (Majeure) :**
    - *1. Prohibition du licenciement disciplinaire ([[Cass. soc., 3 mai 2011\|Cass. soc., 3 mai 2011]], confirmé par [[Cass. soc., 3 mai 2011 et 4 octobre 2023\|Cass. soc., 3 mai 2011 et 4 octobre 2023]]) :* Un motif tiré de la vie personnelle du salarié ne peut, en principe, justifier un licenciement disciplinaire, sauf s'il constitue un manquement de l'intéressé à une obligation découlant de son contrat de travail. La [[Cour de cassation\|Cour de cassation]] juge de manière constante que **le fait pour un salarié qui utilise un véhicule dans l'exercice de ses fonctions de commettre, dans le cadre de sa vie personnelle, une infraction entraînant la suspension ou le retrait de son permis de conduire ne constitue pas une méconnaissance de ses obligations découlant de son contrat de travail**.
    - *2. Solution légale de repli – Le licenciement non disciplinaire pour impossibilité d'exécuter le contrat :* En revanche, lorsque la détention du permis de conduire est indispensable à l'exercice effectif des fonctions du salarié et que son retrait met l'intéressé dans l'impossibilité d'exécuter sa prestation de travail, l'employeur est fondé à prononcer un **licenciement non disciplinaire** (pour motif personnel fondé sur une cause réelle et sérieuse liée à la perturbation objective du service).
@@ -248,16 +240,15 @@
 
 ---
 
-### Exercice 9 : Cas pratique 4 – Alexandre B. (Conduite sportive avec le fourgon de l'entreprise : *Non bis in idem* et prohibition des amendes)
+### Exercice 9 : Cas pratique 4
 - **Catégorie :** Cas pratique – Sanctions interdites et épuisement du pouvoir disciplinaire (Prohibition d'ordre public des sanctions pécuniaires et règle *Non bis in idem*)
-- **Méthode de référence :** [[Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique\|Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique]] (et [[Chapitre 3 - Le pouvoir disciplinaire#II. Les sanctions interdites\|Chapitre 3 - Le pouvoir disciplinaire#II. Les sanctions interdites]])
 
 > [!abstract] Énoncé synthétique
 > Deux mois auparavant, Alexandre B., salarié de l'entreprise REM, a utilisé un fourgon de l'entreprise pour faire une démonstration clandestine de conduite sportive sur un parking désert de supermarché afin de séduire une jeune femme. Le véhicule a été sérieusement endommagé. Alexandre s'est alors vu notifier une **mise à pied disciplinaire de trois jours**. Toutefois, Emmanuel vient d'avoir connaissance du montant exact des dégâts et souhaite désormais prononcer une sanction plus grave : une **peine d'amende** pour avoir dégradé le matériel, voire un **licenciement**.
 > 
 > **Question de droit posée :** Un salarié déjà notifié de sa mise à pied peut-il par la suite se voir exercer une sanction pécuniaire par son employeur ?
 
-#### Résolution étape par étape
+#### Résolution
 1. **Étape 1 - Identification des hypothèses et règles de droit (Majeure) :**
    - *1. Prohibition absolue des amendes et sanctions pécuniaires :* Aux termes de l'[[Art. L. 1331-2 C. trav.\|Art. L. 1331-2 C. trav.]], **" Les amendes ou autres sanctions pécuniaires sont interdites. Toute disposition ou stipulation contraire est réputée non écrite. "** Cette interdiction est d'ordre public absolu (et pénalement sanctionnée). L'employeur ne peut opérer aucune retenue sur salaire ni exiger de remboursement pécuniaire pour compenser des dégradations matérielles causées par le salarié (la responsabilité pécuniaire du salarié envers son employeur ne pouvant être engagée qu'en cas de **faute lourde** caractérisée par l'intention délibérée de nuire à l'entreprise).
    - *2. Règle Non bis in idem et épuisement du pouvoir disciplinaire ([[Chapitre 3 - Le pouvoir disciplinaire#3. La règle *Non bis in idem* et l'épuisement du pouvoir disciplinaire\|Chapitre 3 - Le pouvoir disciplinaire#3. La règle *Non bis in idem* et l'épuisement du pouvoir disciplinaire]]) :* En vertu du principe *Non bis in idem* (" pas deux fois pour la même chose "), un même fait fautif ne peut jamais faire l'objet de deux sanctions disciplinaires successives. Dès lors que l'employeur a notifié une première sanction autonome (telle qu'une **mise à pied disciplinaire**, à distinguer d'une mise à pied conservatoire), il a **intégralement épuisé son pouvoir disciplinaire** pour tous les faits connus de lui à cette date. Une nouvelle sanction n'est possible que si l'employeur découvre postérieurement un **nouveau fait fautif** distinct ou si le salarié commet une nouvelle faute.
@@ -278,12 +269,3 @@
 >   - La **mise à pied disciplinaire** (durée déterminée, ex. 3 jours) est une **sanction définitive** qui épuise le pouvoir disciplinaire (*Non bis in idem* interdit tout licenciement ultérieur pour les mêmes faits).
 >   - La **mise à pied conservatoire** (durée indéterminée, pendant la procédure) est une simple **mesure provisoire d'éloignement** dans l'attente de la sanction définitive (licenciement).
 > - **Faute grave $\neq$ Faute lourde :** Même une dégradation grave du matériel ne permet pas de demander un remboursement financier au salarié, sauf preuve d'une **faute lourde** (intention de nuire).
-
----
-
-## Méthodes et fiches mobilisées
-- [[Méthodo td travail#Méthodo commentaire d'arrêt\|Méthodo td travail#Méthodo commentaire d'arrêt]] : Exercices 1, 2, 3, 4, 5
-- [[Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique\|Plan TD 1 - Le contrat de travail#III. Grille d'application du Syllogisme Juridique]] : Exercices 6, 7, 8, 9
-- [[Chapitre 3 - Le pouvoir disciplinaire\|Chapitre 3 - Le pouvoir disciplinaire]] : Exercices 1, 2, 3, 4, 5, 6, 7, 8, 9
-- [[Éxecution et rupture du contrat de travail\|Éxecution et rupture du contrat de travail]] : Exercices 1, 2, 4, 5, 6, 7, 8, 9
-- [[Modification du contrat de travail d'un salarié\|Modification du contrat de travail d'un salarié]] : Exercices 3, 4, 6

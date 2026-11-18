@@ -134,7 +134,7 @@ L'employeur est légalement responsable de la mise à disposition de tous les é
 * **Obligation de remboursement des frais professionnels** :
   Les frais exposés par le salarié pour les besoins de son activité professionnelle et dans l'intérêt de l'employeur doivent lui être intégralement remboursés par ce dernier.
 
-> **Jurisprudence majeure ([[Cass. Soc., 14 septembre 2005\|Cass. soc., 14 septembre 2005]])** :  
+> **Jurisprudence majeure ([[Cass. soc., 14 septembre 2005\|Cass. soc., 14 septembre 2005]])** :  
 > Les frais qu'un salarié justifie avoir exposés pour les besoins de son activité professionnelle et dans l'intérêt de l'employeur doivent lui être remboursés sans pouvoir être imputés sur sa rémunération.
 
 * **Régime juridique des remboursements de frais** : Les indemnités de remboursement de frais (*ex. indemnités kilométriques*) ne constituent pas du salaire. Elles ne sont pas prises en compte dans le calcul du SMIC ni soumises aux cotisations sociales applicables au salaire.
@@ -154,7 +154,7 @@ L'employeur est légalement responsable de la mise à disposition de tous les é
 * **Respect des minima légaux et conventionnels** : Le montant de la rémunération ne peut être inférieur au SMIC ni au minimum fixé par la convention collective applicable ou le contrat de travail.
 * **Invariabilité du droit au minimum** : Ce droit au salaire minimum légal ou conventionnel s'impose quelles que soient les modalités de calcul retenues (*salaire fixe, variable, commission, à la tâche*) et quelles que soient les conditions d'exécution de la prestation.
 
-> **Jurisprudence majeure ([[Cass. Soc., 28 juin 2005\|Cass. soc., 28 juin 2005]])** :  
+> **Jurisprudence majeure ([[Cass. soc., 28 juin 2005\|Cass. soc., 28 juin 2005]])** :  
 > Les salariés exécutant leur travail en dehors des locaux de l'entreprise (*ex. distributeurs de prospectus*) ont droit au versement du salaire minimum conventionnel ou légal, peu importe que l'employeur ne puisse pas exercer un contrôle direct et permanent sur leurs horaires effectifs.
 
 #### B. Le principe d'égalité salariale (" à travail égal, salaire égal ")
@@ -196,13 +196,13 @@ Le salaire doit être versé à échéance régulière (*mensuellement*) et dans
 
 ##### 2. Présomption d'imputabilité au travail
 
-> **Jurisprudence majeure ([[Cass. Soc., 23 mai 2002\|Cass. soc., 23 mai 2002]])** :  
+> **Jurisprudence majeure ([[Cass. soc., 23 mai 2002\|Cass. soc., 23 mai 2002]])** :  
 > L'accident survenu au temps et au lieu du travail est présumé être un accident du travail, quelles que soient les circonstances dans lesquelles il s'est produit.
 
 ##### 3. Extension aux accidents et évènements survenus hors du lieu/temps de travail
 Un évènement dramatique survenu en dehors du temps et du lieu habituel de travail (*ex. suicide au domicile du salarié*) peut être qualifié d'accident du travail dès lors qu'il est démontré qu'il trouve sa cause directe et déterminante dans le travail (*ex. harcèlement moral ou dégradation fautive des conditions de travail*).
 
-> **Jurisprudence majeure ([[Cass. Soc., 20 décembre 2001\|Cass. soc., 20 décembre 2001]])** :  
+> **Jurisprudence majeure ([[Cass. soc., 20 décembre 2001\|Cass. soc., 20 décembre 2001]])** :  
 > Le suicide d'un salarié survenu à son domicile peut être pris en charge au titre de la législation sur les accidents du travail dès lors qu'il est établi qu'il constitue la conséquence directe d'une situation de souffrance au travail liée à un harcèlement moral ou à des méthodes d'évaluation dégradantes imputables à l'employeur.
 
 ##### 4. Distinction avec les maladies professionnelles

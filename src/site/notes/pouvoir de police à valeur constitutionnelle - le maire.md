@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/pouvoir-de-police-a-valeur-constitutionnelle-le-maire/","ctime":"2026-11-05T16:50:48.713+01:00","mtime":"2026-11-08T19:00:01.219+01:00","dg-note-properties":{"date created":"2026-11-05, 16 50","date modified":"2026-11-08, 18 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/pouvoir-de-police-a-valeur-constitutionnelle-le-maire/","ctime":"2026-11-05T16:50:48.713+01:00","mtime":"2026-11-18T17:18:01.090+01:00","dg-note-properties":{"date created":"2026-11-05, 16 50","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
 
+# pouvoir de police à valeur constitutionnelle - le maire
+
 **La place du maire dans l'exercice des pouvoirs de police administrative générale**
 
-Le maire est **l'autorité de police administrative au nom de la commune.** Il possède des pouvoirs de police générale lui permettant de mener des missions de **sécurité publique, tranquillité publique et salubrité publique.** Il exerce ses pouvoirs au nom de la commune, sous le **contrôle administratif du préfet** (art [L. 2122-24](http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006389966&cidTexte=LEGITEXT000006070633&dateTexte=20140128&oldAction=rechCodeArticle) CGCT). Le pouvoir de police administrative du maire est un pouvoir normatif qui permet au maire d'édicter des mesures réglementaires et individuelles (il ne doit pas être confondu avec les missions des services de police municipale).
+Le maire est **l'autorité de police administrative au nom de la commune.** Il possède des pouvoirs de police générale lui permettant de mener des missions de **sécurité publique, tranquillité publique et salubrité publique.** Il exerce ses pouvoirs au nom de la commune, sous le **contrôle administratif du préfet** (art L. 2122-24 CGCT). Le pouvoir de police administrative du maire est un pouvoir normatif qui permet au maire d'édicter des mesures réglementaires et individuelles (il ne doit pas être confondu avec les missions des services de police municipale).
 
 Ce pouvoir de police générale inclut :
 

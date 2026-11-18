@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/introduction-droit-admin/","tags":["admin","CM","droit","AES/S3"],"ctime":"2026-09-10T15:15:32.302+02:00","mtime":"2026-11-12T15:40:12.440+01:00","dg-note-properties":{"tags":["admin","CM","droit","AES/S3"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/0]]","date created":"2026-09-10, 15 15","date modified":"2026-11-12, 15 40"}}
+{"dg-publish":true,"permalink":"/introduction-droit-admin/","tags":["admin","CM","droit","AES/S3"],"ctime":"2026-09-10T15:15:32.302+02:00","mtime":"2026-11-18T17:07:28.892+01:00","dg-note-properties":{"tags":["admin","CM","droit","AES/S3"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/0]]","date created":"2026-09-10, 15 15","date modified":"2026-11-18, 17 05"}}
 ---
 
 
@@ -20,7 +20,7 @@
   1. Fonction **gouvernementale**
   2. Fonction **administrative**
 
-* **Subordination au gouvernement** : La fonction administrative est subordonnée au gouvernement, ce que confirme [[l'Article 2 de la Constitution de 1958\|l'Article 2 de la Constitution de 1958]] : " *Le gouvernement dispose de l'administration* ".
+* **Subordination au gouvernement** : La fonction administrative est subordonnée au gouvernement, ce que confirme l'article 20 de la Constitution de 1958 : " *Le gouvernement dispose de l'administration* ".
 
 ## B. L'approche fonctionnelle : finalités et modes d'action
 
@@ -128,7 +128,7 @@ Pour situer le droit administratif dans une nomenclature, il convient d'abord de
 
 ## A. Le principe de séparation des autorités administratives et judiciaires
 
-* Ce principe date de la Révolution, en vertu de ==[[l'article 13 de la loi des 16 et 24 août 1790\|l'article 13 de la loi des 16 et 24 août 1790]]== et du ==[[décret du 16 fructidor an III\|décret du 16 fructidor an III]]==, dont le sens a évolué et a permis d'établir une véritable justice administrative indépendante.
+* Ce principe date de la Révolution, en vertu de ==l'article 13 de la loi des 16 et 24 août 1790== et du ==décret du 16 fructidor an III==, dont le sens a évolué et a permis d'établir une véritable justice administrative indépendante.
 
 ### 1. Signification et évolution du principe
 
@@ -147,14 +147,14 @@ Pour situer le droit administratif dans une nomenclature, il convient d'abord de
 
 > [!info] 1872 marque la véritable naissance de la juridiction administrative indépendante et recrée le Tribunal des conflits.
 
-* Problème résiduel : la juridiction de droit commun demeurait théoriquement le ministre. En 1889, **[[l'arrêt Cadot\|l'arrêt Cadot]]** du Conseil d'État met fin à la théorie du ministre-juge : le Conseil d'État se reconnaît lui-même compétent pour connaître de tout recours contre une décision administrative sans recours préalable obligatoire devant le ministre.
+* Problème résiduel : la juridiction de droit commun demeurait théoriquement le ministre. En 1889, **l'arrêt Cadot** du Conseil d'État met fin à la théorie du ministre-juge : le Conseil d'État se reconnaît lui-même compétent pour connaître de tout recours contre une décision administrative sans recours préalable obligatoire devant le ministre.
 
-* En **[[1953 (décret du 28 novembre 1953)\|1953 (décret du 28 novembre 1953)]]** sont créés les **tribunaux administratifs (TA)** en remplacement des conseils de préfecture : ils deviennent les **juges de droit commun en premier ressort**.
-* En **[[1987 (loi du 31 décembre 1987)\|1987 (loi du 31 décembre 1987)]]** sont créées les **cours administratives d'appel (CAA)** pour désengorger le Conseil d'État, qui devient principalement juge de cassation (avec quelques compétences résiduelles en premier ressort et en appel).
+* En **1953 (décret du 28 novembre 1953)** sont créés les **tribunaux administratifs (TA)** en remplacement des conseils de préfecture : ils deviennent les **juges de droit commun en premier ressort**.
+* En **1987 (loi du 31 décembre 1987)** sont créées les **cours administratives d'appel (CAA)** pour désengorger le Conseil d'État, qui devient principalement juge de cassation (avec quelques compétences résiduelles en premier ressort et en appel).
 
 ### 2. La valeur constitutionnelle de la juridiction administrative
 
-* Le Conseil constitutionnel s'est prononcé dans sa décision du **[[23 janvier 1987, dite Conseil de la concurrence\|23 janvier 1987, dite Conseil de la concurrence]]**. Il juge que la séparation des autorités n'a pas de valeur constitutionnelle intégrale, mais il consacre un noyau dur de compétence :
+* Le Conseil constitutionnel s'est prononcé dans sa décision du **23 janvier 1987, dite Conseil de la concurrence**. Il juge que la séparation des autorités n'a pas de valeur constitutionnelle intégrale, mais il consacre un noyau dur de compétence :
     * Il élève au rang de **principe fondamental reconnu par les lois de la République (PFRLR)** la compétence de la juridiction administrative pour **l'annulation ou la réformation des décisions prises dans l'exercice de prérogatives de puissance publique** par les autorités exerçant le pouvoir exécutif, leurs agents, les collectivités territoriales ou les organismes publics placés sous leur autorité.
     * **Le reste du contentieux n'est pas constitutionnellement sanctuarisé** (contrats administratifs, responsabilité extracontractuelle, litiges sans prérogatives de puissance publique) : le législateur peut, dans l'intérêt d'une **bonne administration de la justice**, unifier un contentieux au profit du juge judiciaire (ex. le contentieux des décisions de l'Autorité de la concurrence confié à la cour d'appel de Paris).
 
@@ -176,7 +176,7 @@ Pour situer le droit administratif dans une nomenclature, il convient d'abord de
  
 * À l'égard du pouvoir **judiciaire**, le juge administratif n'a **pas de pouvoir.**
 	* Là aussi, ce n'est pas toujours si simple
-	* **[[Arrêt de 1952\|Arrêt de 1952]]** dispose pour tout ce qui relève du fonctionnement du service public de la Justice, de l'activité juridictionnelle ***judiciaire***
+	* **[[TC, 27 novembre 1952, Préfet de la Guyane\|Arrêt du Tribunal des conflits du 27 novembre 1952 (Préfet de la Guyane)]]** dispose pour tout ce qui relève du fonctionnement du service public de la Justice, de l'activité juridictionnelle ***judiciaire***
 
 * Ce qui va relever de l'organisation du **service public** concerne le juge administratif
   
@@ -202,19 +202,19 @@ Pour situer le droit administratif dans une nomenclature, il convient d'abord de
 		* les ***SPIC*** qui devraient normalement être prises en charge par des personnes privées, elles sont **soumises** au droit privé et au **juge judiciaire**
 		* le cas rare des ***EPIC***, des établissements de **droit privé** qui **gèrent** des services **publics**. Elles conservent à leur tête des **fonctionnaires** par critère de confidentialité
 #### b. Les matières considérées compétentes du juge judiciaire
-**[[Décision du 23 janvier 1987\|Décision du 23 janvier 1987]]**, du **conseil de la concurrence**, est une ***exception à la compétence de l'autorité judiciaire***, sans préciser de quoi il s'agissait, bien qu'on puisse établir une liste par **nature** :
+**Décision du 23 janvier 1987**, du **conseil de la concurrence**, est une ***exception à la compétence de l'autorité judiciaire***, sans préciser de quoi il s'agissait, bien qu'on puisse établir une liste par **nature** :
 
 * Tout ce qui relève du fonctionnement de la **juridiction judiciaire**
-	* **[[Arrêt du tribunal des conflits du 27 novembre 1952\|Arrêt du tribunal des conflits du 27 novembre 1952]]**, ==*Préfet de la Guyane*==, indique **constitutionnellement** la compétence **indépendante** des actes administratifs relatifs à la nomination des fonctionnaires, à l'exécution d'actes administratifs
+	* **[[TC, 27 novembre 1952, Préfet de la Guyane\|Arrêt du Tribunal des conflits du 27 novembre 1952 (Préfet de la Guyane)]]**, ==*Préfet de la Guyane*==, indique **constitutionnellement** la compétence **indépendante** des actes administratifs relatifs à la nomination des fonctionnaires, à l'exécution d'actes administratifs
 	* En revanche, ce qui concerne la création ou la suppression des juridictions ou des procédures va continuer d'être la **compétence exclusive** du juge administratif, ainsi que la gestion des hauts fonctionnaires
 
 * Lorsqu'il s'agit de **protéger la propriété privée**, le juge judiciaire est **compétent**.
 	* En matière d'**expropriation**, le juge judiciaire s'occupe de **fixer les prix**
-	* Il gère l **'atteinte à la propriété** en vue de **[[l'article 66 de la constitution de 58\|l'article 66 de la constitution de 58]]**
+	* Il gère l **'atteinte à la propriété** en vue de **l'article 66 de la constitution de 58**
 	* En **droit civil**, il s'occupe du droit des **personnes**, tout ce qui concerne **leur état** (Ex. les déclarations de pacs). Le conseil d'État reste **responsable** sur les changements de nom, ainsi que l'acte de prononcer la déchéance de nationalité
 #### c. Lorsque le législateur lui-même confie certaines tâches administratives au juge judiciaire
 * Pour des raisons de **praticité**
-	* Tout les dommages causés par des véhicules sont des contentieux qui relèvent du juge judiciaire (même pour un véhicule de la fonction publique, **[[loi du 31 décembre 1957\|loi du 31 décembre 1957]]** suite au **déni de justice** et l'impossibilité d'extraire un responsable entre plusieurs véhicules de personnalités différentes
+	* Tout les dommages causés par des véhicules sont des contentieux qui relèvent du juge judiciaire (même pour un véhicule de la fonction publique, **loi du 31 décembre 1957** suite au **déni de justice** et l'impossibilité d'extraire un responsable entre plusieurs véhicules de personnalités différentes
 
 * Pour des raisons de **contentieux** concernant des entreprises privées vis à vis du **conseil de la concurrence**
-	* **[[Loi de 1968 et les dommages causés par des accidents d'origine nucléaire\|Loi de 1968 et les dommages causés par des accidents d'origine nucléaire]]**
+	* **Loi de 1968 et les dommages causés par des accidents d'origine nucléaire**

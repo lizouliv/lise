@@ -8,5 +8,6 @@
 - [[Compta - Séance TD 3\|Compta - Séance TD 3]]: — 11/11/2026
 - [[Compta - Séance TD 2\|Compta - Séance TD 2]]: — 11/11/2026
 - [[Comptabilité financière\|Comptabilité financière]]: — 15/09/2026
+- [[cc compta\|cc compta]]: — 18/11/2026
 
 { .block-language-dataview}

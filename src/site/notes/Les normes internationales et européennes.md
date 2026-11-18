@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/les-normes-internationales-et-europeennes/","ctime":"2026-10-15T21:01:11.471+02:00","mtime":"2026-11-12T15:42:29.430+01:00","dg-note-properties":{"date created":"2026-10-15, 21 01","date modified":"2026-10-23, 15 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/1]]"}}
+{"dg-publish":true,"permalink":"/les-normes-internationales-et-europeennes/","ctime":"2026-10-15T21:01:11.471+02:00","mtime":"2026-11-18T17:07:01.462+01:00","dg-note-properties":{"date created":"2026-10-15, 21 01","date modified":"2026-11-18, 17 05","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/1]]"}}
 ---
 
 

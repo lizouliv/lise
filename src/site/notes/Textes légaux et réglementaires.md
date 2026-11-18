@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/textes-legaux-et-reglementaires/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-09-10T13:28:07.570+02:00","mtime":"2026-11-08T19:11:37.692+01:00","dg-note-properties":{"tags":["travail","CM","droit","AES/S3"],"class":"[[References/Travail]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":null,"part":null,"date created":"2026-09-10, 13 28","date modified":"2026-11-08, 18 55"}}
+{"dg-publish":true,"permalink":"/textes-legaux-et-reglementaires/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-09-10T13:28:07.570+02:00","mtime":"2026-11-18T17:07:04.181+01:00","dg-note-properties":{"tags":["travail","CM","droit","AES/S3"],"class":"[[References/Travail]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":null,"date created":"2026-09-10, 13 28","date modified":"2026-11-18, 17 05"}}
 ---
 
 

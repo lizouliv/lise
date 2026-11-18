@@ -14,6 +14,8 @@ views:
       and:
         - form == link("Notion")
         - '!file.inFolder("References")'
+        - '!file.inFolder("Lexis 360")'
+        - sector != link("Lexis")
     order:
       - file.name
       - class

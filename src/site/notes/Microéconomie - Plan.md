@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/microeconomie-plan/","ctime":"2026-11-15T15:59:35.095+01:00","mtime":"2026-11-15T16:07:10.476+01:00","dg-note-properties":{"date created":"2026-11-15, 15 59","date modified":"2026-11-15, 16 07","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Micro]]","form":"[[References/CM]]","part":"[[References/0]]"}}
+{"dg-publish":true,"permalink":"/microeconomie-plan/","ctime":"2026-11-15T15:59:35.095+01:00","mtime":"2026-11-16T16:17:59.677+01:00","dg-note-properties":{"date created":"2026-11-15, 15 59","date modified":"2026-11-16, 16 17","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Micro]]","form":"[[References/CM]]","part":"[[References/0]]"}}
 ---
 
 
@@ -55,7 +55,6 @@
 - Fonction de production concave ($Q'' < 0$, produit marginal décroissant) $\iff$ Fonction de coût **convexe** ($C'' > 0$, coût marginal croissant)
 - Interprétation économique et graphique (cas des pizzas)
 
-==**À revoir :**==
 ### 3. La décomposition des différentes fonctions de coûts
 - **Coût Fixe ($CF$)** et **Coût Variable ($CV(q)$)** : $C(q) = CV(q) + CF$
 - **Coût Marginal ($Cm(q)$) :** $Cm(q) = C'(q)$
