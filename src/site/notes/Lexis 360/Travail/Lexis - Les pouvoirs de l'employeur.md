@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/travail/lexis-les-pouvoirs-de-l-employeur/","ctime":"2026-11-18T18:53:42.225+01:00","mtime":"2026-11-18T18:53:42.225+01:00","dg-note-properties":{"date created":"2026-11-12, 16 25","date modified":"2026-11-18, 18 54","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/travail/lexis-les-pouvoirs-de-l-employeur/","ctime":"2026-11-18T18:53:42.225+01:00","mtime":"2026-11-19T19:57:14.766+01:00","dg-note-properties":{"date created":"2026-11-12, 16 25","date modified":"2026-11-19, 19 55","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
@@ -12,4 +12,4 @@
 
 ## Navigation
 - [[References/Lexis\|Lexis]] *(Portail documentaire Lexis 360)*
-- *Cours lié : [[Chapitre 3 - Le pouvoir disciplinaire\|Chapitre 3 - Le pouvoir disciplinaire]]*
+- *Cours liés : [[Partie 2 - Chapitre 2 - Le pouvoir de direction\|Partie 2 - Chapitre 2 - Le pouvoir de direction]], [[Partie 2 - Chapitre 3 - Le pouvoir disciplinaire\|Partie 2 - Chapitre 3 - Le pouvoir disciplinaire]]*

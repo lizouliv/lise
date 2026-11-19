@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/greve/","ctime":"2026-11-12T13:52:00.236+01:00","mtime":"2026-11-18T13:23:26.741+01:00","dg-note-properties":{"date created":"2026-11-12, 13 52","date modified":"2026-11-18, 13 25","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/greve/","ctime":"2026-11-12T13:52:00.236+01:00","mtime":"2026-11-19T19:59:01.152+01:00","dg-note-properties":{"date created":"2026-11-12, 13 52","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
 ---
 
 
@@ -20,5 +20,7 @@
 - [[Art. L. 2511-1 C. trav.\|Art. L. 2511-1 C. trav.]]
 - [[La suspension du contrat de travail\|La suspension du contrat de travail]]
 - [[Cour de cassation\|Cour de cassation]]
-- [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
 - [[Cass. soc., 18 janvier 1995\|Cass. soc., 18 janvier 1995]]
+- [[Partie 1 - Chapitre 2 - Les contrats spéciaux\|Partie 1 - Chapitre 2 - Les contrats spéciaux]]
+- [[Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail\|Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail]]
+- [[Partie 3 - La disparition du contrat de travail\|Partie 3 - La disparition du contrat de travail]]

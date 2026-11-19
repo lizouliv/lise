@@ -15,6 +15,7 @@
 > 
 >  | Articles                                                                            | Chapitre                                                                                |
 > | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+> | [[Plus-value\|Plus-value]]                                                       | [[TD Séance 4 - L'impôt sur les sociétés\|TD Séance 4 - L'impôt sur les sociétés]]   |
 > | [[Plus-value\|Plus-value]]                                                       | [[TD Séance 3 - Fiscalité des entreprises\|TD Séance 3 - Fiscalité des entreprises]] |
 > | [[Équilibre partiel\|Équilibre partiel]]                                         | [[Alfred Marshall\|Alfred Marshall]]                                                 |
 > | [[Baisse tendancielle du taux de profit\|Baisse tendancielle du taux de profit]] | [[Karl Marx\|Karl Marx]]                                                             |

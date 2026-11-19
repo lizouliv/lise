@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/les-pgd-et-le-pouvoir-reglementaire/","ctime":"2026-11-06T23:06:29.439+01:00","mtime":"2026-11-13T01:20:48.878+01:00","dg-note-properties":{"date created":"2026-11-06, 23 06","date modified":"2026-11-13, 1 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/1]]"}}
+{"dg-publish":true,"permalink":"/les-pgd-et-le-pouvoir-reglementaire/","ctime":"2026-11-06T23:06:29.439+01:00","mtime":"2026-11-19T19:45:45.741+01:00","dg-note-properties":{"date created":"2026-11-06, 23 06","date modified":"2026-11-19, 19 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/1]]"}}
 ---
 
 
 # Les principes généraux du droit et le pouvoir réglementaire
 
 > [!abstract] Synthèse générale
-> Les Principes Généraux du Droit (PGD) sont des normes non écrites créées et imposées à l'administration par le juge administratif. Dégagés principalement par le [[Conseil d'État\|Conseil d'État]] dès l'==[[Arrêt Dame Veuve Trompier-Gravier\|Arrêt Dame Veuve Trompier-Gravier]]== pour suppléer les lacunes du texte écrit, ils possèdent une valeur **infra-législative et supra-décrétale** (==[[Arrêt Syndicat général des ingénieurs-conseils\|Arrêt Syndicat général des ingénieurs-conseils]]== et ==[[Arrêt Dame David\|Arrêt Dame David]]==). En bas de la hiérarchie des normes figure le pouvoir réglementaire, qui s'exerce soit pour l'exécution des lois, soit de manière autonome ([[Art. 37 al. 1 Const.\|Art. 37 al. 1 Const.]]). L'exercice du pouvoir réglementaire général appartient de droit commun au Premier ministre ([[Art. 21-1 Const.\|Art. 21-1 Const.]]), partagé avec le Président de la République pour les décrets délibérés en Conseil des ministres ([[Art. 13-1 Const.\|Art. 13-1 Const.]] et ==[[Arrêt Meyet\|Arrêt Meyet]]==), tandis que les ministres sont dépourvus de pouvoir réglementaire général autonome hors délégation, texte législatif spécifique ou qualité de chef de service.
+> Les Principes Généraux du Droit (PGD) sont des normes non écrites créées et imposées à l'administration par le juge administratif. Dégagés principalement par le [[Conseil d'État\|Conseil d'État]] dès l'==[[Arrêt Dame Veuve Trompier-Gravier\|Arrêt Dame Veuve Trompier-Gravier]]== pour suppléer les lacunes du texte écrit, ils possèdent une valeur **infra-législative et supra-décrétale** (==[[Arrêt Syndicat général des ingénieurs-conseils\|Arrêt Syndicat général des ingénieurs-conseils]]== et ==[[Arrêt Dame David\|Arrêt Dame David]]==). En bas de la hiérarchie des normes figure le pouvoir réglementaire, qui s'exerce soit pour l'exécution des lois, soit de manière autonome ([[Art. 37 al. 1 Const.\|Art. 37 al. 1 Const.]]). L'exercice du pouvoir réglementaire général appartient de droit commun au Premier ministre ([[Art. 21 al. 1 Const.\|Art. 21 al. 1 Const.]]), partagé avec le Président de la République pour les décrets délibérés en Conseil des ministres ([[Art. 13 al. 1 Const.\|Art. 13 al. 1 Const.]] et ==[[Arrêt Meyet\|Arrêt Meyet]]==), tandis que les ministres sont dépourvus de pouvoir réglementaire général autonome hors délégation, texte législatif spécifique ou qualité de chef de service.
 
 # I. Les Principes Généraux du Droit (PGD)
 
@@ -55,7 +55,7 @@ Malgré l'avènement du contrôle de constitutionnalité et la consécration con
 ## A. La distinction entre pouvoir réglementaire d'application et pouvoir réglementaire autonome
 
 ### 1. Le pouvoir réglementaire d'exécution des lois
-* **Définition** : Habilitation de l'exécutif à édicter des règles générales et impersonnelles pour préciser et mettre en œuvre les lois votées par le Parlement ([[Art. 21-1 Const.\|Art. 21-1 Const.]]).
+* **Définition** : Habilitation de l'exécutif à édicter des règles générales et impersonnelles pour préciser et mettre en œuvre les lois votées par le Parlement ([[Art. 21 al. 1 Const.\|Art. 21 al. 1 Const.]]).
 * **Finalité** : Alléger le texte législatif en lui évitant d'entrer dans des détails d'exécution.
 
 ### 2. Le pouvoir réglementaire autonome
@@ -69,10 +69,10 @@ Malgré l'avènement du contrôle de constitutionnalité et la consécration con
 ## B. Les titulaires du pouvoir réglementaire à l'échelon national
 
 ### 1. Le Premier ministre, détenteur du pouvoir réglementaire général
-* **Principe constitutionnel** : En vertu de l'==[[Art. 21-1 Const.\|Art. 21-1 Const.]]==, le Premier ministre dirige l'action du gouvernement et intègre le pouvoir réglementaire général (d'exécution et autonome).
+* **Principe constitutionnel** : En vertu de l'==[[Art. 21 al. 1 Const.\|Art. 21 al. 1 Const.]]==, le Premier ministre dirige l'action du gouvernement et intègre le pouvoir réglementaire général (d'exécution et autonome).
 
 ### 2. Le Président de la République et le partage du pouvoir réglementaire
-En vertu de l'==[[Art. 13-1 Const.\|Art. 13-1 Const.]]==, le Président de la République signe les ordonnances ([[Art. 38 Const.\|Art. 38 Const.]]) et les décrets délibérés en Conseil des ministres.
+En vertu de l'==[[Art. 13 al. 1 Const.\|Art. 13 al. 1 Const.]]==, le Président de la République signe les ordonnances ([[Art. 38 Const.\|Art. 38 Const.]]) et les décrets délibérés en Conseil des ministres.
 
 * **Décrets obligatoirement ou facultativement délibérés** :
   * **Jurisprudence de principe** : ==[[Arrêt Meyet\|Arrêt Meyet]]==.
@@ -92,7 +92,7 @@ En vertu de l'==[[Art. 13-1 Const.\|Art. 13-1 Const.]]==, le Président de la R�
 ## C. Les conditions d'exercice du pouvoir réglementaire d'application de la loi
 
 ### 1. L'obligation d'agir du pouvoir réglementaire
-* **Principe constitutionnel d'indépendance** : En vertu du principe de séparation des pouvoirs et de l'[[Art. 21-1 Const.\|Art. 21-1 Const.]], le pouvoir exécutif ne tient pas sa compétence du Parlement mais directement de la Constitution. Le gouvernement a pour fonction propre d'exécuter la loi.
+* **Principe constitutionnel d'indépendance** : En vertu du principe de séparation des pouvoirs et de l'[[Art. 21 al. 1 Const.\|Art. 21 al. 1 Const.]], le pouvoir exécutif ne tient pas sa compétence du Parlement mais directement de la Constitution. Le gouvernement a pour fonction propre d'exécuter la loi.
 * **Consécration prétorienne de l'obligation d'agir** : Dès 1951, le [[Conseil d'État\|Conseil d'État]] avait énoncé cette obligation afin d'éviter que le pouvoir exécutif ne paralyse l'application de la loi. Dans l'arrêt fondamental ==[[CE, 28 juillet 2000, FNE\|CE, 28 juillet 2000, FNE]]== (Association France Nature Environnement), le juge administratif suprême consacre la source constitutionnelle de cette règle : l'exercice du pouvoir réglementaire comporte non seulement le droit mais également l'**obligation de prendre dans un délai raisonnable** les mesures qu'implique nécessairement l'application de la loi.
 * **Contrôle juridictionnel et sanctions de l'inertie réglementaire** : Pour sanctionner le refus ou le retard fautif du pouvoir réglementaire d'édicter les décrets d'application, le juge vérifie trois critères cumulatifs :
   1. *Compatibilité internationale* : La loi doit être conforme aux engagements internationaux et européens de la France. Si la loi est incompatible avec une directive ou un traité, le gouvernement a l'obligation de refuser d'édicter les règlements d'application pour respecter la primauté du droit international ([[Art. 55 Const.\|Art. 55 Const.]]).
@@ -109,9 +109,9 @@ En vertu de l'==[[Art. 13-1 Const.\|Art. 13-1 Const.]]==, le Président de la R�
 * **Codification** : Cette jurisprudence constante a été reprise par la loi puis codifiée à l'article L. 243-2 du [[CRPA - Code des relations entre public et administration - 1er janvier 2016\|CRPA]].
 
 ## Liens associés
-* [[Art. 21-1 Const.\|Art. 21-1 Const.]]
+* [[Art. 21 al. 1 Const.\|Art. 21 al. 1 Const.]]
 * [[Art. 22 Const.\|Art. 22 Const.]]
-* [[Art. 13-1 Const.\|Art. 13-1 Const.]]
+* [[Art. 13 al. 1 Const.\|Art. 13 al. 1 Const.]]
 * [[Art. 34 Const.\|Art. 34 Const.]]
 * [[Art. 37 Const.\|Art. 37 Const.]]
 * [[Art. 37 al. 1 Const.\|Art. 37 al. 1 Const.]]

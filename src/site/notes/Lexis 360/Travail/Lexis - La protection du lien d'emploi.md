@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/travail/lexis-la-protection-du-lien-d-emploi/","ctime":"2026-11-18T18:53:43.179+01:00","mtime":"2026-11-18T18:53:43.179+01:00","dg-note-properties":{"date created":"2026-11-12, 16 26","date modified":"2026-11-18, 18 54","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/travail/lexis-la-protection-du-lien-d-emploi/","ctime":"2026-11-18T18:53:43.179+01:00","mtime":"2026-11-19T19:57:09.870+01:00","dg-note-properties":{"date created":"2026-11-12, 16 26","date modified":"2026-11-19, 19 55","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
@@ -12,4 +12,4 @@
 
 ## Navigation
 - [[References/Lexis\|Lexis]] *(Portail documentaire Lexis 360)*
-- *Cours liés : [[La suspension du contrat de travail\|La suspension du contrat de travail]], [[Modification du contrat de travail d'un salarié\|Modification du contrat de travail d'un salarié]]*
+- *Cours liés : [[Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail\|Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail]], [[La suspension du contrat de travail\|La suspension du contrat de travail]], [[Modification du contrat de travail d'un salarié\|Modification du contrat de travail d'un salarié]]*

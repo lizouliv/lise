@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/textes-legaux-et-reglementaires/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-09-10T13:28:07.570+02:00","mtime":"2026-11-18T17:07:04.181+01:00","dg-note-properties":{"tags":["travail","CM","droit","AES/S3"],"class":"[[References/Travail]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":null,"date created":"2026-09-10, 13 28","date modified":"2026-11-18, 17 05"}}
+{"dg-publish":true,"permalink":"/textes-legaux-et-reglementaires/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-09-10T13:28:07.570+02:00","mtime":"2026-11-19T19:54:38.383+01:00","dg-note-properties":{"tags":["travail","CM","droit","AES/S3"],"class":"[[References/Travail]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/1]]","date created":"2026-09-10, 13 28","date modified":"2026-11-19, 19 55"}}
 ---
 
 
 # Textes juridiques et Jurisprudence cités
+
+> [!note] Annexe de cours
+> Répertoire des textes et décisions introductives cités dans **[[Introduction au droit du travail\|Introduction au droit du travail]]**. Voir également **[[Droit du travail - Méthodo\|Droit du travail - Méthodo]]**.
 
 ## Textes légaux, constitutionnels et internationaux
 
@@ -82,7 +85,8 @@
 > [!abstract] Cass. civ., 6 juillet 1931 (GAJC n° 145)
 > **Principe :** La dépendance économique ne suffit pas à caractériser le contrat de travail. Le critère exclusif est le lien de **subordination juridique** (soumission aux ordres et au contrôle d'un employeur). Un travailleur économiquement dépendant d'un unique client demeure un travailleur indépendant s'il n'est pas subordonné.
 
-[[Cass. civ., 22 juillet 1954\|Cass. civ., 22 juillet 1954]]*
+### Cass. civ., 22 juillet 1954
+- Voir la fiche dédiée : [[Cass. civ., 22 juillet 1954\|Cass. civ., 22 juillet 1954]].
 
 ### Cass. soc., 28 avril 1955 (Liberté de la preuve)
 > [!abstract] Cass. soc., 28 avril 1955
@@ -135,6 +139,9 @@
 ### Cass. soc., 3 juin 2009 (Île de la tentation)
 > [!abstract] Cass. soc., 3 juin 2009 (n° 08-40.981)
 > **Principe :** Les participants à une émission de téléréalité exécutent une prestation de travail sous lien de subordination : respect des plannings, enfermement, consignes scénarisées et sanctions contractuelles en cas de départ. Requalification en contrat de travail.
+
+### Cass. soc., 24 avril 2013 (Sanctions pécuniaires)
+- Voir la fiche dédiée : [[Cass. soc., 24 avril 2013\|Cass. soc., 24 avril 2013]].
 
 ### Cass. soc., 28 novembre 2018 (Arrêt Take Eat Easy)
 > [!abstract] Cass. soc., 28 nov. 2018 (n° 17-20.079)

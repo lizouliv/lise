@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/travail/lexis-la-notion-et-la-formation-du-contrat-de-travail/","ctime":"2026-11-18T18:53:41.104+01:00","mtime":"2026-11-18T18:53:41.104+01:00","dg-note-properties":{"date created":"2026-11-12, 16 05","date modified":"2026-11-18, 18 54","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/travail/lexis-la-notion-et-la-formation-du-contrat-de-travail/","ctime":"2026-11-18T18:53:41.104+01:00","mtime":"2026-11-19T19:57:07.700+01:00","dg-note-properties":{"date created":"2026-11-12, 16 05","date modified":"2026-11-19, 19 55","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
@@ -12,4 +12,4 @@
 
 ## Navigation
 - [[References/Lexis\|Lexis]] *(Portail documentaire Lexis 360)*
-- *Cours liés : [[Le recrutement du salarié\|Le recrutement du salarié]], [[Éxécution du contrat de travail - Période d'essai et clauses spécifiques\|Éxécution du contrat de travail - Période d'essai et clauses spécifiques]]*
+- *Cours liés : [[Introduction au droit du travail\|Introduction au droit du travail]], [[Partie 1 - Chapitre 2 - Les contrats spéciaux\|Partie 1 - Chapitre 2 - Les contrats spéciaux]], [[Partie 1 - Chapitre 3 - Le recrutement et la période d'essai\|Partie 1 - Chapitre 3 - Le recrutement et la période d'essai]], [[Partie 2 - Chapitre 1 - Les obligations des parties\|Partie 2 - Chapitre 1 - Les obligations des parties]]*

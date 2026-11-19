@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/travail/lexis-le-licenciement-pour-motif-economique/","ctime":"2026-11-18T18:53:45.236+01:00","mtime":"2026-11-18T18:53:45.237+01:00","dg-note-properties":{"date created":"2026-11-18, 18 40","date modified":"2026-11-18, 18 54","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/travail/lexis-le-licenciement-pour-motif-economique/","ctime":"2026-11-18T18:53:45.236+01:00","mtime":"2026-11-19T19:57:23.226+01:00","dg-note-properties":{"date created":"2026-11-18, 18 40","date modified":"2026-11-19, 19 55","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
@@ -82,4 +82,4 @@ D'origine jurisprudentielle (*[[Cour de cassation\|Cass. soc.]], 19 févr. & 1er
 - [[Lexis 360/Travail/Lexis - La rupture du contrat de travail pour motif personnel\|Lexis - La rupture du contrat de travail pour motif personnel]]
 - [[References/Lexis\|Lexis]] *(Portail documentaire Lexis 360)*
 - *Renvoi doctrinal Lexis 360 : JCl. Travail Traité, Synthèse 150 (Rupture du contrat de travail : licenciement).*
-- *Cours liés : [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]], [[Licenciement\|Licenciement]]*
+- *Cours liés : [[Partie 3 - La disparition du contrat de travail\|Partie 3 - La disparition du contrat de travail]], [[Licenciement\|Licenciement]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/convention-n-158-de-l-oit/","ctime":"2026-10-14T00:07:57.730+02:00","mtime":"2026-11-18T17:18:01.062+01:00","dg-note-properties":{"date created":"2026-10-14, 0 07","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null,"tags":null}}
+{"dg-publish":true,"permalink":"/convention-n-158-de-l-oit/","ctime":"2026-10-14T00:07:57.730+02:00","mtime":"2026-11-19T19:59:01.148+01:00","dg-note-properties":{"date created":"2026-10-14, 0 07","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null,"tags":null}}
 ---
 
 
@@ -10,4 +10,4 @@
 - Exige un motif valable pour tout licenciement (art. 4).
 - Impose une **durée raisonnable** pour toute période d'essai (art. 2 §2 b), fondement du contrôle exercé par la [[Cour de cassation\|Cour de cassation]].
 
-**Cité dans :** [[Le recrutement du salarié\|Le recrutement du salarié]]
+**Cité dans :** [[Introduction au droit du travail\|Introduction au droit du travail]], [[Partie 1 - Chapitre 3 - Le recrutement et la période d'essai\|Partie 1 - Chapitre 3 - Le recrutement et la période d'essai]]

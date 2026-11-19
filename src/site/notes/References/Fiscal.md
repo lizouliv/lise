@@ -1,10 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/references/fiscal/","ctime":"2026-09-21T23:19:01.732+02:00","mtime":"2026-11-18T18:50:19.568+01:00","dg-note-properties":{"date created":"2026-09-21, 23 19","date modified":"2026-11-08, 20 12","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/Fête_de_l'Etre_suprême_2.jpg]]"}}
+{"dg-publish":true,"permalink":"/references/fiscal/","ctime":"2026-09-21T23:19:01.732+02:00","mtime":"2026-11-19T20:09:36.787+01:00","dg-note-properties":{"date created":"2026-09-21, 23 19","date modified":"2026-11-19, 20 09","sector":"[[References/In Olivum]]","semester":"[[References/S3]]","class":null,"form":null,"part":null,"tags":[],"cover":"[[Attachments/Fête_de_l'Etre_suprême_2.jpg]]"}}
 ---
 
 
 # [[References/Fiscal\|Fiscal]]
 
+- [[CE, 21 août 1996, SA Sife\|CE, 21 août 1996, SA Sife]]: — 19/11/2026
+- [[Art. 360 ann. III CGI\|Art. 360 ann. III CGI]]: — 19/11/2026
+- [[Art. L. 64 LPF\|Art. L. 64 LPF]]: — 19/11/2026
+- [[Script TI-83 - Fiscalité des entreprises\|Script TI-83 - Fiscalité des entreprises]]: — 18/11/2026
+- [[TD Séance 4 - L'impôt sur les sociétés\|TD Séance 4 - L'impôt sur les sociétés]]: — 18/11/2026
+- [[Art. 1668 CGI\|Art. 1668 CGI]]: — 18/11/2026
+- [[Art. 238 CGI\|Art. 238 CGI]]: — 18/11/2026
+- [[Art. 235 ter ZC CGI\|Art. 235 ter ZC CGI]]: — 18/11/2026
+- [[Art. 223 I CGI\|Art. 223 I CGI]]: — 18/11/2026
+- [[Art. 221 CGI\|Art. 221 CGI]]: — 18/11/2026
+- [[Art. 220 quinquies CGI\|Art. 220 quinquies CGI]]: — 18/11/2026
+- [[Art. 219 CGI\|Art. 219 CGI]]: — 18/11/2026
+- [[Art. 216 CGI\|Art. 216 CGI]]: — 18/11/2026
+- [[Art. 213 CGI\|Art. 213 CGI]]: — 18/11/2026
+- [[Art. 212 CGI\|Art. 212 CGI]]: — 18/11/2026
+- [[Art. 211 CGI\|Art. 211 CGI]]: — 18/11/2026
+- [[Art. 209 CGI\|Art. 209 CGI]]: — 18/11/2026
+- [[Art. 205 A CGI\|Art. 205 A CGI]]: — 18/11/2026
+- [[Art. 150-0 A CGI\|Art. 150-0 A CGI]]: — 18/11/2026
+- [[Art. 145 CGI\|Art. 145 CGI]]: — 18/11/2026
+- [[Art. 93 quater CGI\|Art. 93 quater CGI]]: — 18/11/2026
+- [[Art. 39 CGI\|Art. 39 CGI]]: — 18/11/2026
+- [[Art. 38 CGI\|Art. 38 CGI]]: — 18/11/2026
 - [[Art. 256-0 CGI\|Art. 256-0 CGI]]: — 18/11/2026
 - [[TD Séance 5 - La taxe sur la valeur ajoutée\|TD Séance 5 - La taxe sur la valeur ajoutée]]: — 18/11/2026
 - [[Art. 207 ann. II CGI\|Art. 207 ann. II CGI]]: — 18/11/2026

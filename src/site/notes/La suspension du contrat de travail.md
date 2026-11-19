@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/la-suspension-du-contrat-de-travail/","ctime":"2026-11-12T17:50:34.273+01:00","mtime":"2026-11-18T13:23:26.832+01:00","dg-note-properties":{"date created":"2026-11-12, 17 50","date modified":"2026-11-12, 17 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/la-suspension-du-contrat-de-travail/","ctime":"2026-11-12T17:50:34.273+01:00","mtime":"2026-11-19T19:59:01.153+01:00","dg-note-properties":{"date created":"2026-11-12, 17 50","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
 ---
 
 
@@ -38,4 +38,4 @@
 - [[Cass. Ass. Plén., 22 avril 2011\|Cass. Ass. Plén., 22 avril 2011]]
 - [[Grève\|Grève]]
 - [[Trouble au bon fonctionnement de l'entreprise\|Trouble au bon fonctionnement de l'entreprise]]
-- [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
+- [[Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail\|Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail]]
