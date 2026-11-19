@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-1231-1-c-trav/","ctime":"2026-11-08T18:47:18.710+01:00","mtime":"2026-11-18T17:14:43.485+01:00","dg-note-properties":{"date created":"2026-10-13, 23 57","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-1231-1-c-trav/","ctime":"2026-11-08T18:47:18.710+01:00","mtime":"2026-11-19T19:59:01.122+01:00","dg-note-properties":{"date created":"2026-10-13, 23 57","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 
@@ -10,4 +10,4 @@ Ces dispositions ne sont pas applicables pendant la période d'essai.
 
 *En vigueur depuis le 2008-06-27*
 
-**Cité dans :** [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]], [[Le recrutement du salarié\|Le recrutement du salarié]], [[Éxecution et rupture du contrat de travail\|Éxecution et rupture du contrat de travail]]
+**Cité dans :** [[Partie 1 - Chapitre 3 - Le recrutement et la période d'essai\|Partie 1 - Chapitre 3 - Le recrutement et la période d'essai]]

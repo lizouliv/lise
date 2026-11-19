@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/charge-de-la-preuve-de-la-cause-reelle-et-serieuse/","ctime":"2026-11-12T14:48:54.971+01:00","mtime":"2026-11-12T17:52:33.368+01:00","dg-note-properties":{"date created":"2026-11-12, 14 48","date modified":"2026-11-12, 17 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/charge-de-la-preuve-de-la-cause-reelle-et-serieuse/","ctime":"2026-11-12T14:48:54.971+01:00","mtime":"2026-11-19T19:59:01.147+01:00","dg-note-properties":{"date created":"2026-11-12, 14 48","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
 ---
 
 
@@ -18,4 +18,4 @@
 - [[Art. L. 1232-1 C. trav.\|Art. L. 1232-1 C. trav.]]
 - [[Cause réelle et sérieuse\|Cause réelle et sérieuse]]
 - [[Conseil de Prud'hommes\|Conseil de Prud'hommes]]
-- [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
+- [[Partie 3 - La disparition du contrat de travail\|Partie 3 - La disparition du contrat de travail]]

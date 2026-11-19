@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-1251-5-c-trav/","ctime":"2026-11-08T18:47:18.718+01:00","mtime":"2026-11-18T17:14:43.499+01:00","dg-note-properties":{"date created":"2026-10-05, 20 56","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/art-l-1251-5-c-trav/","ctime":"2026-11-08T18:47:18.718+01:00","mtime":"2026-11-19T19:59:01.125+01:00","dg-note-properties":{"date created":"2026-10-05, 20 56","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 
@@ -9,4 +9,4 @@ Le contrat de mission, quel que soit son motif, ne peut avoir ni pour objet ni p
 
 *En vigueur depuis le 2008-05-01*
 
-**Cité dans :** [[Contrat spéciaux\|Contrat spéciaux]]
+**Cité dans :** [[Partie 1 - Chapitre 2 - Les contrats spéciaux\|Partie 1 - Chapitre 2 - Les contrats spéciaux]]

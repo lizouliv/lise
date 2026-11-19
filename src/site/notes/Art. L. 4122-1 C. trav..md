@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-4122-1-c-trav/","ctime":"2026-11-08T18:47:18.693+01:00","mtime":"2026-11-18T17:14:43.510+01:00","dg-note-properties":{"date created":"2026-10-22, 15 22","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-4122-1-c-trav/","ctime":"2026-11-08T18:47:18.693+01:00","mtime":"2026-11-19T19:59:01.127+01:00","dg-note-properties":{"date created":"2026-10-22, 15 22","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 
@@ -13,4 +13,4 @@ Les dispositions du premier alinéa sont sans incidence sur le principe de la re
 
 *En vigueur depuis le 2008-05-01*
 
-**Cité dans :** [[Éxecution et rupture du contrat de travail\|Éxecution et rupture du contrat de travail]]
+**Cité dans :** [[Partie 2 - Chapitre 1 - Les obligations des parties\|Partie 2 - Chapitre 1 - Les obligations des parties]]

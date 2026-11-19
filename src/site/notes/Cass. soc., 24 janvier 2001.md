@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-24-janvier-2001/","ctime":"2026-11-12T13:05:43.400+01:00","mtime":"2026-11-18T13:23:26.756+01:00","dg-note-properties":{"date created":"2026-11-12, 13 05","date modified":"2026-11-18, 13 25","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-24-janvier-2001/","ctime":"2026-11-12T13:05:43.400+01:00","mtime":"2026-11-19T19:59:01.137+01:00","dg-note-properties":{"date created":"2026-11-12, 13 05","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -19,4 +19,4 @@ La [[Cour de cassation\|Cour de cassation]] retient que les fonctions d'accueil 
 - [[Modification du contrat de travail d'un salarié\|Modification du contrat de travail d'un salarié]]
 - [[Cass. soc., 24 avril 2001\|Cass. soc., 24 avril 2001]]
 - [[Cour de cassation\|Cour de cassation]]
-- [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
+- [[Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail\|Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail]]

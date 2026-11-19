@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-1242-6-1-c-trav/","ctime":"2026-11-08T18:47:18.706+01:00","mtime":"2026-11-18T17:14:43.491+01:00","dg-note-properties":{"date created":"2026-10-05, 20 43","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/art-l-1242-6-1-c-trav/","ctime":"2026-11-08T18:47:18.706+01:00","mtime":"2026-11-19T19:59:01.124+01:00","dg-note-properties":{"date created":"2026-10-05, 20 43","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 
@@ -11,4 +11,4 @@ Outre les cas prévus à l'article [[Art. L. 1242-5 C. trav.\|L. 1242-5]], il es
 
 *En vigueur depuis le 2008-05-01*
 
-**Cité dans :** [[Contrat spéciaux\|Contrat spéciaux]]
+**Cité dans :** [[Partie 1 - Chapitre 2 - Les contrats spéciaux\|Partie 1 - Chapitre 2 - Les contrats spéciaux]]

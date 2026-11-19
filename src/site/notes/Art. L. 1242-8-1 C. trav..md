@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-1242-8-1-c-trav/","ctime":"2026-10-17T17:03:20.869+02:00","mtime":"2026-11-18T17:14:43.492+01:00","dg-note-properties":{"date created":"2026-10-17, 17 03","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/art-l-1242-8-1-c-trav/","ctime":"2026-10-17T17:03:20.869+02:00","mtime":"2026-11-19T19:59:01.125+01:00","dg-note-properties":{"date created":"2026-10-17, 17 03","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 
@@ -21,4 +21,4 @@ Les dispositions du présent article ne sont pas applicables au contrat de trava
 
 *En vigueur depuis le 2017-09-24*
 
-**Cité dans :** [[Contrat spéciaux\|Contrat spéciaux]], [[Exos TD 2 - Les differents types de contrat\|Exos TD 2 - Les differents types de contrat]], [[Plan TD 2 - Les différents types de contrat\|Plan TD 2 - Les différents types de contrat]]
+**Cité dans :** [[Droit du travail - Méthodo\|Droit du travail - Méthodo]], [[Exos TD 2 - Les differents types de contrat\|Exos TD 2 - Les differents types de contrat]], [[Partie 1 - Chapitre 2 - Les contrats spéciaux\|Partie 1 - Chapitre 2 - Les contrats spéciaux]], [[Plan TD 2 - Les différents types de contrat\|Plan TD 2 - Les différents types de contrat]]

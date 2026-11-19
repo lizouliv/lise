@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-26-janvier-2011/","ctime":"2026-11-12T14:12:23.081+01:00","mtime":"2026-11-18T13:23:26.756+01:00","dg-note-properties":{"date created":"2026-11-12, 14 12","date modified":"2026-11-18, 13 25","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-26-janvier-2011/","ctime":"2026-11-12T14:12:23.081+01:00","mtime":"2026-11-19T19:59:01.137+01:00","dg-note-properties":{"date created":"2026-11-12, 14 12","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -16,4 +16,4 @@ Un gardien d'immeuble en arrêt maladie prolongé s'est vu réclamer par son emp
 - [[La suspension du contrat de travail\|La suspension du contrat de travail]]
 - [[Cass. soc., 24 mars 2010\|Cass. soc., 24 mars 2010]]
 - [[Cour de cassation\|Cour de cassation]]
-- [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
+- [[Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail\|Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail]]

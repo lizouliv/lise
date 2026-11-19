@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-6-fevrier-2001/","ctime":"2026-10-22T15:48:15.004+02:00","mtime":"2026-11-18T17:23:08.657+01:00","dg-note-properties":{"date created":"2026-10-22, 15 48","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-6-fevrier-2001/","ctime":"2026-10-22T15:48:15.004+02:00","mtime":"2026-11-19T19:59:01.141+01:00","dg-note-properties":{"date created":"2026-10-22, 15 48","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -11,4 +11,4 @@
 
 **Apport :** La mise en œuvre d'une clause de mobilité sans prise en compte de la situation familiale grave du salarié ni nécessité objective caractérise un abus / une légèreté blâmable (à rapprocher de [[Cass. soc., 23 février 2005\|Cass. soc., 23 février 2005]]).
 
-**Cité dans :** [[Éxécution du contrat de travail - Période d'essai et clauses spécifiques\|Éxécution du contrat de travail - Période d'essai et clauses spécifiques]]
+**Cité dans :** [[Partie 2 - Chapitre 1 - Les obligations des parties\|Partie 2 - Chapitre 1 - Les obligations des parties]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-30-mars-1999/","ctime":"2026-10-14T00:03:30.523+02:00","mtime":"2026-11-18T17:23:08.650+01:00","dg-note-properties":{"date created":"2026-10-14, 0 03","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-30-mars-1999/","ctime":"2026-10-14T00:03:30.523+02:00","mtime":"2026-11-19T19:59:01.140+01:00","dg-note-properties":{"date created":"2026-10-14, 0 03","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -11,4 +11,4 @@
 
 **Apport :** Un mensonge sur le CV ne justifie un licenciement pour faute que si l'employeur démontre l'incompétence réelle du salarié à exercer le poste.
 
-**Cité dans :** [[Le recrutement du salarié\|Le recrutement du salarié]]
+**Cité dans :** [[Partie 1 - Chapitre 3 - Le recrutement et la période d'essai\|Partie 1 - Chapitre 3 - Le recrutement et la période d'essai]]

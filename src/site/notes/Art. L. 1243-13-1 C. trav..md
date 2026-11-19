@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-1243-13-1-c-trav/","ctime":"2026-11-08T18:47:18.715+01:00","mtime":"2026-11-18T17:14:43.494+01:00","dg-note-properties":{"date created":"2026-10-05, 20 57","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/art-l-1243-13-1-c-trav/","ctime":"2026-11-08T18:47:18.715+01:00","mtime":"2026-11-19T19:59:01.125+01:00","dg-note-properties":{"date created":"2026-10-05, 20 57","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 
@@ -12,4 +12,4 @@ Ces dispositions ne sont pas applicables au contrat de travail à durée déterm
 
 *En vigueur depuis le 2017-09-24*
 
-**Cité dans :** [[Contrat spéciaux\|Contrat spéciaux]]
+**Cité dans :** [[Droit du travail - Méthodo\|Droit du travail - Méthodo]], [[Partie 1 - Chapitre 2 - Les contrats spéciaux\|Partie 1 - Chapitre 2 - Les contrats spéciaux]]

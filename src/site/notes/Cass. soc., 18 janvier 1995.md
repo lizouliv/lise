@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-18-janvier-1995/","ctime":"2026-11-12T17:50:45.336+01:00","mtime":"2026-11-18T13:23:26.755+01:00","dg-note-properties":{"date created":"2026-11-12, 17 50","date modified":"2026-11-12, 17 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-18-janvier-1995/","ctime":"2026-11-12T17:50:45.336+01:00","mtime":"2026-11-19T19:59:01.134+01:00","dg-note-properties":{"date created":"2026-11-12, 17 50","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -18,4 +18,4 @@
 - [[Art. L. 2511-1 C. trav.\|Art. L. 2511-1 C. trav.]]
 - [[La suspension du contrat de travail\|La suspension du contrat de travail]]
 - [[Cour de cassation\|Cour de cassation]]
-- [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
+- [[Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail\|Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail]]

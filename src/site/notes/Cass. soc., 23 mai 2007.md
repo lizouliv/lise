@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-23-mai-2007/","ctime":"2026-10-14T00:07:45.345+02:00","mtime":"2026-11-18T17:23:08.637+01:00","dg-note-properties":{"date created":"2026-10-14, 0 07","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-23-mai-2007/","ctime":"2026-10-14T00:07:45.345+02:00","mtime":"2026-11-19T19:59:01.136+01:00","dg-note-properties":{"date created":"2026-10-14, 0 07","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -11,4 +11,4 @@
 
 **Apport :** Toute suspension du contrat pendant la période d'essai (maladie, accident, congés) entraîne sa **prolongation** d'une durée équivalente à l'absence effective du salarié.
 
-**Cité dans :** [[Le recrutement du salarié\|Le recrutement du salarié]]
+**Cité dans :** [[Partie 1 - Chapitre 3 - Le recrutement et la période d'essai\|Partie 1 - Chapitre 3 - Le recrutement et la période d'essai]]

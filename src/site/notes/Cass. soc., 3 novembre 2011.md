@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-3-novembre-2011/","ctime":"2026-11-16T13:21:52.249+01:00","mtime":"2026-11-16T17:42:41.986+01:00","dg-note-properties":{"date created":"2026-11-16, 13 22","date modified":"2026-11-16, 17 42","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-3-novembre-2011/","ctime":"2026-11-16T13:21:52.249+01:00","mtime":"2026-11-19T19:59:01.140+01:00","dg-note-properties":{"date created":"2026-11-16, 13 22","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -18,5 +18,4 @@
 - [[Modification du contrat de travail d'un salarié\|Modification du contrat de travail d'un salarié]]
 - [[Art. L. 1121-1 C. trav.\|Art. L. 1121-1 C. trav.]]
 - [[Cour de cassation\|Cour de cassation]]
-- [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
-- [[Chapitre 3 - Le pouvoir disciplinaire\|Chapitre 3 - Le pouvoir disciplinaire]]
+- [[Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail\|Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail]]

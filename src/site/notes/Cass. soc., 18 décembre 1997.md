@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-18-decembre-1997/","ctime":"2026-10-15T14:30:44.982+02:00","mtime":"2026-11-18T17:23:08.627+01:00","dg-note-properties":{"date created":"2026-10-15, 14 30","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-18-decembre-1997/","ctime":"2026-10-15T14:30:44.982+02:00","mtime":"2026-11-19T19:59:01.134+01:00","dg-note-properties":{"date created":"2026-10-15, 14 30","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -11,4 +11,4 @@
 
 **Apport :** La clause de non-concurrence ne doit pas aboutir à une interdiction absolue pour le salarié d'exercer un emploi correspondant à sa qualification.
 
-**Cité dans :** [[Exos TD 3 - Les clauses spécifiques du contrat de travail\|Exos TD 3 - Les clauses spécifiques du contrat de travail]], [[Éxecution et rupture du contrat de travail\|Éxecution et rupture du contrat de travail]], [[Éxécution du contrat de travail - Période d'essai et clauses spécifiques\|Éxécution du contrat de travail - Période d'essai et clauses spécifiques]]
+**Cité dans :** [[Exos TD 3 - Les clauses spécifiques du contrat de travail\|Exos TD 3 - Les clauses spécifiques du contrat de travail]], [[Partie 2 - Chapitre 1 - Les obligations des parties\|Partie 2 - Chapitre 1 - Les obligations des parties]]

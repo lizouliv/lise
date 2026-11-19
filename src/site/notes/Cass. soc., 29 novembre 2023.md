@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-29-novembre-2023/","ctime":"2026-11-12T14:23:22.585+01:00","mtime":"2026-11-18T13:23:26.757+01:00","dg-note-properties":{"date created":"2026-11-12, 14 23","date modified":"2026-11-18, 13 25","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-29-novembre-2023/","ctime":"2026-11-12T14:23:22.585+01:00","mtime":"2026-11-19T19:59:01.139+01:00","dg-note-properties":{"date created":"2026-11-12, 14 23","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -17,4 +17,5 @@ Au visa de l'[[Art. L. 1225-4 C. trav.\|Art. L. 1225-4 C. trav.]], la Haute Juri
 - [[Cass. soc., 1 février 2017\|Cass. soc., 1 février 2017]]
 - [[La suspension du contrat de travail\|La suspension du contrat de travail]]
 - [[Cour de cassation\|Cour de cassation]]
-- [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
+- [[Droit du travail - Méthodo\|Droit du travail - Méthodo]]
+- [[Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail\|Partie 2 - Chapitre 4 - Modification et suspension du contrat de travail]]

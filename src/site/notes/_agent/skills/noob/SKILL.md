@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agent/skills/noob/skill/","ctime":"2026-11-18T17:56:53.580+01:00","mtime":"2026-11-16T16:22:17.766+01:00","dg-note-properties":{"date created":"2026-11-16, 16 21","date modified":"2026-11-16, 16 21","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"noob","description":"Accompagne l'utilisateur dans une première replongée douce, progressive et interactive dans un cours, un chapitre ou un TD oublié, en partant de zéro : vulgarisation, exemples concrets, mini-questions guidées sans notation punitive, avant de passer à /teacher."}}
+{"dg-publish":true,"permalink":"/agent/skills/noob/skill/","ctime":"2026-11-16T16:22:17.766+01:00","mtime":"2026-11-16T16:22:17.766+01:00","dg-note-properties":{"date created":"2026-11-16, 16 21","date modified":"2026-11-16, 16 21","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"noob","description":"Accompagne l'utilisateur dans une première replongée douce, progressive et interactive dans un cours, un chapitre ou un TD oublié, en partant de zéro : vulgarisation, exemples concrets, mini-questions guidées sans notation punitive, avant de passer à /teacher."}}
 ---
 
 

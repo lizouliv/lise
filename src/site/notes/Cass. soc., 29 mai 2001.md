@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-29-mai-2001/","ctime":"2026-11-12T14:53:13.778+01:00","mtime":"2026-11-18T13:23:26.739+01:00","dg-note-properties":{"date created":"2026-11-12, 14 53","date modified":"2026-11-18, 13 25","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-29-mai-2001/","ctime":"2026-11-12T14:53:13.778+01:00","mtime":"2026-11-19T19:59:01.139+01:00","dg-note-properties":{"date created":"2026-11-12, 14 53","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -18,4 +18,4 @@
 - [[Insuffisance professionnelle\|Insuffisance professionnelle]]
 - [[Art. L. 1232-1 C. trav.\|Art. L. 1232-1 C. trav.]]
 - [[Cour de cassation\|Cour de cassation]]
-- [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
+- [[Partie 3 - La disparition du contrat de travail\|Partie 3 - La disparition du contrat de travail]]

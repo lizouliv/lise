@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-8221-3-c-trav/","ctime":"2026-10-14T00:03:26.413+02:00","mtime":"2026-11-18T17:14:43.517+01:00","dg-note-properties":{"date created":"2026-10-14, 0 03","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-8221-3-c-trav/","ctime":"2026-10-14T00:03:26.413+02:00","mtime":"2026-11-19T19:59:01.128+01:00","dg-note-properties":{"date created":"2026-10-14, 0 03","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 
@@ -12,4 +12,4 @@ Est réputé travail dissimulé par dissimulation d'activité, l'exercice à but
 
 *En vigueur depuis le 2023-01-01*
 
-**Cité dans :** [[Le recrutement du salarié\|Le recrutement du salarié]]
+**Cité dans :** [[Partie 1 - Chapitre 3 - Le recrutement et la période d'essai\|Partie 1 - Chapitre 3 - Le recrutement et la période d'essai]]

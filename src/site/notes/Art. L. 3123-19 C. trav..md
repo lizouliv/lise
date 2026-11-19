@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-3123-19-c-trav/","ctime":"2026-11-08T18:47:18.692+01:00","mtime":"2026-11-18T17:14:43.505+01:00","dg-note-properties":{"date created":"2026-10-14, 0 04","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-3123-19-c-trav/","ctime":"2026-11-08T18:47:18.692+01:00","mtime":"2026-11-19T19:59:01.126+01:00","dg-note-properties":{"date created":"2026-10-14, 0 04","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 
@@ -10,4 +10,4 @@ Une convention ou un accord d'entreprise ou d'établissement ou, à défaut, une
 
 *En vigueur depuis le 2017-12-22*
 
-**Cité dans :** [[Le recrutement du salarié\|Le recrutement du salarié]]
+**Cité dans :** [[Partie 1 - Chapitre 2 - Les contrats spéciaux\|Partie 1 - Chapitre 2 - Les contrats spéciaux]]

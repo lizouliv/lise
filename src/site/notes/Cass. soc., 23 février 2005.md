@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-23-fevrier-2005/","ctime":"2026-10-22T15:48:16.950+02:00","mtime":"2026-11-16T13:21:59.082+01:00","dg-note-properties":{"date created":"2026-10-22, 15 48","date modified":"2026-11-16, 13 22","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-23-fevrier-2005/","ctime":"2026-10-22T15:48:16.950+02:00","mtime":"2026-11-19T19:59:01.136+01:00","dg-note-properties":{"date created":"2026-10-22, 15 48","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
@@ -18,4 +18,4 @@
 - [[Modification du contrat de travail d'un salarié\|Modification du contrat de travail d'un salarié]]
 - [[Art. L. 1222-1 C. trav.\|Art. L. 1222-1 C. trav.]]
 - [[Cour de cassation\|Cour de cassation]]
-- [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
+- [[Partie 2 - Chapitre 1 - Les obligations des parties\|Partie 2 - Chapitre 1 - Les obligations des parties]]

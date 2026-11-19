@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cause-reelle-et-serieuse/","ctime":"2026-11-12T14:41:29.607+01:00","mtime":"2026-11-18T13:23:26.757+01:00","dg-note-properties":{"date created":"2026-11-12, 14 41","date modified":"2026-11-12, 17 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/cause-reelle-et-serieuse/","ctime":"2026-11-12T14:41:29.607+01:00","mtime":"2026-11-19T19:59:01.142+01:00","dg-note-properties":{"date created":"2026-11-12, 14 41","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
 ---
 
 
@@ -26,4 +26,5 @@
 - [[Insuffisance professionnelle\|Insuffisance professionnelle]]
 - [[Cass. soc., 18 octobre 1990\|Cass. soc., 18 octobre 1990]]
 - [[Cass. soc., 29 mai 2001\|Cass. soc., 29 mai 2001]]
-- [[Chapitre 4 - Disparition du contrat de travail\|Chapitre 4 - Disparition du contrat de travail]]
+- [[Droit du travail - Méthodo\|Droit du travail - Méthodo]]
+- [[Partie 3 - La disparition du contrat de travail\|Partie 3 - La disparition du contrat de travail]]

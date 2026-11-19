@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/competences-numeriques-td-1/","ctime":"2026-11-12T01:04:49.789+01:00","mtime":"2026-11-18T19:06:50.177+01:00","dg-note-properties":{"date created":"2026-11-12, 1 04","date modified":"2026-11-18, 19 06","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Compétences numériques]]","form":"[[References/TD]]","part":"[[References/1]]"}}
+{"dg-publish":true,"permalink":"/competences-numeriques-td-1/","ctime":"2026-11-18T19:02:28.226+01:00","mtime":"2026-11-18T19:06:50.177+01:00","dg-note-properties":{"date created":"2026-11-12, 1 04","date modified":"2026-11-18, 19 06","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Compétences numériques]]","form":"[[References/TD]]","part":"[[References/1]]"}}
 ---
 
 

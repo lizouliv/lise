@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-3123-7-c-trav/","ctime":"2026-10-14T00:04:45.840+02:00","mtime":"2026-11-18T17:14:43.509+01:00","dg-note-properties":{"date created":"2026-10-14, 0 04","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-3123-7-c-trav/","ctime":"2026-10-14T00:04:45.840+02:00","mtime":"2026-11-19T19:59:01.127+01:00","dg-note-properties":{"date created":"2026-10-14, 0 04","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 
@@ -17,4 +17,4 @@ Une durée de travail inférieure à celle prévue au premier alinéa, compatibl
 
 *En vigueur depuis le 2023-09-01*
 
-**Cité dans :** [[Le recrutement du salarié\|Le recrutement du salarié]], [[Plan TD 2 - Les différents types de contrat\|Plan TD 2 - Les différents types de contrat]]
+**Cité dans :** [[Partie 1 - Chapitre 2 - Les contrats spéciaux\|Partie 1 - Chapitre 2 - Les contrats spéciaux]], [[Plan TD 2 - Les différents types de contrat\|Plan TD 2 - Les différents types de contrat]]
