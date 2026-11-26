@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/partie-2-chapitre-2-le-pouvoir-de-direction/","ctime":"2026-11-19T19:56:39.211+01:00","mtime":"2026-11-19T20:11:21.804+01:00","dg-note-properties":{"date created":"2026-10-22, 15 30","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/partie-2-chapitre-2-le-pouvoir-de-direction/","dg-note-properties":{"date created":"2026-10-22, 15 30","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/2]]"}}
 ---
 
 

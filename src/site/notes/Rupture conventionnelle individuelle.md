@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rupture-conventionnelle-individuelle/","ctime":"2026-11-19T19:39:16.874+01:00","mtime":"2026-11-19T19:59:01.157+01:00","dg-note-properties":{"date created":"2026-11-19, 19 36","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/rupture-conventionnelle-individuelle/","dg-note-properties":{"date created":"2026-11-19, 19 36","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

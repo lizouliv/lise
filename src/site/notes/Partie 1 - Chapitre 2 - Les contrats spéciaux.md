@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/partie-1-chapitre-2-les-contrats-speciaux/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-11-19T19:56:36.077+01:00","mtime":"2026-11-19T20:11:21.803+01:00","dg-note-properties":{"date created":"2026-09-24, 13 03","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/1]]","tags":["travail","CM","droit","AES/S3"]}}
+{"dg-publish":true,"permalink":"/partie-1-chapitre-2-les-contrats-speciaux/","tags":["travail","CM","droit","AES/S3"],"dg-note-properties":{"date created":"2026-09-24, 13 03","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/CM]]","part":"[[References/1]]","tags":["travail","CM","droit","AES/S3"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/td-seance-5-responsabilite-du-fait-personnel/","tags":["AP/S2/resp","TD","droit","AP/S2"],"ctime":"2026-02-25T12:46:24.000+01:00","mtime":"2026-11-25T10:21:17.942+01:00","dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[References/S2]]","form":"[[References/TD]]","part":null,"date created":"2026-02-25, 12 46","date modified":"2026-11-25, 10 21"}}
+{"dg-publish":true,"permalink":"/td-seance-5-responsabilite-du-fait-personnel/","tags":["AP/S2/resp","TD","droit","AP/S2"],"dg-note-properties":{"tags":["AP/S2/resp","TD","droit","AP/S2"],"class":"[[References/Administratif]]","sector":"[[References/AES]]","semester":"[[References/S2]]","form":"[[References/TD]]","part":null,"date created":"2026-02-25, 12 46","date modified":"2026-11-25, 10 21"}}
 ---
 
 

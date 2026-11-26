@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/partie-1-la-norme-penale/","tags":["AES/S3/pénal","CM","droit","AES/S3"],"ctime":"2026-09-09T10:11:57.813+02:00","mtime":"2026-11-18T19:00:11.091+01:00","dg-note-properties":{"date created":"2026-09-16, 11 50","date modified":"2026-11-18, 19 00","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/1]]","tags":["AES/S3/pénal","CM","droit","AES/S3"]}}
+{"dg-publish":true,"permalink":"/partie-1-la-norme-penale/","tags":["AES/S3/pénal","CM","droit","AES/S3"],"dg-note-properties":{"date created":"2026-09-16, 11 50","date modified":"2026-11-18, 19 00","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/1]]","tags":["AES/S3/pénal","CM","droit","AES/S3"]}}
 ---
 
 

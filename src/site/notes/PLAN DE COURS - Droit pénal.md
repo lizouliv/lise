@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/plan-de-cours-droit-penal/","ctime":"2026-11-18T11:08:43.222+01:00","mtime":"2026-11-18T13:31:51.638+01:00","dg-note-properties":{"date created":"2026-11-18, 11 08","date modified":"2026-11-18, 13 30","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/0]]"}}
+{"dg-publish":true,"permalink":"/plan-de-cours-droit-penal/","dg-note-properties":{"date created":"2026-11-18, 11 08","date modified":"2026-11-18, 13 30","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/0]]"}}
 ---
 
 

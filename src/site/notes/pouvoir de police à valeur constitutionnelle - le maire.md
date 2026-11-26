@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pouvoir-de-police-a-valeur-constitutionnelle-le-maire/","ctime":"2026-11-05T16:50:48.713+01:00","mtime":"2026-11-18T17:18:01.090+01:00","dg-note-properties":{"date created":"2026-11-05, 16 50","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/pouvoir-de-police-a-valeur-constitutionnelle-le-maire/","dg-note-properties":{"date created":"2026-11-05, 16 50","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
 
