@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/actes-de-gouvernement/","ctime":"2026-11-12T16:34:27.052+01:00","mtime":"2026-11-12T17:49:00.845+01:00","dg-note-properties":{"date created":"2026-11-12, 16 34","date modified":"2026-11-12, 17 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/actes-de-gouvernement/","dg-note-properties":{"date created":"2026-11-12, 16 34","date modified":"2026-11-12, 17 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

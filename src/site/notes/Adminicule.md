@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/adminicule/","ctime":"2026-11-18T11:41:55.106+01:00","mtime":"2026-11-18T13:04:25.809+01:00","dg-note-properties":{"date created":"2026-11-18, 11 41","date modified":"2026-11-18, 13 00","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/adminicule/","dg-note-properties":{"date created":"2026-11-18, 11 41","date modified":"2026-11-18, 13 00","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

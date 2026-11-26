@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/actes-implicites-et-explicites/","ctime":"2026-11-12T16:33:44.227+01:00","mtime":"2026-11-12T17:54:20.482+01:00","dg-note-properties":{"date created":"2026-11-12, 16 33","date modified":"2026-11-12, 17 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/actes-implicites-et-explicites/","dg-note-properties":{"date created":"2026-11-12, 16 33","date modified":"2026-11-12, 17 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

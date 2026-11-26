@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-145-cgi/","ctime":"2026-11-18T19:10:46.314+01:00","mtime":"2026-11-18T19:10:46.314+01:00","dg-note-properties":{"date created":"2026-11-18, 19 10","date modified":"2026-11-18, 19 10","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-145-cgi/","dg-note-properties":{"date created":"2026-11-18, 19 10","date modified":"2026-11-18, 19 10","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Code]]","part":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arret-ministre-de-l-interieur-c-cohn-bendit/","ctime":"2026-10-22T16:40:08.223+02:00","mtime":"2026-11-18T17:23:08.581+01:00","dg-note-properties":{"date created":"2026-10-22, 16 40","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/arret-ministre-de-l-interieur-c-cohn-bendit/","dg-note-properties":{"date created":"2026-10-22, 16 40","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
 ---
 
 

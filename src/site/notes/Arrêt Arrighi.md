@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arret-arrighi/","ctime":"2026-10-13T21:48:04.088+02:00","mtime":"2026-11-18T17:23:08.569+01:00","dg-note-properties":{"date created":"2026-10-13, 21 48","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/arret-arrighi/","dg-note-properties":{"date created":"2026-10-13, 21 48","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
 ---
 
 

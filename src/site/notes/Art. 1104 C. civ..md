@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-1104-c-civ/","ctime":"2026-11-16T15:37:00.497+01:00","mtime":"2026-11-16T15:37:00.497+01:00","dg-note-properties":{"date created":"2026-11-16, 14 44","date modified":"2026-11-16, 15 36","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-1104-c-civ/","dg-note-properties":{"date created":"2026-11-16, 14 44","date modified":"2026-11-16, 15 36","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 

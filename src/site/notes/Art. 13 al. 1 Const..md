@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-13-al-1-const/","ctime":"2026-11-19T19:45:41.885+01:00","mtime":"2026-11-19T19:45:41.886+01:00","dg-note-properties":{"date created":"2026-11-05, 16 19","date modified":"2026-11-19, 19 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-13-al-1-const/","dg-note-properties":{"date created":"2026-11-05, 16 19","date modified":"2026-11-19, 19 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
 ---
 
 

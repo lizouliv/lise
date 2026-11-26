@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/actes-non-decisoires/","ctime":"2026-11-12T16:32:17.058+01:00","mtime":"2026-11-26T18:04:59.815+01:00","dg-note-properties":{"date created":"2026-11-12, 16 32","date modified":"2026-11-26, 18 04","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/actes-non-decisoires/","dg-note-properties":{"date created":"2026-11-12, 16 32","date modified":"2026-11-26, 18 04","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

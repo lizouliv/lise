@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agent/skills/export-cours/skill/","ctime":"2026-11-08T19:44:40.000+01:00","mtime":"2026-11-08T19:44:40.000+01:00","dg-note-properties":{"date created":"2026-11-08, 16 04","date modified":"2026-11-08, 19 45","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"drive-docx","description":"Exporte et convertit les cours partagés au format Word (.docx) dans Drive (cours de Josepha) en notes Markdown enrichies et standardisées dans Drive/Josepha avec frontmatter YAML conforme, extraction d'images et tableaux."}}
+{"dg-publish":true,"permalink":"/agent/skills/export-cours/skill/","dg-note-properties":{"date created":"2026-11-08, 16 04","date modified":"2026-11-08, 19 45","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"drive-docx","description":"Exporte et convertit les cours partagés au format Word (.docx) dans Drive (cours de Josepha) en notes Markdown enrichies et standardisées dans Drive/Josepha avec frontmatter YAML conforme, extraction d'images et tableaux."}}
 ---
 
 

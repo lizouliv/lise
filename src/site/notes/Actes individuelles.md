@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/actes-individuelles/","ctime":"2026-11-12T16:40:10.584+01:00","mtime":"2026-11-12T17:49:11.023+01:00","dg-note-properties":{"date created":"2026-11-12, 16 40","date modified":"2026-11-12, 17 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/actes-individuelles/","dg-note-properties":{"date created":"2026-11-12, 16 40","date modified":"2026-11-12, 17 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

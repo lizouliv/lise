@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agent/skills/td/skill/","ctime":"2026-11-07T23:13:56.000+01:00","mtime":"2026-11-16T15:41:07.496+01:00","dg-note-properties":{"date created":"2026-11-07, 23 10","date modified":"2026-11-16, 15 42","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"td","description":"Analyse un sujet de TD, découpe la séance et résout les exercices selon la mise en page épurée et structurée d'Exos TD 5 (parties, énoncé synthétique, question de droit, résolution fluide en 3 étapes, callout pièges)."}}
+{"dg-publish":true,"permalink":"/agent/skills/td/skill/","dg-note-properties":{"date created":"2026-11-07, 23 10","date modified":"2026-11-16, 15 42","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"td","description":"Analyse un sujet de TD, découpe la séance et résout les exercices selon la mise en page épurée et structurée d'Exos TD 5 (parties, énoncé synthétique, question de droit, résolution fluide en 3 étapes, callout pièges)."}}
 ---
 
 
