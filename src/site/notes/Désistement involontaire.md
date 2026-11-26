@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/desistement-involontaire/","ctime":"2026-11-18T10:50:11.783+01:00","mtime":"2026-11-18T13:03:44.120+01:00","dg-note-properties":{"date created":"2026-11-18, 10 50","date modified":"2026-11-18, 13 00","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/desistement-involontaire/","dg-note-properties":{"date created":"2026-11-18, 10 50","date modified":"2026-11-18, 13 00","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

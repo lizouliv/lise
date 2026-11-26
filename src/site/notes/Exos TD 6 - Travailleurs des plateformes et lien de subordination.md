@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exos-td-6-travailleurs-des-plateformes-et-lien-de-subordination/","ctime":"2026-11-17T08:38:14.283+01:00","mtime":"2026-11-17T14:21:05.487+01:00","dg-note-properties":{"date created":"2026-11-17, 8 38","date modified":"2026-11-17, 14 21","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/6]]"}}
+{"dg-publish":true,"permalink":"/exos-td-6-travailleurs-des-plateformes-et-lien-de-subordination/","dg-note-properties":{"date created":"2026-11-17, 8 38","date modified":"2026-11-17, 14 21","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/6]]"}}
 ---
 
 
