@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-39-const/","dg-note-properties":{"date created":"2026-10-23, 9 41","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-39-const/","ctime":"2026-11-08T18:47:18.760+01:00","mtime":"2026-11-18T17:14:43.458+01:00","dg-note-properties":{"date created":"2026-10-23, 9 41","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
 ---
 
 

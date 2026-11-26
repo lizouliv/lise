@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-93-quater-cgi/","dg-note-properties":{"date created":"2026-11-18, 19 10","date modified":"2026-11-18, 19 10","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-93-quater-cgi/","ctime":"2026-11-18T19:10:44.877+01:00","mtime":"2026-11-18T19:10:44.878+01:00","dg-note-properties":{"date created":"2026-11-18, 19 10","date modified":"2026-11-18, 19 10","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Code]]","part":null}}
 ---
 
 

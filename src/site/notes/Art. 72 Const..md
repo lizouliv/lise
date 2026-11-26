@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-72-const/","dg-note-properties":{"date created":"2026-11-05, 16 46","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-72-const/","ctime":"2026-11-08T18:47:18.763+01:00","mtime":"2026-11-18T17:14:43.466+01:00","dg-note-properties":{"date created":"2026-11-05, 16 46","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
 ---
 
 

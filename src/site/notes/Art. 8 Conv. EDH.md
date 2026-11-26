@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-8-conv-edh/","dg-note-properties":{"date created":"2026-10-22, 15 48","date modified":"2026-11-16, 15 36","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-8-conv-edh/","ctime":"2026-10-22T15:48:59.829+02:00","mtime":"2026-11-16T15:37:04.694+01:00","dg-note-properties":{"date created":"2026-10-22, 15 48","date modified":"2026-11-16, 15 36","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 

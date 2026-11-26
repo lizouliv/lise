@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-9-conv-edh/","dg-note-properties":{"date created":"2026-10-05, 20 26","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null,"tags":[]}}
+{"dg-publish":true,"permalink":"/art-9-conv-edh/","ctime":"2026-11-08T18:47:18.747+01:00","mtime":"2026-11-18T17:14:43.469+01:00","dg-note-properties":{"date created":"2026-10-05, 20 26","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null,"tags":[]}}
 ---
 
 
