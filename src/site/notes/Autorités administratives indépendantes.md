@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/autorites-administratives-independantes/","ctime":"2026-11-26T17:51:29.359+01:00","mtime":"2026-11-26T18:09:41.272+01:00","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 18 09","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/autorites-administratives-independantes/","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 18 09","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

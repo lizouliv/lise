@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-2331-1-cgppp/","ctime":"2026-11-26T17:50:31.760+01:00","mtime":"2026-11-26T17:50:31.760+01:00","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 17 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-2331-1-cgppp/","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 17 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
 ---
 
 

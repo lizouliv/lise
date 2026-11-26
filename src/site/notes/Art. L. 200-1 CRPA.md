@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-200-1-crpa/","ctime":"2026-11-26T17:50:30.513+01:00","mtime":"2026-11-26T17:50:30.514+01:00","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 17 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-200-1-crpa/","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 17 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Code]]","part":null}}
 ---
 
 

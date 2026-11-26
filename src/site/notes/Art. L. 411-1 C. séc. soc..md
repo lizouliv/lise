@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-411-1-c-sec-soc/","ctime":"2026-11-08T18:47:18.702+01:00","mtime":"2026-11-18T17:14:43.509+01:00","dg-note-properties":{"date created":"2026-10-22, 14 29","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-411-1-c-sec-soc/","dg-note-properties":{"date created":"2026-10-22, 14 29","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 

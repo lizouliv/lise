@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-ch-mixte-18-mai-2007/","ctime":"2026-11-09T19:50:25.863+01:00","mtime":"2026-11-09T19:50:25.863+01:00","dg-note-properties":{"date created":"2026-11-09, 19 48","date modified":"2026-11-09, 19 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-ch-mixte-18-mai-2007/","dg-note-properties":{"date created":"2026-11-09, 19 48","date modified":"2026-11-09, 19 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
