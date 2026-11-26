@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ce-19-juillet-2019-mme-le-pen/","ctime":"2026-11-26T17:51:24.999+01:00","mtime":"2026-11-26T18:09:59.729+01:00","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 18 09","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/ce-19-juillet-2019-mme-le-pen/","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 18 09","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
 ---
 
 

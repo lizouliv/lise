@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ce-14-decembre-2007-payet/","ctime":"2026-11-26T17:50:37.312+01:00","mtime":"2026-11-26T18:10:06.594+01:00","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 18 10","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/ce-14-decembre-2007-payet/","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 18 10","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
 ---
 
 

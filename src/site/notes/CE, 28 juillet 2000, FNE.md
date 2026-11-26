@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ce-28-juillet-2000-fne/","ctime":"2026-11-12T15:21:39.747+01:00","mtime":"2026-11-19T19:45:47.745+01:00","dg-note-properties":{"date created":"2026-11-12, 15 21","date modified":"2026-11-19, 19 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/ce-28-juillet-2000-fne/","dg-note-properties":{"date created":"2026-11-12, 15 21","date modified":"2026-11-19, 19 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
 ---
 
 
