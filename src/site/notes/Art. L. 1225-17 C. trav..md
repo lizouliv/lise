@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-1225-17-c-trav/","ctime":"2026-11-12T13:41:35.389+01:00","mtime":"2026-11-18T17:14:43.484+01:00","dg-note-properties":{"date created":"2026-11-12, 13 41","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-1225-17-c-trav/","dg-note-properties":{"date created":"2026-11-12, 13 41","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 

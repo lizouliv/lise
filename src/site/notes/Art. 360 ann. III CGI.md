@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-360-ann-iii-cgi/","ctime":"2026-11-19T19:45:20.125+01:00","mtime":"2026-11-19T19:45:20.126+01:00","dg-note-properties":{"date created":"2026-11-19, 19 45","date modified":"2026-11-19, 19 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-360-ann-iii-cgi/","dg-note-properties":{"date created":"2026-11-19, 19 45","date modified":"2026-11-19, 19 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Code]]","part":null}}
 ---
 
 

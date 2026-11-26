@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-278-cgi/","ctime":"2026-11-18T18:48:16.247+01:00","mtime":"2026-11-18T18:48:16.247+01:00","dg-note-properties":{"date created":"2026-11-18, 18 48","date modified":"2026-11-18, 18 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-278-cgi/","dg-note-properties":{"date created":"2026-11-18, 18 48","date modified":"2026-11-18, 18 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Code]]","part":null}}
 ---
 
 
