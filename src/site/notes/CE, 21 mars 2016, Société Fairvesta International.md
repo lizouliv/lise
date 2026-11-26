@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ce-21-mars-2016-societe-fairvesta-international/","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 18 10","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/ce-21-mars-2016-societe-fairvesta-international/","ctime":"2026-11-26T17:51:23.379+01:00","mtime":"2026-11-26T18:10:03.053+01:00","dg-note-properties":{"date created":"2026-11-26, 17 50","date modified":"2026-11-26, 18 10","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
 ---
 
 

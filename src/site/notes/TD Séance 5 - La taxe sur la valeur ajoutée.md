@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/td-seance-5-la-taxe-sur-la-valeur-ajoutee/","dg-note-properties":{"date created":"2026-11-18, 18 48","date modified":"2026-11-18, 18 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/TD]]","part":"[[References/5]]"}}
+{"dg-publish":true,"permalink":"/td-seance-5-la-taxe-sur-la-valeur-ajoutee/","ctime":"2026-11-18T18:50:19.767+01:00","mtime":"2026-11-18T18:55:19.159+01:00","dg-note-properties":{"date created":"2026-11-18, 18 48","date modified":"2026-11-18, 18 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/TD]]","part":"[[References/5]]"}}
 ---
 
 

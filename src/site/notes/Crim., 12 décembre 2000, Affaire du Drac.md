@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crim-12-decembre-2000-affaire-du-drac/","dg-note-properties":{"date created":"2026-11-25, 11 19","date modified":"2026-11-25, 13 42","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/crim-12-decembre-2000-affaire-du-drac/","ctime":"2026-11-25T13:20:17.699+01:00","mtime":"2026-11-25T13:42:46.237+01:00","dg-note-properties":{"date created":"2026-11-25, 11 19","date modified":"2026-11-25, 13 42","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Arret]]","part":null}}
 ---
 
 

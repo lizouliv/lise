@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/droit-penal-de-fond/","dg-note-properties":{"date created":"2026-11-25, 10 40","date modified":"2026-11-25, 13 43","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/droit-penal-de-fond/","ctime":"2026-11-25T10:40:31.552+01:00","mtime":"2026-11-25T13:43:42.486+01:00","dg-note-properties":{"date created":"2026-11-25, 10 40","date modified":"2026-11-25, 13 43","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

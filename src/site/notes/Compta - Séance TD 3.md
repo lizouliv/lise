@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/compta-seance-td-3/","dg-note-properties":{"date created":"2026-11-11, 21 13","date modified":"2026-11-11, 21 18","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Compta]]","form":"[[References/TD]]","part":"[[References/3]]"}}
+{"dg-publish":true,"permalink":"/compta-seance-td-3/","ctime":"2026-11-11T21:13:22.539+01:00","mtime":"2026-11-11T21:18:03.744+01:00","dg-note-properties":{"date created":"2026-11-11, 21 13","date modified":"2026-11-11, 21 18","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Compta]]","form":"[[References/TD]]","part":"[[References/3]]"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/decision-n-2015-523-qpc-du-2-mars-2016/","dg-note-properties":{"date created":"2026-11-19, 19 36","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/decision-n-2015-523-qpc-du-2-mars-2016/","ctime":"2026-11-19T19:38:31.108+01:00","mtime":"2026-11-19T19:59:01.149+01:00","dg-note-properties":{"date created":"2026-11-19, 19 36","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 

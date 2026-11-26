@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/retroactivite-in-mitius/","dg-note-properties":{"date created":"2026-11-25, 10 46","date modified":"2026-11-25, 13 43","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/retroactivite-in-mitius/","ctime":"2026-11-25T10:46:36.927+01:00","mtime":"2026-11-25T13:43:36.136+01:00","dg-note-properties":{"date created":"2026-11-25, 10 46","date modified":"2026-11-25, 13 43","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 
