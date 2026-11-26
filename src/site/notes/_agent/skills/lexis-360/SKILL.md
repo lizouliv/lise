@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agent/skills/lexis-360/skill/","dg-note-properties":{"date created":"2026-11-18, 17 25","date modified":"2026-11-18, 19 09","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"lexis-360","description":"Audite les cours de droit du coffre Obsidian pour dresser la liste priorisée des fiches Lexis 360 Intelligence (Fiches pédagogiques, Fiches pratiques, Synthèses JurisClasseur) manquantes à télécharger manuellement, exploite les renvois internes des PDF locaux et intègre les nouveaux PDF téléchargés dans le coffre."}}
+{"dg-publish":true,"permalink":"/agent/skills/lexis-360/skill/","ctime":"2026-11-18T17:24:42.826+01:00","mtime":"2026-11-18T19:09:04.068+01:00","dg-note-properties":{"date created":"2026-11-18, 17 25","date modified":"2026-11-18, 19 09","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"lexis-360","description":"Audite les cours de droit du coffre Obsidian pour dresser la liste priorisée des fiches Lexis 360 Intelligence (Fiches pédagogiques, Fiches pratiques, Synthèses JurisClasseur) manquantes à télécharger manuellement, exploite les renvois internes des PDF locaux et intègre les nouveaux PDF téléchargés dans le coffre."}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arret-french-data-network/","dg-note-properties":{"date created":"2026-10-22, 16 40","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/arret-french-data-network/","ctime":"2026-10-22T16:40:06.772+02:00","mtime":"2026-11-18T17:23:08.579+01:00","dg-note-properties":{"date created":"2026-10-22, 16 40","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
 ---
 
 

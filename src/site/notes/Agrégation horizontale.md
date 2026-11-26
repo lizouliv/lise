@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agregation-horizontale/","dg-note-properties":{"date created":"2026-11-25, 18 50","date modified":"2026-11-25, 18 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Micro]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/agregation-horizontale/","ctime":"2026-11-25T18:50:09.969+01:00","mtime":"2026-11-25T18:50:09.969+01:00","dg-note-properties":{"date created":"2026-11-25, 18 50","date modified":"2026-11-25, 18 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Micro]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

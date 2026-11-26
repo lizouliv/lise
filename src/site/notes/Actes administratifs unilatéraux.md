@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/actes-administratifs-unilateraux/","dg-note-properties":{"date created":"2026-11-12, 15 41","date modified":"2026-11-18, 18 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/actes-administratifs-unilateraux/","ctime":"2026-11-12T15:41:18.642+01:00","mtime":"2026-11-18T18:49:42.794+01:00","dg-note-properties":{"date created":"2026-11-12, 15 41","date modified":"2026-11-18, 18 50","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-111-2-c-pen/","dg-note-properties":{"date created":"2026-10-05, 11 45","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null,"tags":null}}
+{"dg-publish":true,"permalink":"/art-111-2-c-pen/","ctime":"2026-11-08T18:47:18.726+01:00","mtime":"2026-11-18T17:14:43.439+01:00","dg-note-properties":{"date created":"2026-10-05, 11 45","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null,"tags":null}}
 ---
 
 

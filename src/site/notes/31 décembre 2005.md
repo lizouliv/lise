@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/31-decembre-2005/","dg-note-properties":{"date created":"2026-10-13, 23 27","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/31-decembre-2005/","ctime":"2026-10-13T23:27:03.110+02:00","mtime":"2026-11-18T17:18:01.045+01:00","dg-note-properties":{"date created":"2026-10-13, 23 27","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

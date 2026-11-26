@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/abus-de-biens-sociaux/","dg-note-properties":{"date created":"2026-11-25, 11 56","date modified":"2026-11-25, 13 42","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/abus-de-biens-sociaux/","ctime":"2026-11-25T13:20:57.462+01:00","mtime":"2026-11-25T13:42:37.777+01:00","dg-note-properties":{"date created":"2026-11-25, 11 56","date modified":"2026-11-25, 13 42","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

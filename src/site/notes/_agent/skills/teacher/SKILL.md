@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/agent/skills/teacher/skill/","dg-note-properties":{"date created":"2026-11-07, 23 27","date modified":"2026-11-07, 23 28","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"teacher","description":"Interroge interactivement l'utilisateur sur une séance de cours ou de TD en adaptant le format d'examen, les exigences de la matière et en évaluant les réponses avec barème."}}
+{"dg-publish":true,"permalink":"/agent/skills/teacher/skill/","ctime":"2026-11-07T23:28:48.000+01:00","mtime":"2026-11-07T23:28:48.000+01:00","dg-note-properties":{"date created":"2026-11-07, 23 27","date modified":"2026-11-07, 23 28","sector":null,"semester":null,"class":null,"form":null,"part":null,"name":"teacher","description":"Interroge interactivement l'utilisateur sur une séance de cours ou de TD en adaptant le format d'examen, les exigences de la matière et en évaluant les réponses avec barème."}}
 ---
 
 

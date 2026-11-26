@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/arret-syndicat-general-des-ingenieurs-conseils/","dg-note-properties":{"date created":"2026-11-05, 15 43","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/arret-syndicat-general-des-ingenieurs-conseils/","ctime":"2026-11-08T19:00:01.034+01:00","mtime":"2026-11-18T17:23:08.596+01:00","dg-note-properties":{"date created":"2026-11-05, 15 43","date modified":"2026-11-18, 17 20","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Arret]]","part":null}}
 ---
 
 

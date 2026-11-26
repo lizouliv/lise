@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/actes-reglementaires/","dg-note-properties":{"date created":"2026-11-12, 16 39","date modified":"2026-11-12, 17 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/actes-reglementaires/","ctime":"2026-11-12T16:39:57.782+01:00","mtime":"2026-11-12T17:49:06.407+01:00","dg-note-properties":{"date created":"2026-11-12, 16 39","date modified":"2026-11-12, 17 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

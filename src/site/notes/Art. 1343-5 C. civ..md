@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-1343-5-c-civ/","dg-note-properties":{"date created":"2026-10-22, 14 28","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-1343-5-c-civ/","ctime":"2026-11-08T18:47:18.690+01:00","mtime":"2026-11-18T17:14:43.458+01:00","dg-note-properties":{"date created":"2026-10-22, 14 28","date modified":"2026-11-18, 17 15","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Code]]","part":null}}
 ---
 
 
