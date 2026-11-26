@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/droit-du-travail-methodo/","tags":["travail","CM","droit","AES/S3"],"dg-note-properties":{"tags":["travail","CM","droit","AES/S3"],"class":"[[References/Travail]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/0]]","date created":"2026-09-10, 11 40","date modified":"2026-11-19, 20 09"}}
+{"dg-publish":true,"permalink":"/droit-du-travail-methodo/","tags":["travail","CM","droit","AES/S3"],"ctime":"2026-09-10T11:40:22.637+02:00","mtime":"2026-11-19T20:09:51.232+01:00","dg-note-properties":{"tags":["travail","CM","droit","AES/S3"],"class":"[[References/Travail]]","sector":"[[References/AES]]","semester":"[[References/S3]]","form":"[[References/CM]]","part":"[[References/0]]","date created":"2026-09-10, 11 40","date modified":"2026-11-19, 20 09"}}
 ---
 
 

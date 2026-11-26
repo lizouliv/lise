@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/portee-generale-et-impersonnelle/","dg-note-properties":{"date created":"2026-11-12, 16 41","date modified":"2026-11-12, 17 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/portee-generale-et-impersonnelle/","ctime":"2026-11-12T16:41:28.748+01:00","mtime":"2026-11-12T17:49:51.362+01:00","dg-note-properties":{"date created":"2026-11-12, 16 41","date modified":"2026-11-12, 17 48","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

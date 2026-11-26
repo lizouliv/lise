@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-22-fevrier-2017/","dg-note-properties":{"date created":"2026-11-12, 13 50","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-22-fevrier-2017/","ctime":"2026-11-12T13:50:30.836+01:00","mtime":"2026-11-19T19:59:01.135+01:00","dg-note-properties":{"date created":"2026-11-12, 13 50","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 

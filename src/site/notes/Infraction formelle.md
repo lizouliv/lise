@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infraction-formelle/","dg-note-properties":{"date created":"2026-11-18, 11 01","date modified":"2026-11-18, 13 00","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/infraction-formelle/","ctime":"2026-11-18T11:01:50.992+01:00","mtime":"2026-11-18T13:03:22.299+01:00","dg-note-properties":{"date created":"2026-11-18, 11 01","date modified":"2026-11-18, 13 00","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 
