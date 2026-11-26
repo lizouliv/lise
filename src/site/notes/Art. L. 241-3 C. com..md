@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-241-3-c-com/","dg-note-properties":{"date created":"2026-11-25, 13 20","date modified":"2026-11-25, 13 43","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-241-3-c-com/","ctime":"2026-11-25T13:19:54.942+01:00","mtime":"2026-11-25T13:43:23.864+01:00","dg-note-properties":{"date created":"2026-11-25, 13 20","date modified":"2026-11-25, 13 43","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Code]]","part":null}}
 ---
 
 

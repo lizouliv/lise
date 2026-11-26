@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/auteur/","dg-note-properties":{"date created":"2026-11-18, 11 18","date modified":"2026-11-25, 13 23","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/auteur/","ctime":"2026-11-18T11:18:38.038+01:00","mtime":"2026-11-25T13:21:54.804+01:00","dg-note-properties":{"date created":"2026-11-18, 11 18","date modified":"2026-11-25, 13 23","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

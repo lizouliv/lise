@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cass-soc-16-decembre-1992/","dg-note-properties":{"date created":"2026-11-05, 15 22","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
+{"dg-publish":true,"permalink":"/cass-soc-16-decembre-1992/","ctime":"2026-11-08T19:00:01.136+01:00","mtime":"2026-11-19T19:59:01.134+01:00","dg-note-properties":{"date created":"2026-11-05, 15 22","date modified":"2026-11-19, 19 55","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/Arret]]","part":null}}
 ---
 
 

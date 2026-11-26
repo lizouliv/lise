@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/art-l-64-lpf/","dg-note-properties":{"date created":"2026-11-19, 19 45","date modified":"2026-11-19, 19 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Code]]","part":null}}
+{"dg-publish":true,"permalink":"/art-l-64-lpf/","ctime":"2026-11-19T19:45:19.210+01:00","mtime":"2026-11-19T19:45:19.211+01:00","dg-note-properties":{"date created":"2026-11-19, 19 45","date modified":"2026-11-19, 19 45","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Code]]","part":null}}
 ---
 
 
