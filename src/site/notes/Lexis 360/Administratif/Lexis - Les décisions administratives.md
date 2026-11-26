@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-les-decisions-administratives/","ctime":"2026-11-18T18:53:12.985+01:00","mtime":"2026-11-18T18:53:12.985+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-18, 18 52","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-les-decisions-administratives/","ctime":"2026-11-18T18:53:12.985+01:00","mtime":"2026-11-25T18:56:03.831+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-25, 18 56","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
@@ -17,7 +17,7 @@
 
 ### A. Le privilège du préalable
 - Prérogative majeure de puissance publique (**CE, 2 juill. 1982, *Huglo***) : la décision est **présumée légale** et doit être exécutée tant que le juge n'en a pas décidé autrement.
-- Un recours contentieux est **en principe dépourvu d'effet suspensif**, et l'Administration n'a pas besoin de demander au juge la « permission d'agir » (**CE, 30 mai 1913, *Préfet de l'Eure*** : demande irrecevable).
+- Un recours contentieux est **en principe dépourvu d'effet suspensif**, et l'Administration n'a pas besoin de demander au juge la " permission d'agir " (**CE, 30 mai 1913, *Préfet de l'Eure*** : demande irrecevable).
 
 ### B. Auteurs des décisions administratives
 - **Personnes publiques :** leurs décisions bénéficient d'une **présomption réfragable de droit public** (exceptions de droit privé : décisions non réglementaires relatives à la gestion du **domaine privé** ou à la gestion d'un **SPIC**).
@@ -30,14 +30,14 @@
 
 ## 2. Identification et typologie des décisions administratives
 
-### A. Caractère décisoire et dissociation avec l'acte « faisant grief »
-Ne sont **pas** des décisions administratives (actes « infra-décisoires ») : les mesures purement indicatives, préparatoires (avis, vœux, annonces), les circulaires non impératives, les actes purement confirmatifs et le **droit souple** (*en soi*). Toutefois, le juge administratif dissocie de plus en plus caractère décisoire et recevabilité du REP :
+### A. Caractère décisoire et dissociation avec l'acte " faisant grief "
+Ne sont **pas** des décisions administratives (actes " infra-décisoires ") : les mesures purement indicatives, préparatoires (avis, vœux, annonces), les circulaires non impératives, les actes purement confirmatifs et le **droit souple** (*en soi*). Toutefois, le juge administratif dissocie de plus en plus caractère décisoire et recevabilité du REP :
 - **Actes décisoires insusceptibles de recours — Mesures d'ordre intérieur (MOI) :** en fort recul depuis **CE, 17 févr. 1995, *Marie***, subsistent dans les institutions fermées (prison, école) ou la fonction publique (**CE, 25 sept. 2015, *B.*** ; **CE, 8 mars 2023**) si la mesure ne porte pas atteinte aux droits fondamentaux, libertés, rémunération ou responsabilités et ne constitue ni sanction ni discrimination. En milieu carcéral : grille par catégories (**CE, ass., 14 déc. 2007, *Boussouar* et *Planchenault***) + contrôle *in concreto* (**CE, 21 sept. 2023, *M. B.***).
 - **Actes non décisoires susceptibles de REP :** actes de droit souple des autorités de régulation (**CE, ass., 21 mars 2016, *Sté Fairvesta***) puis tout **document de portée générale** émanant d'autorités publiques (circulaires, lignes directrices, FAQ…) dès lors qu'il est susceptible d'avoir des **effets notables** sur les droits ou la situation d'autres personnes que les agents (**CE, 12 juin 2020, *GISTI***).
 - **Décision vs contrat :** les clauses réglementaires d'un contrat administratif (relatives à l'organisation/fonctionnement du SP) sont détachables et constituent des décisions administratives (**CE, 10 juill. 1996, *Cayzeele***).
 
 ### B. Principales classifications (**[[CRPA - Code des relations entre public et administration - 1er janvier 2016\|CRPA]]**)
-1. **Selon les destinataires :** **[[Actes réglementaires\|décisions réglementaires]]** (portée générale et impersonnelle) vs non réglementaires, divisées en **[[Actes individuelles\|décisions individuelles/collectives]]** (personnes nommément désignées) et **[[Actes particuliers (les autres)\|décisions d'espèce]]** (« ni réglementaires ni individuelles », **CRPA, art. L. 221-7** : ex. DUP).
+1. **Selon les destinataires :** **[[Actes réglementaires\|décisions réglementaires]]** (portée générale et impersonnelle) vs non réglementaires, divisées en **[[Actes individuelles\|décisions individuelles/collectives]]** (personnes nommément désignées) et **[[Actes particuliers (les autres)\|décisions d'espèce]]** (" ni réglementaires ni individuelles ", **CRPA, art. L. 221-7** : ex. DUP).
 2. **Selon la forme :** formelles (écrites), verbales, ou **[[Décision implicite\|décisions implicites]]**. Depuis la **[[Loi du 12 novembre 2013 - Principe SVA\|loi du 12 nov. 2013]]** (**CRPA, art. L. 231-1**), le silence gardé pendant **2 mois** vaut en principe **acceptation (SVA)**, sous réserve de larges exceptions où le silence vaut rejet (**CRPA, art. L. 231-4** : demandes non individuelles, financières, réclamations/recours, agents publics + plus de 700 décrets).
 3. **Selon l'effet sur les droits :** décisions **créatrices de droits** (uniquement individuelles/collectives, éventuellement sous condition : CE, 27 mai 2021) vs **non créatrices de droits**.
 
@@ -58,7 +58,7 @@ Ne sont **pas** des décisions administratives (actes « infra-décisoires ») :
 - **Contrôle :** recours administratif (gracieux/hiérarchique), **recours pour excès de pouvoir** toujours ouvert (**CE, 17 févr. 1950, *min. Agriculture c/ Lamotte***), ou **recours de pleine juridiction** dans certains domaines spéciaux (ex. autorisations environnementales).
 
 > [!warning] Pièges à éviter (fiche Lexis)
-> - Ne pas confondre **« acte administratif »** (notion large incluant décisions, actes non décisoires, contrats) et **« décision administrative »** (plus restrictive, en principe décisoire).
+> - Ne pas confondre **" acte administratif "** (notion large incluant décisions, actes non décisoires, contrats) et **" décision administrative "** (plus restrictive, en principe décisoire).
 > - Le recours contre une décision administrative n'est **pas suspensif**.
 > - Le faible formalisme traditionnel de la décision administrative doit être fortement nuancé aujourd'hui avec le CRPA.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/fiscal/lexis-l-impot-sur-les-societes/","ctime":"2026-11-18T18:51:30.597+01:00","mtime":"2026-11-18T18:51:30.597+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-18, 18 50","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/fiscal/lexis-l-impot-sur-les-societes/","ctime":"2026-11-18T18:51:30.597+01:00","mtime":"2026-11-20T13:38:02.984+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-20, 13 38","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 

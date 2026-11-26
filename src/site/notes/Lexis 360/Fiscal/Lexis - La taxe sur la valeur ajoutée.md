@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/fiscal/lexis-la-taxe-sur-la-valeur-ajoutee/","ctime":"2026-11-18T18:51:31.801+01:00","mtime":"2026-11-18T18:51:31.801+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-18, 18 50","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/fiscal/lexis-la-taxe-sur-la-valeur-ajoutee/","ctime":"2026-11-18T18:51:31.801+01:00","mtime":"2026-11-20T13:37:59.519+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-20, 13 37","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
@@ -9,7 +9,7 @@
 > Fiche pratique de documentation juridique externe, distincte de tes notes de cours.
 
 > [!abstract] Définition et mécanisme
-> Instituée en France par la loi du 10 avril 1954 et harmonisée par la directive européenne 2006/112/CE (« directive TVA »), la **TVA** est une **taxe sur le chiffre d'affaires** proportionnelle qui frappe les livraisons de biens et prestations de services. C'est un **impôt neutre** pour les opérateurs économiques : chaque entreprise impute la **TVA déductible (« d'amont »)** sur la **TVA collectée/exigible (« d'aval »)** et reverse l'excédent à l'État (ou obtient un **crédit de TVA**), si bien que la charge finale pèse sur le **consommateur final**.
+> Instituée en France par la loi du 10 avril 1954 et harmonisée par la directive européenne 2006/112/CE (" directive TVA "), la **TVA** est une **taxe sur le chiffre d'affaires** proportionnelle qui frappe les livraisons de biens et prestations de services. C'est un **impôt neutre** pour les opérateurs économiques : chaque entreprise impute la **TVA déductible (" d'amont ")** sur la **TVA collectée/exigible (" d'aval ")** et reverse l'excédent à l'État (ou obtient un **crédit de TVA**), si bien que la charge finale pèse sur le **consommateur final**.
 
 > [!note] Actualité normative : recodification du CGI vers le CIBS
 > L'**ordonnance n° 2025-1247 du 17 déc. 2025** transfère les dispositions législatives relatives à la TVA (**CGI, art. 256 s.**) dans le **Livre II du CIBS (art. L. 200-1 s.)**, avec une entrée en vigueur reportée au **1er janvier 2027** par l'**ordonnance n° 2026-671 du 28 juill. 2026** (les références CGI restent opposables par tolérance jusqu'au 31 déc. 2027).
@@ -69,7 +69,7 @@ La TVA étant un impôt **analytique**, deux critères cumulatifs s'apprécient 
 ## 4. Liquidation, taux et régimes déclaratifs
 
 ### A. Taux de TVA en métropole (**CGI, art. 278 s. / CIBS, art. L. 213-151 s.**)
-- **Taux normal — 20 %** *(8,5 % en Guadeloupe, Martinique, La Réunion)* : taux de droit commun (inclut aussi offres « triple play » internet/TV/téléphonie).
+- **Taux normal — 20 %** *(8,5 % en Guadeloupe, Martinique, La Réunion)* : taux de droit commun (inclut aussi offres " triple play " internet/TV/téléphonie).
 - **Taux intermédiaire — 10 % :** ventes à consommer sur place, produits alimentaires à emporter en consommation immédiate, médicaments non remboursables, transport de voyageurs, musées/expositions, travaux d'amélioration de logements > 2 ans, abonnements TV simples.
 - **Taux réduit — 5,5 % :** alimentation et eau hors alcool *(sauf exceptions à 20 % comme caviar/margarine)*, livres, cinéma, cantines scolaires, appareillages handicapés, déchets ménagers, parcs zoologiques/réunions sportives/équitation, préservatifs et protections hygiéniques, IRVE et panneaux photovoltaïques sous conditions.
 - **Taux super réduit — 2,1 % :** médicaments remboursables, presse, 140 premières représentations de théâtre/cirque.
@@ -78,10 +78,10 @@ La TVA étant un impôt **analytique**, deux critères cumulatifs s'apprécient 
 - **Régime réel normal (CGI, art. 287, 2) :** déclaration mensuelle **CA3** dématérialisée (si CA HT > 840 000 € ventes ou > 254 000 € prestations).
 - **Régime réel simplifié $\rightarrow$ régime trimestriel en 2027 :** actuellement déclaration annuelle avec 2 acomptes semestriels (55 % juillet, 40 % décembre) ; supprimé par la **LF 2025 (art. 38)** et remplacé au **1er janvier 2027** par un **régime déclaratif trimestriel** si CA + acquisitions taxables `< 1 000 000 €` (tolérance `1 100 000 €`).
 - **Franchise en base de TVA (CGI, art. 293 B / CIBS, art. L. 233-3 s.) :** dispense de facturation/reversement (assujetti non redevable, sans droit à déduction) si CA N-1 $\le$ **85 000 €** (ventes/hébergement ; tolérance N : **93 500 €**) ou $\le$ **37 500 €** (prestations ; tolérance N : **41 250 €**). *(L'abaissement à un seuil unique de 25 000 € voté en LF 2025 a été abandonné et abrogé).*
-- **Groupes de sociétés :** possibilité d'opter pour le **paiement consolidé** (**art. 1683 ter CGI**, chaque société restant assujettie) ou pour le **régime du « groupe TVA » / assujetti unique** (**art. 256 C CGI / CIBS art. L. 234-1 s.** : opérations internes hors champ de TVA, tête de groupe seule redevable, solidarité de paiement).
+- **Groupes de sociétés :** possibilité d'opter pour le **paiement consolidé** (**art. 1683 ter CGI**, chaque société restant assujettie) ou pour le **régime du " groupe TVA " / assujetti unique** (**art. 256 C CGI / CIBS art. L. 234-1 s.** : opérations internes hors champ de TVA, tête de groupe seule redevable, solidarité de paiement).
 
 > [!warning] Pièges à éviter (fiche Lexis)
-> - **Contentieux :** La TVA est une taxe sur le chiffre d'affaires (et non une « contribution indirecte » au sens procédural) $\rightarrow$ compétence du **juge administratif** ([[Conseil d'État\|Conseil d'État]] / [[CJUE\|CJUE]]). Ne pas confondre avec la **CVAE** (impôt direct local).
+> - **Contentieux :** La TVA est une taxe sur le chiffre d'affaires (et non une " contribution indirecte " au sens procédural) $\rightarrow$ compétence du **juge administratif** ([[Conseil d'État\|Conseil d'État]] / [[CJUE\|CJUE]]). Ne pas confondre avec la **CVAE** (impôt direct local).
 > - Bien distinguer les 6 statuts : *assujetti-redevable*, *assujetti non redevable (exonéré)*, *assujetti exonéré ayant opté*, *non-assujetti non redevable* et *non-assujetti redevable* (sanction de facturation indue).
 > - L'**option pour les débits** ne concerne **que les prestations de services** et jamais les livraisons de biens.
 

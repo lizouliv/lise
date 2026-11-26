@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crim-25-octobre-1962-lacour-et-schieb/","ctime":"2026-11-18T10:41:38.010+01:00","mtime":"2026-11-18T13:23:26.821+01:00","dg-note-properties":{"date created":"2026-11-18, 10 41","date modified":"2026-11-18, 13 25","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Arret]]","part":"[[examen]]"}}
+{"dg-publish":true,"permalink":"/crim-25-octobre-1962-lacour-et-schieb/","ctime":"2026-11-18T10:41:38.010+01:00","mtime":"2026-11-25T10:09:50.329+01:00","dg-note-properties":{"date created":"2026-11-18, 10 41","date modified":"2026-11-25, 10 09","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Arret]]","part":"[[examen]]"}}
 ---
 
 
@@ -9,7 +9,7 @@
 - **Question de droit** : Le fait de verser ou d'empocher une somme d'argent en vue de commettre une infraction, sans passage à l'acte matériel, caractérise-t-il un [[Commencement d'exécution\|Commencement d'exécution]] punissable ?
 
 > [!abstract] **Principe — Définition prétorienne du [[Commencement d'exécution\|Commencement d'exécution]]**
-> Le commencement d'exécution est **« l'acte qui tend directement et immédiatement à la consommation de l'infraction »**, marquant le moment où le processus devient irréversible.
+> Le commencement d'exécution est **" l'acte qui tend directement et immédiatement à la consommation de l'infraction "**, marquant le moment où le processus devient irréversible.
 
 - **Solution et portée** :
   - **Absence de tentative** : Les actes accomplis demeurent au stade de l'**acte préparatoire** non punissable, trop éloigné de la consommation de l'infraction.

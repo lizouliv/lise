@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exos-td-5-l-evolution-du-contrat-de-travail/","ctime":"2026-11-16T13:23:35.741+01:00","mtime":"2026-11-18T13:23:26.826+01:00","dg-note-properties":{"date created":"2026-11-16, 13 22","date modified":"2026-11-16, 15 37","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/5]]"}}
+{"dg-publish":true,"permalink":"/exos-td-5-l-evolution-du-contrat-de-travail/","ctime":"2026-11-16T13:23:35.741+01:00","mtime":"2026-11-23T16:58:36.321+01:00","dg-note-properties":{"date created":"2026-11-16, 13 22","date modified":"2026-11-23, 16 58","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Travail]]","form":"[[References/TD]]","part":"[[References/5]]"}}
 ---
 
 

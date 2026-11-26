@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/penal/lexis-penal/","ctime":"2026-11-18T18:51:35.510+01:00","mtime":"2026-11-18T18:51:35.510+01:00","dg-note-properties":{"date created":"2026-11-18, 12 45","date modified":"2026-11-18, 18 50","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Lexis]]","part":"[[References/0]]"}}
+{"dg-publish":true,"permalink":"/lexis-360/penal/lexis-penal/","ctime":"2026-11-18T18:51:35.510+01:00","mtime":"2026-11-25T18:55:16.257+01:00","dg-note-properties":{"date created":"2026-11-18, 12 45","date modified":"2026-11-25, 18 55","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Lexis]]","part":"[[References/0]]"}}
 ---
 
 

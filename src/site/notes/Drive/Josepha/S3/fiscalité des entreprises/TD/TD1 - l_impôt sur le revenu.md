@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drive/josepha/s3/fiscalite-des-entreprises/td/td-1-l-impot-sur-le-revenu/","ctime":"2026-11-08T15:49:15.916+01:00","mtime":"2026-11-08T17:44:13.290+01:00","dg-note-properties":{"date created":"2026-11-08, 15 41","date modified":"2026-11-08, 15 59","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/TD]]","part":"[[References/1]]"}}
+{"dg-publish":true,"permalink":"/drive/josepha/s3/fiscalite-des-entreprises/td/td-1-l-impot-sur-le-revenu/","ctime":"2026-11-08T15:49:15.916+01:00","mtime":"2026-11-21T14:13:11.501+01:00","dg-note-properties":{"date created":"2026-11-08, 15 49","date modified":"2026-11-21, 14 13","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/TD]]","part":"[[References/1]]"}}
 ---
 
 

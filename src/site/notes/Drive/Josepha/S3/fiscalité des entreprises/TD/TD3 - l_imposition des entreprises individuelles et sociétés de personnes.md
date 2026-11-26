@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drive/josepha/s3/fiscalite-des-entreprises/td/td-3-l-imposition-des-entreprises-individuelles-et-societes-de-personnes/","ctime":"2026-11-16T14:17:33.758+01:00","mtime":"2026-11-16T14:17:33.759+01:00","dg-note-properties":{"date created":"2026-11-16, 14 15","date modified":"2026-11-16, 14 15","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/TD]]","part":"[[References/3]]"}}
+{"dg-publish":true,"permalink":"/drive/josepha/s3/fiscalite-des-entreprises/td/td-3-l-imposition-des-entreprises-individuelles-et-societes-de-personnes/","ctime":"2026-11-16T14:17:33.758+01:00","mtime":"2026-11-21T14:13:46.480+01:00","dg-note-properties":{"date created":"2026-11-16, 14 15","date modified":"2026-11-21, 14 13","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/TD]]","part":"[[References/3]]"}}
 ---
 
 
@@ -87,7 +87,7 @@ Aux termes de l'article 39-1-5° du CGI, la déductibilité d'une provision supp
 2. Être rendue probable par des événements en cours à la date de clôture de l'exercice.
 3. Résulter d'une évaluation individualisée et rigoureuse (exclusion des évaluations forfaitaires).
 
-### Analyse des situations :
+### Analyse des situations 
 1. **Provision pour intempéries futures :** simple risque purement éventuel et aléatoire. Non déductible $\rightarrow$ **Réintégration**.
 2. **Provision pour plan social / licenciement :** les charges futures de restructuration ou de licenciement ne sont déductibles qu'à la date de notification aux salariés. Non déductible à la clôture $\rightarrow$ **Réintégration**.
 3. **Créances douteuses :**

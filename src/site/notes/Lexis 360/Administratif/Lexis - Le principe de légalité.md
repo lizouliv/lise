@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-le-principe-de-legalite/","ctime":"2026-11-18T18:53:10.532+01:00","mtime":"2026-11-18T18:53:10.532+01:00","dg-note-properties":{"date created":"2026-11-12, 16 27","date modified":"2026-11-18, 18 52","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-le-principe-de-legalite/","ctime":"2026-11-18T18:53:10.532+01:00","mtime":"2026-11-25T18:56:02.833+01:00","dg-note-properties":{"date created":"2026-11-12, 16 27","date modified":"2026-11-25, 18 56","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
@@ -72,8 +72,8 @@
 - **Contrôle juridictionnel objectif :** **recours pour excès de pouvoir** toujours ouvert (**CE, 17 févr. 1950, _Dame Lamotte_**), question prioritaire de constitutionnalité (QPC) et engagement éventuel de [[Lexis 360/Administratif/Lexis - La responsabilité administrative\|la responsabilité administrative]] car toute illégalité constitue par principe une faute (*CE, 26 janv. 1973, Driancourt* ; *CE, 18 nov. 2015*).
 
 > [!warning] Pièges et exercices types (fiche Lexis)
-> - La « légalité » ne désigne pas la seule loi mais **tout le bloc normatif supérieur**.
-> - **Exercices corrigés dans le PDF (pp. 17–28) :** Dissertation *« Le retard du Gouvernement à prendre les règlements d'exécution des lois »* + Commentaire de *CE, 25 sept. 1998, Mégret* (voir [[Lexis 360/Méthodologie/Lexis - Maîtriser le commentaire d'arrêt\|Fiche pédagogique n° 3334]]).
+> - La " légalité " ne désigne pas la seule loi mais **tout le bloc normatif supérieur**.
+> - **Exercices corrigés dans le PDF (pp. 17–28) :** Dissertation *" Le retard du Gouvernement à prendre les règlements d'exécution des lois "* + Commentaire de *CE, 25 sept. 1998, Mégret* (voir [[Lexis 360/Méthodologie/Lexis - Maîtriser le commentaire d'arrêt\|Fiche pédagogique n° 3334]]).
 
 ---
 

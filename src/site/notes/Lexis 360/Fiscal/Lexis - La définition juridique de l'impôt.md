@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/fiscal/lexis-la-definition-juridique-de-l-impot/","ctime":"2026-11-18T18:51:27.935+01:00","mtime":"2026-11-18T18:51:27.935+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-18, 18 50","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/fiscal/lexis-la-definition-juridique-de-l-impot/","ctime":"2026-11-18T18:51:27.935+01:00","mtime":"2026-11-20T13:38:05.756+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-20, 13 38","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
-# Lexis - La définition juridique de l’impôt
+# Lexis - La définition juridique de l'impôt
 
 > [!info] Documentation externe — Lexis 360 Intelligence (Aurélien Cara)
 > Fiche pratique de documentation juridique externe, distincte de tes notes de cours.
@@ -36,7 +36,7 @@
 ### B. Les trois finalités de l'impôt
 1. **Finalité budgétaire :** Financer le budget général voté chaque année en loi de finances (cadre de performance et de transparence de la LOLF).
 2. **Finalité économique :** Réguler et piloter l'économie ou l'aménagement du territoire (ex. dispositifs immobiliers *Scellier*, *Duflot*, *Pinel*).
-3. **Finalité sociale :** Réduire les inégalités, pouvant aller jusqu'à un « impôt négatif » ou allégement spécifique (ex. personnes invalides, veuves avec enfants).
+3. **Finalité sociale :** Réduire les inégalités, pouvant aller jusqu'à un " impôt négatif " ou allégement spécifique (ex. personnes invalides, veuves avec enfants).
 
 ---
 
@@ -53,7 +53,7 @@
 ### B. Recouvrement, contrôle et contentieux
 - **Recouvrement :** Paiement spontané par le redevable (ex. taxe foncière) ou collecte par un **tiers collecteur** (employeur pour le PAS, professionnel pour la TVA, notaire pour les plus-values immobilières). À défaut, procédures dérogatoires (avis à tiers détenteur, créance privilégiée).
 - **Administration fiscale :** Quasi-monopole de la **DGFiP** (assiette, recouvrement, contrôle — y compris pour les impôts reversés aux collectivités locales comme la taxe foncière ou la CET), partagé à la marge avec la **DGDDI** (douanes).
-- **Contrôle fiscal (« sur pièces » ou « sur place ») :** Le contribuable est **présumé de bonne foi**. L'Administration supporte la charge de prouver l'absence de bonne foi ou l'abus de droit. Majorations applicables (**CGI, art. 1729 et 1732**) :
+- **Contrôle fiscal (" sur pièces " ou " sur place ") :** Le contribuable est **présumé de bonne foi**. L'Administration supporte la charge de prouver l'absence de bonne foi ou l'abus de droit. Majorations applicables (**CGI, art. 1729 et 1732**) :
   - **40 %** pour manquement délibéré ;
   - **80 %** pour abus de droit ;
   - **100 %** pour opposition à contrôle fiscal.

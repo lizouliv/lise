@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/drive/josepha/s3/continuite-et-controverses-de-la-pensee-economique/introduction/","ctime":"2026-11-08T15:49:15.127+01:00","mtime":"2026-11-08T17:44:13.336+01:00","dg-note-properties":{"date created":"2026-11-08, 15 41","date modified":"2026-11-08, 15 59","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/CCPE]]","form":"[[References/CM]]","part":"[[References/0]]"}}
+{"dg-publish":true,"permalink":"/drive/josepha/s3/continuite-et-controverses-de-la-pensee-economique/introduction/","ctime":"2026-11-08T15:49:15.127+01:00","mtime":"2026-11-25T16:21:12.227+01:00","dg-note-properties":{"date created":"2026-11-08, 15 49","date modified":"2026-11-25, 16 21","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/CCPE]]","form":"[[References/CM]]","part":"[[References/0]]"}}
 ---
 
 
 # Introduction
 
-#### Programme de l'année :
+#### Programme de l'année 
 
 Le cours retrace l'histoire des idées économiques et la structuration de la science économique à travers ses principaux courants et auteurs :
 
@@ -13,17 +13,17 @@ Le cours retrace l'histoire des idées économiques et la structuration de la sc
 - Les Classiques (Fin XVIIIᵉ – XIXᵉ siècle) : Fondateurs de l'économie politique libérale (Adam Smith, David Ricardo, Jean-Baptiste Say, Thomas Malthus).
 - Les Néoclassiques (Fin XIXᵉ siècle) : Révolution marginaliste et formalisation mathématique de l'économie (William Stanley Jevons, Carl Menger, Léon Walras, Alfred Marshall).
 - John Maynard Keynes (XXᵉ siècle) : Macroéconomie moderne, rôle des anticipations et interventionnisme d'État face aux crises.
-- Joseph Schumpeter (Courant hétérodoxe) : Analyse du capitalisme, de la dynamique de l'innovation et du processus de « destruction créatrice ».
+- Joseph Schumpeter (Courant hétérodoxe) : Analyse du capitalisme, de la dynamique de l'innovation et du processus de " destruction créatrice ".
 - La recherche en sciences économiques après 1945 : Développements contemporains axés notamment sur la théorie de la rationalité (ex. rationalité limitée) et la philosophie de la justice sociale (ex. John Rawls, Amartya Sen).
 
-#### Étymologie et origines du concept d'« Économie »
+#### Étymologie et origines du concept d'" Économie "
 
 L'origine du mot économie provient du grec ancien oikonomia (οἰκονομία), composé de deux termes :
 
 - Oikos (οἶκος) : La maison, le domaine, le foyer.
 - Nomos (νόμος) : La loi, la règle de conduite, l'usage, ou le verbe nemein (administrer, gérer).
 
-L'économie, dans son sens étymologique premier, est donc « l'art d'administrer la maison ».
+L'économie, dans son sens étymologique premier, est donc " l'art d'administrer la maison ".
 
 Il s'agit de la gestion matérielle et morale de la petite communauté domestique.
 
@@ -72,7 +72,7 @@ Aristote est le premier penseur à formaliser explicitement les trois fonctions 
 
 Parce que la monnaie n'est qu'un instrument destiné à faciliter les échanges réels :
 
-- Condamnation de l'usure --> Aristote condamne fermement le prêt à intérêt (usure). La monnaie étant par nature stérile (« l'argent n'engendre pas d'argent »), faire payer un intérêt fort revient à tirer un profit illégitime de la monnaie elle-même, dénaturant sa fonction initiale.
+- Condamnation de l'usure --> Aristote condamne fermement le prêt à intérêt (usure). La monnaie étant par nature stérile (" l'argent n'engendre pas d'argent "), faire payer un intérêt fort revient à tirer un profit illégitime de la monnaie elle-même, dénaturant sa fonction initiale.
 
 Exemples de monnaies-marchandises dans l'Histoire :
 
@@ -94,7 +94,7 @@ Théologien majeur de la Scolastique au Moyen Âge, Saint Thomas d'Aquin synthé
 - Argument théologique sur le temps --> Le prêt à intérêt revient à vendre du temps (la durée du prêt). Or, le temps appartient à Dieu seul. Vendre le temps d'autrui revient donc à faire travailler Dieu pour son propre gain, ce qui constitue un péché d'avarice et de vol.
 - Protection du faible --> La doctrine chrétienne prône la pauvreté spirituelle et la charité. L'usure est condamnée parce qu'elle permet au fort (le prêteur) d'exercer une emprise oppressive sur le faible (l'emprunteur dans le besoin).
 
-#### La notion du « Juste Prix » (Justum Pretium)
+#### La notion du " Juste Prix " (Justum Pretium)
 
 Le juste prix garantit qu'aucune partie ne soit lésée, ni sur le plan individuel (justice entre acheteur et vendeur), ni sur le plan collectif (stabilité de la communauté).
 
@@ -186,7 +186,7 @@ Pour Nicolas Oresme --> La monnaie appartient à la communauté des marchands et
 
 Le Prince n'est que le garant technique (le frappeur) de la valeur faciale de la monnaie, mais il n'en est pas le propriétaire.
 
-#### Condamnation des « mutations monétaires » (manipulations)
+#### Condamnation des " mutations monétaires " (manipulations)
 
 Puisque la monnaie n'appartient pas au Prince, celui-ci ne doit en aucun cas procéder à des mutations monétaires (rogne de la monnaie, réduction du poids de métal précieux tout en conservant la valeur faciale) pour éponger ses dettes ou financer des guerres.
 

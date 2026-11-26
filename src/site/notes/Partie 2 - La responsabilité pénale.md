@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/partie-2-la-responsabilite-penale/","ctime":"2026-11-06T22:04:48.287+01:00","mtime":"2026-11-18T13:31:50.314+01:00","dg-note-properties":{"date created":"2026-11-06, 22 04","date modified":"2026-11-18, 13 30","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/partie-2-la-responsabilite-penale/","ctime":"2026-11-06T22:04:48.287+01:00","mtime":"2026-11-25T19:51:53.173+01:00","dg-note-properties":{"date created":"2026-11-06, 22 04","date modified":"2026-11-25, 19 51","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/CM]]","part":"[[References/2]]"}}
 ---
 
 
@@ -71,9 +71,9 @@ L'analyse de la gradation de l'intention s'appuie sur la typologie des dols éla
 * **Le dol præter-intentionnel (ou dol dépassé)** : Étudié dans [[Dol praeter intentionnel\|Dol praeter intentionnel]], il qualifie la situation où le résultat produit excède l'intention initiale de l'agent. L'auteur a voulu les violences mais n'a pas recherché la mort. Cette figure s'incarne directement dans l'infraction de violences volontaires ayant entraîné la mort sans intention de la donner, sanctionnée par l'[[Art. 222-7 C. pén.\|Art. 222-7 C. pén.]].
 
 > [!question] **Questions d'examen (selon le cours)**
-> * **« Le dol præter-intentionnel est-il une faute intentionnelle ? »**  
+> * **" Le dol præter-intentionnel est-il une faute intentionnelle ? "**  
 >   **Oui, il s'agit d'une variante de la faute intentionnelle.** L'agent accomplit volontairement un acte matériel fautif initial (des violences volontaires), mais le résultat dommageable effectif (le décès) a dépassé ses prévisions et sa volonté. Il se distingue ainsi de l'homicide involontaire (absence de délit volontaire initial) et du meurtre (exigeant l'[[Animus Necandi\|Animus Necandi]]). Illustration légale : [[Art. 222-7 C. pén.\|Art. 222-7 C. pén.]].
-> * **« Les violences volontaires (relevant du dol indéterminé ou præter-intentionnel) sont-elles des infractions matérielles ? »**  
+> * **" Les violences volontaires (relevant du dol indéterminé ou præter-intentionnel) sont-elles des infractions matérielles ? "**  
 >   **Oui, ce sont des infractions matérielles.** Leur caractérisation exige la survenance effective d'un dommage (ITT, infirmité permanente ou mort), qui constitue à la fois un élément matériel indispensable et un **élément qualifiant** fixant le degré de gravité de la peine encourue.
 
 #### 4. La preuve du caractère délibéré déduite des circonstances
@@ -202,8 +202,9 @@ La répression peut intervenir en amont de la consommation, au stade du [[Commen
     * Aucune ITT : contravention de 4e classe ([[Art. R. 624-1 C. pén.\|Art. R. 624-1 C. pén.]]).
     * ITT inférieure, égale ou supérieure à 8 jours, jusqu'à la mutilation : qualifications délictuelles ou criminelles graduées.
     * Violences ayant entraîné la mort sans intention de la donner : qualification criminelle punie de 15 ans de réclusion criminelle ([[Art. 222-7 C. pén.\|Art. 222-7 C. pén.]]), illustrant le [[Dol praeter intentionnel\|Dol praeter intentionnel]].
-    > [!important] **Impossibilité de retenir la tentative de violences volontaires**
-    > Tant que le dommage ne s'est pas réalisé, la qualification exacte est indéterminable. La structure même des violences volontaires interdit donc toute possibilité de caractériser une tentative.
+  
+> [!important] **Impossibilité de retenir la tentative de violences volontaires**
+> Tant que le dommage ne s'est pas réalisé, la qualification exacte est indéterminable. La structure même des violences volontaires interdit donc toute possibilité de caractériser une tentative.
   * **Les [[Infraction non intentionnelle\|infractions non intentionnelles]] ([[Art. 121-3 C. pén.\|Art. 121-3 C. pén.]])** : Les homicides et blessures involontaires (exclusivement délictuels ou contraventionnels, jamais criminels) sont également des [[Infraction matérielle\|infractions matérielles]] dont le dommage constitue un élément qualifiant (en fonction de l'ITT causée). On ne peut juridiquement tenter un comportement imprudent vers un dommage qui ne s'est pas réalisé.
 
 ##### 2. Les conditions cumulatives de la tentative ([[Art. 121-5 C. pén.\|Art. 121-5 C. pén.]])
@@ -213,7 +214,7 @@ Selon l'[[Art. 121-5 C. pén.\|Art. 121-5 C. pén.]], la tentative punissable su
 * **a) Le [[Commencement d'exécution\|Commencement d'exécution]]** :
   * Le législateur n'a pas défini cette notion, ce qui pose difficulté au regard du principe de légalité. La jurisprudence a donc forgé une définition prétorienne constante à travers les arrêts [[Crim., 25 octobre 1962, Lacour et Schieb\|Crim., 25 octobre 1962, Lacour et Schieb]].
   > [!abstract] **Définition prétorienne du [[Commencement d'exécution\|Commencement d'exécution]]**
-  > Le commencement d'exécution est **« l'acte qui tend directement et immédiatement à la consommation de l'infraction »**. Les juges recherchent le moment à partir duquel le processus infractionnel devient irréversible, dans un temps immédiat et très voisin de la consommation.
+  > Le commencement d'exécution est **" l'acte qui tend directement et immédiatement à la consommation de l'infraction "**. Les juges recherchent le moment à partir duquel le processus infractionnel devient irréversible, dans un temps immédiat et très voisin de la consommation.
   * *Application à l'espèce (Affaire Lacour)* : Le docteur Lacour voulait tuer le fils adoptif de sa compagne et recruta un homme de main auquel il promit 13 millions de francs, en lui versant 3 millions d'acompte. L'homme de main empocha l'argent pour partir en voyage sans accomplir le meurtre. La Chambre criminelle a jugé que le fait de recevoir une somme d'argent en vue de commettre une infraction, sans passer à l'acte ni même approcher la victime, était trop éloigné de l'élément matériel et demeurait au stade de l'**acte préparatoire** non punissable, entraînant la relaxe.
 * **b) Le [[Désistement involontaire\|Désistement involontaire]]** :
   * L'exécution ne doit avoir été suspendue (ou n'avoir manqué son effet) qu'en raison de **circonstances indépendantes de la volonté de son auteur**.
@@ -229,7 +230,7 @@ La tentative infructueuse recouvre les situations dans lesquelles l'agent a acco
 
 * **L'infraction manquée** :
   * L'action s'est déroulée dans sa totalité, mais le résultat escompté échoue en raison de la maladresse ou de l'étourderie de l'auteur.
-  * L'[[Art. 121-5 C. pén.\|Art. 121-5 C. pén.]] (*« n'a manqué son effet »*) assimile l'infraction manquée à la tentative punissable, cet échec ne pouvant être assimilé à un désistement volontaire.
+  * L'[[Art. 121-5 C. pén.\|Art. 121-5 C. pén.]] (*" n'a manqué son effet "*) assimile l'infraction manquée à la tentative punissable, cet échec ne pouvant être assimilé à un désistement volontaire.
 * **L'[[Infraction impossible\|Infraction impossible]]** :
   * L'échec tient soit à l'impropriété des moyens utilisés, soit à une circonstance matérielle empêchant la consommation (absence ou inaptitude de l'objet de l'infraction), notamment lorsqu'un individu porte des coups mortels à une personne déjà décédée.
 * **Consécration jurisprudentielle : [[Crim., 16 janvier 1986, Perdereau\|Crim., 16 janvier 1986, Perdereau]]** :
@@ -238,8 +239,8 @@ La tentative infructueuse recouvre les situations dans lesquelles l'agent a acco
   > [!quote] **[[Crim., 16 janvier 1986, Perdereau\|Crim., 16 janvier 1986, Perdereau]]**
   > Les violences accomplies avec l'intention de donner la mort ([[Animus Necandi\|Animus Necandi]]) sur le corps d'une personne déjà décédée caractérisent un commencement d'exécution, le prédécès de la victime étant une circonstance indépendante de la volonté de l'auteur.
 * **Portée et limites** :
-  * Cette jurisprudence demeure d'application exceptionnelle et n'a pas été transposée, par exemple, au viol commis sur un cadavre : un cadavre ne peut ni consentir ni refuser son consentement ; l'élément matériel « autrui » (personne vivante) fait défaut ; et des incriminations spécifiques répriment plus directement les atteintes à l'intégrité du cadavre et aux sépultures.
-  * Par ailleurs, si l'auteur est conscient que la victime est déjà décédée, la qualification de meurtre consommé est tout autant exclue faute de personne vivante (« autrui »).
+  * Cette jurisprudence demeure d'application exceptionnelle et n'a pas été transposée, par exemple, au viol commis sur un cadavre : un cadavre ne peut ni consentir ni refuser son consentement ; l'élément matériel " autrui " (personne vivante) fait défaut ; et des incriminations spécifiques répriment plus directement les atteintes à l'intégrité du cadavre et aux sépultures.
+  * Par ailleurs, si l'auteur est conscient que la victime est déjà décédée, la qualification de meurtre consommé est tout autant exclue faute de personne vivante (" autrui ").
 
 ---
 
@@ -248,7 +249,7 @@ La tentative infructueuse recouvre les situations dans lesquelles l'agent a acco
 ### Introduction : Le principe de la responsabilité pénale personnelle
 
 > [!abstract] **Principe fondamental — [[Art. 121-1 C. pén.\|Art. 121-1 C. pén.]]**
-> *« Nul n'est responsable pénalement que de son propre fait. »*
+> *" Nul n'est responsable pénalement que de son propre fait. "*
 
 * **Exclusion de la responsabilité du fait d'autrui** : À la différence du droit civil, le droit pénal ignore la responsabilité du fait d'autrui. Les sujets exclusifs du droit pénal sont donc les acteurs personnels de l'infraction :
   * L'**[[Auteur\|Auteur]]** d'une infraction [[Consommé\|consommée]] ou d'une infraction [[Tenté\|tentée]].
@@ -266,7 +267,7 @@ Voir [[Personnes physiques\|Personnes physiques]].
 * **Définition matérielle ([[Art. 121-4 C. pén.\|Art. 121-4 C. pén.]])** : Est [[Auteur\|Auteur]] principal de l'infraction la personne qui commet matériellement les faits incriminés (1°) ou qui tente de commettre un crime ou, dans les cas prévus par la loi, un délit (2°).
 * **Auteur non qualifié et auteur qualifié** :
   * *Auteur non qualifié* : Les infractions du Code pénal (Livres II à V) peuvent en principe être commises par n'importe quel citoyen sans exigence de qualité particulière (ex. le meurtre).
-  * *Auteur qualifié* : Les textes spéciaux, souvent situés hors du Code pénal, désignent expressément la qualité requise chez l'auteur (ex. l'abus de biens sociaux dans le Code de commerce suppose la qualité de dirigeant : gérant de SARL, dirigeant de SA, etc.).
+  * *Auteur qualifié* : Les textes spéciaux, souvent situés hors du Code pénal, désignent expressément la qualité requise chez l'auteur (ex. l'[[Abus de biens sociaux\|abus de biens sociaux]] dans le Code de commerce suppose la qualité de dirigeant : gérant de SARL, dirigeant de SA, etc.).
 * **Auteur direct et auteur indirect** : En matière d'[[Infraction non intentionnelle\|infractions non intentionnelles]], la [[Loi du 10 juillet 2000\|Loi du 10 juillet 2000]] ([[Art. 121-3 al. 3 et 4 C. pén.\|Art. 121-3 al. 3 et 4 C. pén.]]) impose de distinguer l'auteur direct (responsable sur faute simple) de l'auteur indirect (responsable uniquement sur faute qualifiée).
 
 #### B. Le complice
@@ -293,7 +294,7 @@ L'[[Art. 121-7 C. pén.\|Art. 121-7 C. pén.]] prévoit deux formes légales de 
     * *Connaissance sans participation* : Celui qui sait qu'une infraction va être commise mais s'abstient de l'empêcher ou d'alerter la police n'est pas complice (faute d'aide ou de présence). Par le jeu des qualifications pénales, il peut toutefois devenir **auteur** d'une infraction autonome d'omission s'il s'agit d'un crime (**non-dénonciation de crime**), aucune incrimination équivalente n'existant pour les délits ou les contraventions.
   * *Condition chronologique* : L'aide ou l'assistance doit faciliter la **préparation** (acte antérieur) ou la **consommation** (acte concomitant) de l'infraction. Un acte postérieur échappe à la complicité, mais peut relever d'une incrimination autonome distincte comme le **recel** (recel-détention ou recel-profit, par exemple profiter d'un bien volé par un proche).
 * **b) La complicité par instigation (alinéa 2)** :
-  * Appréhende l'instigateur (« auteur intellectuel ») sous la qualification de complice, selon deux modalités :
+  * Appréhende l'instigateur (" auteur intellectuel ") sous la qualification de complice, selon deux modalités :
   * **La [[Complicité par provocation\|Complicité par provocation]]** : Provocation à commettre l'infraction elle-même (pouvant être simplement verbale), nécessairement accompagnée d'un **[[Adminicule\|Adminicule]]** prévu par l'[[Art. 121-7 C. pén.\|Art. 121-7 C. pén.]] : **don, promesse, menace, ordre, abus d'autorité ou de pouvoir**. Sans l'un de ces adminicules, la provocation n'est pas constitutive de complicité. *(Ex. donner l'ordre à son chauffeur personnel de brûler un feu rouge caractérise une complicité de contravention par provocation.)*
   * **La complicité par fourniture d'instructions** : Communication de renseignements précis permettant à l'auteur matériel d'exécuter l'infraction (ex. indiquer les horaires d'absence d'un domicile et la défaillance de sa serrure en vue d'un vol).
   > [!tip] **Du vide juridique de l'arrêt Lacour au [[Mandat criminel\|Mandat criminel]]**
@@ -301,7 +302,7 @@ L'[[Art. 121-7 C. pén.\|Art. 121-7 C. pén.]] prévoit deux formes légales de 
 
 ##### 3. La condition tenant à l'adhésion morale
 
-* L'[[Art. 121-7 C. pén.\|Art. 121-7 C. pén.]] exige que le complice agisse **« sciemment »**, traduisant l'exigence d'**[[Adhésion morale\|Adhésion morale]]**.
+* L'[[Art. 121-7 C. pén.\|Art. 121-7 C. pén.]] exige que le complice agisse **" sciemment "**, traduisant l'exigence d'**[[Adhésion morale\|Adhésion morale]]**.
 * **Distinction avec l'élément moral de l'auteur** : Il n'est pas exigé que le complice réunisse personnellement l'élément moral propre à l'infraction principale, mais qu'il ait conscience et connaissance que l'auteur s'apprête à commettre une infraction à laquelle il apporte son concours.
 * **Exclusion des infractions non intentionnelles** : Il ne peut exister de complicité d'une [[Infraction non intentionnelle\|Infraction non intentionnelle]], car on ne peut s'associer sciemment à une imprudence.
 * **Discordance entre l'infraction projetée et l'infraction réalisée** : Le critère retenu est celui de l'**identité de l'intérêt juridique protégé** (valeur sociale protégée) :
@@ -310,16 +311,100 @@ L'[[Art. 121-7 C. pén.\|Art. 121-7 C. pén.]] prévoit deux formes légales de 
 
 ##### 4. La répression de la complicité
 
-* **Emprunt de pénalité ([[Art. 121-6 C. pén.\|Art. 121-6 C. pén.]])** : *« Sera puni comme auteur le complice de l'infraction, au sens de l'article 121-7. »* Le complice encourt les mêmes peines légales que l'auteur principal.
+* **Emprunt de pénalité ([[Art. 121-6 C. pén.\|Art. 121-6 C. pén.]])** : *" Sera puni comme auteur le complice de l'infraction, au sens de l'article 121-7. "* Le complice encourt les mêmes peines légales que l'auteur principal.
 * **Peines encourues et peines prononcées** : Au stade du jugement, en application du principe d'**[[Individualisation judiciaire\|Individualisation judiciaire]]**, la juridiction prononce généralement une peine plus clémente envers le complice qu'envers l'auteur matériel, même lorsque le complice est l'instigateur de l'opération.
 
 ---
 
-### II. Les personnes morales (Introduction)
+### II. Les personnes morales
 
-* La responsabilité pénale des [[Personne morale\|personnes morales]] constitue une innovation du [[Nouveau Code pénal de 1992\|Nouveau Code pénal de 1992]].
-* Comme les [[Personnes physiques\|personnes physiques]], une personne morale peut être déclarée pénalement responsable en tant qu'[[Auteur\|Auteur]] d'une infraction [[Consommé\|consommée]] ou [[Tenté\|tentée]], ou en tant que [[Complice\|Complice]] d'une infraction [[Consommé\|consommée]] ou [[Tenté\|tentée]].
-* Dépourvue de corps physique, cette entité juridique nécessite un mécanisme légal spécifique permettant de lui imputer l'infraction commise (étudié lors de la séance suivante).
+La responsabilité pénale de la [[Personne morale\|Personne morale]] constitue une innovation majeure du [[Nouveau Code pénal de 1992\|Nouveau Code pénal de 1992]] (entrée en vigueur le 1er mars 1994). Dépourvue d'existence corporelle propre, une personne morale ne peut commettre matériellement un acte sans l'intermédiaire d'une personne physique : le législateur a donc institué un mécanisme spécifique d'imputation à l'[[Art. 121-2 C. pén.\|Art. 121-2 C. pén.]]. À l'instar des [[Personnes physiques\|personnes physiques]], la personne morale peut être déclarée pénalement responsable en qualité d'[[Auteur\|Auteur]] d'une infraction [[Consommé\|consommée]] ou [[Tenté\|tentée]], ou en tant que [[Complice\|Complice]].
+
+> [!cite] **[[Art. 121-2 C. pén.\|Art. 121-2 C. pén.]]**
+> *"Les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement, selon les distinctions des articles 121-4 à 121-7, des infractions commises, pour leur compte, par leurs organes ou représentants.*
+> *Toutefois, les collectivités territoriales et leurs groupements ne sont responsables pénalement que des infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public.*
+> *La responsabilité pénale des personnes morales n'exclut pas celle des personnes physiques auteurs ou complices des mêmes faits, sous réserve des dispositions du quatrième alinéa de l'article 121-3."*
+
+#### Introduction : Les trois caractères du mécanisme et l'application dans le temps
+
+* **1. Une responsabilité indirecte** : La responsabilité pénale de la personne morale nécessite toujours l'intervention préalable d'une personne physique.
+* **2. Une [[Responsabilité personnelle\|Responsabilité personnelle]]** : La personne morale est incarnée par une personne physique qualifiée (organe ou représentant) agissant pour son compte. Aucune faute propre distincte de la personne morale n'est exigée et ce mécanisme ne constitue en aucun cas une [[Responsabilité par le fait d'autrui\|Responsabilité par le fait d'autrui]].
+* **3. Une responsabilité autonome (principe de cumul et exceptions)** : La responsabilité de la personne morale ne se confond pas avec celle de la personne physique et ne s'y substitue pas : **en principe, les responsabilités se cumulent** ([[Art. 121-2 C. pén.\|Art. 121-2 C. pén.]], al. 3). Il n'existe que **deux hypothèses de dissociation** dans lesquelles seule la personne morale est retenue responsable :
+  1. **Organe collégial** (conseil d'administration, assemblée générale, conseil municipal, communauté d'agglomération…) : l'impossibilité d'individualiser la participation personnelle de chacun des membres empêche d'engager la responsabilité pénale des personnes physiques.
+  2. **Infractions non intentionnelles ([[Loi du 10 juillet 2000\|Loi du 10 juillet 2000]], [[Art. 121-3 al. 3 et 4 C. pén.\|Art. 121-3 al. 3 et 4 C. pén.]])** : la protection instituée par la loi Fauchon au profit de l'auteur indirect (exigence d'une faute qualifiée — violation manifestement délibérée ou faute caractérisée) ne bénéficie qu'aux [[Personnes physiques\|personnes physiques]]. Pour les personnes morales, **toute faute simple** (imprudence, négligence ou manquement à une obligation de prudence ou de sécurité) suffit à engager leur responsabilité pénale, y compris lorsque l'auteur indirect personne physique est relaxé.
+
+> [!info] **Application dans le temps de l'[[Art. 121-2 C. pén.\|Art. 121-2 C. pén.]]**
+> * **Nature de la loi** : En créant une responsabilité pénale qui n'existait pas antérieurement, l'[[Art. 121-2 C. pén.\|Art. 121-2 C. pén.]] relève du [[Droit pénal de fond\|Droit pénal de fond]] (et non du [[Droit pénal de forme\|Droit pénal de forme]]).
+> * **Non-rétroactivité** : S'agissant d'une disposition plus sévère (excluant la [[Rétroactivité in mitius\|Rétroactivité in mitius]] de l'[[Art. 112-1 al. 3 C. pén.\|Art. 112-1 al. 3 C. pén.]]), elle obéit au principe de **non-rétroactivité** ([[Art. 112-1 al. 1 et 2 C. pén.\|Art. 112-1 al. 1 et 2 C. pén.]]) et demeure inapplicable aux faits commis avant le 1er mars 1994, même non définitivement jugés.
+
+---
+
+#### A. Le domaine de la responsabilité pénale des personnes morales
+
+##### 1. L'exigence d'une existence juridique ([[Personnalité juridique\|Personnalité juridique]])
+
+* **Acquisition de la personnalité juridique** :
+  * *Sociétés (droit privé)* : La [[Personnalité juridique\|Personnalité juridique]] s'acquiert par l'**immatriculation au Registre du commerce et des sociétés (RCS)**. Les sociétés non immatriculées (en formation ou dissoutes) ne peuvent être déclarées pénalement responsables.
+  * *Associations et autres groupements* : Leur existence juridique dépend des formalités propres à leur statut (déclaration en préfecture pour les associations, syndicats, fondations, établissements publics…).
+* **Disparition de la personne morale et opérations de fusion-absorption / fusion-acquisition** :
+  * *Principe traditionnel* : À l'image du décès d'une personne physique, la dissolution ou la radiation d'une personne morale entraîne l'extinction de l'action publique ([[Art. 6 C. pr. pén.\|Art. 6 C. pr. pén.]]) et interdit, en application de l'[[Art. 121-1 C. pén.\|Art. 121-1 C. pén.]], de poursuivre la société absorbante ($B$ absorbant $A$) ou nouvelle ($A + B \rightarrow C$) pour des faits commis antérieurement par la société absorbée ($A$). Ce principe présentait toutefois le risque d'être détourné à des fins de fraude à la loi pénale.
+  * *Revirement de jurisprudence — [[Crim., 25 novembre 2020\|Crim., 25 novembre 2020]] (*Iron Mountain*)* :
+    * **Continuité économique et fonctionnelle** : Interprétant l'[[Art. 121-1 C. pén.\|Art. 121-1 C. pén.]] à la lumière de la directive européenne du 14 juin 2017 relative aux fusions de sociétés anonymes (codifiant la directive du 9 octobre 1978), la Chambre criminelle juge que la société absorbante n'est pas distincte de la société absorbée et peut être condamnée à une **peine d'amende ou de confiscation** pour des faits commis avant l'opération par la société absorbée.
+    * **Portée dans le temps du revirement** : Reconnaissant le pouvoir créateur de la jurisprudence pénale, la Cour soumet cette solution aux règles d'application dans le temps : étant plus sévère, elle ne s'applique qu'aux fusions conclues **postérieurement au 25 novembre 2020** (principe de prévisibilité juridique, [[Art. 7 Conv. EDH\|Art. 7 Conv. EDH]]).
+    * **Exception autonome de fraude à la loi** : Lorsqu'il est démontré que la fusion-absorption ou fusion-acquisition n'avait pas de justification économique mais pour seul objectif d'échapper à la responsabilité pénale, la condamnation de la société absorbante est toujours possible, quelle que soit la date de l'opération.
+  * *Extension aux SARL — [[Crim., 22 mai 2024\|Crim., 22 mai 2024]]* : La Chambre criminelle étend cette solution de continuité économique et fonctionnelle aux **SARL** (pour les fusions conclues après le 25 novembre 2020), au-delà du champ des sociétés anonymes visé par la directive.
+
+##### 2. Les personnes morales concernées
+
+* **Personnes morales de droit privé** : **Toutes** sont concernées sans distinction, qu'elles soient à but lucratif (sociétés civiles, sociétés commerciales) ou à but non lucratif (associations, fondations, syndicats, partis politiques, institutions représentatives du personnel…).
+* **Personnes morales de droit public** :
+  * **Exclusion de l'État** ([[Art. 121-2 C. pén.\|Art. 121-2 C. pén.]], al. 1) : L'État étant investi de l'exercice de l'action publique via le ministère public (procureur de la République, procureur général), il ne peut s'auto-poursuivre.
+  * **Collectivités territoriales et leurs groupements** ([[Art. 121-2 C. pén.\|Art. 121-2 C. pén.]], al. 2) : Ils ne sont responsables pénalement que des infractions commises dans l'exercice d'**activités susceptibles de faire l'objet de conventions de délégation de service public** (critère de **délégabilité**).
+
+> [!important] **Logique et critères du principe de délégabilité**
+> * **Parité public / privé** : Lorsqu'un service public est délégable, sa délégation à un prestataire privé exposerait ce dernier à la responsabilité pénale. S'il est exercé en régie par la collectivité, celle-ci doit donc être responsable au même titre qu'un délégataire privé. À l'inverse, les activités **non délégables** relèvent de prérogatives purement régaliennes assimilées à l'État, excluant toute responsabilité pénale.
+> * **Distinction avec le marché public** : La délégation de service public suppose l'exploitation du service par un tiers rémunéré par les fruits de cette exploitation, à la différence du marché public (ex. construction d'une école par une entreprise pour le compte d'une commune).
+
+| Qualification de l'activité | Conséquence pénale | Illustration jurisprudentielle |
+| :--- | :--- | :--- |
+| **Activité délégable** | Responsabilité pénale envisageable | **Entretien du réseau électrique d'un office HLM** ([[T. corr. Narbonne, 12 mars 1999\|T. corr. Narbonne, 12 mars 1999]]) |
+| **Activité non délégable** | Irresponsabilité pénale de la collectivité | **Service de l'enseignement public** : noyade d'élèves lors d'une sortie scolaire dans le Drac ([[Crim., 12 décembre 2000, Affaire du Drac\|Crim., 12 décembre 2000, Affaire du Drac]], *cité en cours au 14 mars 2000*) |
+
+* **Limites du critère** : En l'absence de liste légale des activités délégables, le juge procède au cas par cas, ce qui fragilise la prévisibilité du critère (l'activité d'enseignement est ainsi jugée non délégable alors même qu'existent des établissements privés).
+
+##### 3. Les infractions concernées et le système de sanctions
+
+* **Du [[Principe de spécialité\|Principe de spécialité]] à la généralisation** :
+  * À l'origine ([[Nouveau Code pénal de 1992\|Nouveau Code pénal de 1992]]), l'[[Art. 121-2 C. pén.\|Art. 121-2 C. pén.]] limitait la responsabilité des personnes morales *"dans les cas prévus par la loi ou le règlement"* (un noyau restreint d'infractions : vol, abus de confiance…).
+  * La multiplication des textes prévoyant cette responsabilité (lois générales ou nouvelles incriminations) a conduit l'exception à dépasser le principe.
+  * La **[[Loi du 9 mars 2004\|Loi du 9 mars 2004]]** (*Perben II*) supprime le principe de spécialité avec une entrée en vigueur différée au **[[31 décembre 2005\|31 décembre 2005]]** (effective le 1er janvier 2006), généralisant la responsabilité pénale des personnes morales à **toutes les infractions** (crimes, délits et contraventions).
+* **Le système bicéphale de la peine principale d'amende ([[Art. 131-37 C. pén.\|Art. 131-37 C. pén.]], [[Art. 131-38 C. pén.\|Art. 131-38 C. pén.]]) et les peines complémentaires ([[Art. 131-39 C. pén.\|Art. 131-39 C. pén.]])** :
+  * L'emprisonnement étant inapplicable à une entité morale, la peine principale est l'**amende** (assortie, lorsque la loi le prévoit, des peines complémentaires de l'[[Art. 131-39 C. pén.\|Art. 131-39 C. pén.]] : dissolution, interdiction d'activité, fermeture d'établissement, exclusion des marchés publics, confiscation…).
+  * **Quantum de l'amende ([[Art. 131-38 C. pén.\|Art. 131-38 C. pén.]])** :
+    1. **Système du quintuple** : lorsque la loi prévoit une amende pour les personnes physiques, l'amende maximale encourue par la personne morale est égale à **5 fois** ce montant (ex. vol : $45\,000 \times 5 = 225\,000\,\text{€}$ ; escroquerie : $375\,000 \times 5 = 1\,875\,000\,\text{€}$).
+    2. **Plafond forfaitaire de 1 000 000 €** : pour les crimes ne comportant aucune peine d'amende pour les personnes physiques.
+  * **Incohérence de l'échelle des peines** : L'entrée en vigueur différée au [[31 décembre 2005\|31 décembre 2005]] devait permettre au législateur de substituer à ce montant uniforme de 1 000 000 € une véritable gradation (par exemple en érigeant des peines complémentaires de l'[[Art. 131-39 C. pén.\|Art. 131-39 C. pén.]] en peines principales : dissolution, interdiction d'offre au public de titres financiers, exclusion des marchés publics). Faute de réforme, un **crime** imputé à une personne morale (1 000 000 €) encourt une amende moindre qu'un **délit d'escroquerie** (1 875 000 €), bien que la poursuite de personnes morales pour des crimes (hors cas très marginaux de complicité) reste exceptionnelle en pratique.
+
+---
+
+#### B. Les conditions cumulatives de la responsabilité pénale ([[Art. 121-2 C. pén.\|Art. 121-2 C. pén.]])
+
+| Condition cumulative | Contenu et portée | Limite / Exception |
+| :--- | :--- | :--- |
+| **1. Infraction commise par un organe ou un représentant** | Organe individuel (gérant, PDG) ou collégial (CA, AG, conseil municipal) ; représentant investi d'un pouvoir ou d'une délégation. | Un simple salarié dépourvu de qualité d'organe ou de représentant n'engage pas directement la personne morale. |
+| **2. Infraction commise " pour le compte " de la personne morale** | Acte accompli **au nom et dans l'intérêt** de la personne morale (organisation, fonctionnement ou objectifs du groupement). | Exclusion lorsque l'organe agit dans son intérêt personnel et **au détriment** de la personne morale (ex. [[Abus de biens sociaux\|Abus de biens sociaux]]). |
+
+##### 1. Une infraction commise par un organe ou un représentant
+
+* **L'organe** : Personne ou instance désignée par la loi ou les statuts pour diriger et administrer la personne morale. Il peut être :
+  * **Individuel** : gérant d'une SARL, président ou directeur général d'une SA, dirigeant statutaire.
+  * **Collégial** : assemblée générale, conseil d'administration, conseil municipal d'une commune, conseil départemental, conseil régional…
+* **Le représentant** : Personne physique habilitée à représenter la personne morale. Si les qualités d'organe et de représentant coïncident fréquemment chez le dirigeant, le représentant peut aussi être un tiers auquel la personne morale a confié un pouvoir de représentation ou une délégation de pouvoirs.
+
+##### 2. Une infraction commise " pour le compte " de la personne morale
+
+* **Critère jurisprudentiel** : En l'absence de définition légale, l'infraction est commise " pour le compte " de la personne morale lorsque l'organe ou le représentant agit **au nom et dans l'intérêt** de celle-ci. Sont ainsi visées toutes les activités relevant de **l'organisation, du fonctionnement ou des objectifs du groupement** (politique générale de l'entreprise).
+* **Exclusion lorsque la personne morale est victime** : Lorsque l'organe ou le représentant agit exclusivement à des fins personnelles et **au détriment** de la personne morale, la condition fait défaut. L'exemple type est l'**[[Abus de biens sociaux\|Abus de biens sociaux]]** (dirigeant puisant dans la trésorerie sociale pour financer un voyage ou un cadeau personnel) : la société étant appauvrie et victime de l'infraction, sa responsabilité pénale ne peut être engagée.
 
 ---
 
@@ -343,7 +428,7 @@ L'[[Art. 121-7 C. pén.\|Art. 121-7 C. pén.]] prévoit deux formes légales de 
 
 ## Liens associés
 
-- **Cours liés** : [[PLAN DE COURS - Droit pénal\|PLAN DE COURS - Droit pénal]], [[Partie 1 - La norme pénale\|Partie 1 - La norme pénale]], [[Partie 3 - Le procès pénal\|Partie 3 - Le procès pénal]]
-- **Notions** : [[Élément moral\|Élément moral]], [[Élément matériel\|Élément matériel]], [[Faute contraventionnelle\|Faute contraventionnelle]], [[Irréfragable\|Irréfragable]], [[Dol éventuel\|Dol éventuel]], [[Dol indeterminé\|Dol indeterminé]], [[Dol praeter intentionnel\|Dol praeter intentionnel]], [[Animus Necandi\|Animus Necandi]], [[Circonstance aggravante selon la loi de juillet 2000\|Circonstance aggravante selon la loi de juillet 2000]], [[Commencement d'exécution\|Commencement d'exécution]], [[Désistement involontaire\|Désistement involontaire]], [[Infraction matérielle\|Infraction matérielle]], [[Infraction formelle\|Infraction formelle]], [[Infraction impossible\|Infraction impossible]], [[Consommé\|Consommé]], [[Tenté\|Tenté]], [[Infraction non intentionnelle\|Infraction non intentionnelle]], [[Personnes physiques\|Personnes physiques]], [[Personne morale\|Personne morale]], [[Auteur\|Auteur]], [[Complice\|Complice]], [[Complicité par provocation\|Complicité par provocation]], [[Adminicule\|Adminicule]], [[Adhésion morale\|Adhésion morale]], [[Individualisation judiciaire\|Individualisation judiciaire]]
-- **Articles et lois** : [[Art. 111-1 C. pén.\|Art. 111-1 C. pén.]], [[Art. 111-4 C. pén.\|Art. 111-4 C. pén.]], [[Art. 121-1 C. pén.\|Art. 121-1 C. pén.]], [[Art. 121-3 C. pén.\|Art. 121-3 C. pén.]], [[Art. 121-3 al. 1 C. pén.\|Art. 121-3 al. 1 C. pén.]], [[Art. 121-3 al. 2 C. pén.\|Art. 121-3 al. 2 C. pén.]], [[Art. 121-3 al. 3 et 4 C. pén.\|Art. 121-3 al. 3 et 4 C. pén.]], [[Art. 121-3 al. 5 C. pén.\|Art. 121-3 al. 5 C. pén.]], [[Art. 121-4 C. pén.\|Art. 121-4 C. pén.]], [[Art. 121-5 C. pén.\|Art. 121-5 C. pén.]], [[Art. 121-6 C. pén.\|Art. 121-6 C. pén.]], [[Art. 121-7 C. pén.\|Art. 121-7 C. pén.]], [[Art. 221-3 C. pén.\|Art. 221-3 C. pén.]], [[Art. 221-5-1 C. pén.\|Art. 221-5-1 C. pén.]], [[Art. 222-7 C. pén.\|Art. 222-7 C. pén.]], [[Art. 223-1 C. pén.\|Art. 223-1 C. pén.]], [[Art. R. 624-1 C. pén.\|Art. R. 624-1 C. pén.]], [[Nouveau Code pénal de 1992\|Nouveau Code pénal de 1992]], [[Loi du 10 juillet 2000\|Loi du 10 juillet 2000]], [[Loi du 9 mars 2004\|Loi du 9 mars 2004]], [[Mandat criminel\|Mandat criminel]]
-- **Jurisprudence** : [[Crim., 25 octobre 1962, Lacour et Schieb\|Crim., 25 octobre 1962, Lacour et Schieb]], [[Crim., 16 janvier 1986, Perdereau\|Crim., 16 janvier 1986, Perdereau]]
+* **Cours liés** : [[PLAN DE COURS - Droit pénal\|PLAN DE COURS - Droit pénal]], [[Partie 1 - La norme pénale\|Partie 1 - La norme pénale]], [[Partie 3 - Le procès pénal\|Partie 3 - Le procès pénal]]
+* **Notions** : [[Élément moral\|Élément moral]], [[Élément matériel\|Élément matériel]], [[Faute contraventionnelle\|Faute contraventionnelle]], [[Irréfragable\|Irréfragable]], [[Dol éventuel\|Dol éventuel]], [[Dol indeterminé\|Dol indeterminé]], [[Dol praeter intentionnel\|Dol praeter intentionnel]], [[Animus Necandi\|Animus Necandi]], [[Circonstance aggravante selon la loi de juillet 2000\|Circonstance aggravante selon la loi de juillet 2000]], [[Commencement d'exécution\|Commencement d'exécution]], [[Désistement involontaire\|Désistement involontaire]], [[Infraction matérielle\|Infraction matérielle]], [[Infraction formelle\|Infraction formelle]], [[Infraction impossible\|Infraction impossible]], [[Consommé\|Consommé]], [[Tenté\|Tenté]], [[Infraction non intentionnelle\|Infraction non intentionnelle]], [[Personnes physiques\|Personnes physiques]], [[Personne morale\|Personne morale]], [[Personnalité juridique\|Personnalité juridique]], [[Responsabilité personnelle\|Responsabilité personnelle]], [[Responsabilité par le fait d'autrui\|Responsabilité par le fait d'autrui]], [[Principe de spécialité\|Principe de spécialité]], [[Droit pénal de fond\|Droit pénal de fond]], [[Droit pénal de forme\|Droit pénal de forme]], [[Rétroactivité in mitius\|Rétroactivité in mitius]], [[Abus de biens sociaux\|Abus de biens sociaux]], [[Auteur\|Auteur]], [[Complice\|Complice]], [[Complicité par provocation\|Complicité par provocation]], [[Adminicule\|Adminicule]], [[Adhésion morale\|Adhésion morale]], [[Individualisation judiciaire\|Individualisation judiciaire]]
+* **Articles et lois** : [[Art. 111-1 C. pén.\|Art. 111-1 C. pén.]], [[Art. 111-4 C. pén.\|Art. 111-4 C. pén.]], [[Art. 112-1 al. 1 et 2 C. pén.\|Art. 112-1 al. 1 et 2 C. pén.]], [[Art. 112-1 al. 3 C. pén.\|Art. 112-1 al. 3 C. pén.]], [[Art. 121-1 C. pén.\|Art. 121-1 C. pén.]], [[Art. 121-2 C. pén.\|Art. 121-2 C. pén.]], [[Art. 121-3 C. pén.\|Art. 121-3 C. pén.]], [[Art. 121-3 al. 1 C. pén.\|Art. 121-3 al. 1 C. pén.]], [[Art. 121-3 al. 2 C. pén.\|Art. 121-3 al. 2 C. pén.]], [[Art. 121-3 al. 3 et 4 C. pén.\|Art. 121-3 al. 3 et 4 C. pén.]], [[Art. 121-3 al. 5 C. pén.\|Art. 121-3 al. 5 C. pén.]], [[Art. 121-4 C. pén.\|Art. 121-4 C. pén.]], [[Art. 121-5 C. pén.\|Art. 121-5 C. pén.]], [[Art. 121-6 C. pén.\|Art. 121-6 C. pén.]], [[Art. 121-7 C. pén.\|Art. 121-7 C. pén.]], [[Art. 131-37 C. pén.\|Art. 131-37 C. pén.]], [[Art. 131-38 C. pén.\|Art. 131-38 C. pén.]], [[Art. 131-39 C. pén.\|Art. 131-39 C. pén.]], [[Art. 221-3 C. pén.\|Art. 221-3 C. pén.]], [[Art. 221-5-1 C. pén.\|Art. 221-5-1 C. pén.]], [[Art. 222-7 C. pén.\|Art. 222-7 C. pén.]], [[Art. 223-1 C. pén.\|Art. 223-1 C. pén.]], [[Art. R. 624-1 C. pén.\|Art. R. 624-1 C. pén.]], [[Art. 6 C. pr. pén.\|Art. 6 C. pr. pén.]], [[Art. 7 Conv. EDH\|Art. 7 Conv. EDH]], [[Nouveau Code pénal de 1992\|Nouveau Code pénal de 1992]], [[Loi du 10 juillet 2000\|Loi du 10 juillet 2000]], [[Loi du 9 mars 2004\|Loi du 9 mars 2004]], [[31 décembre 2005\|31 décembre 2005]], [[Mandat criminel\|Mandat criminel]]
+* **Jurisprudence** : [[Crim., 25 octobre 1962, Lacour et Schieb\|Crim., 25 octobre 1962, Lacour et Schieb]], [[Crim., 16 janvier 1986, Perdereau\|Crim., 16 janvier 1986, Perdereau]], [[T. corr. Narbonne, 12 mars 1999\|T. corr. Narbonne, 12 mars 1999]], [[Crim., 12 décembre 2000, Affaire du Drac\|Crim., 12 décembre 2000, Affaire du Drac]], [[Crim., 25 novembre 2020\|Crim., 25 novembre 2020]], [[Crim., 22 mai 2024\|Crim., 22 mai 2024]]

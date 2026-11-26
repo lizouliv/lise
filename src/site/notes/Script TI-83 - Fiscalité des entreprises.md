@@ -8,8 +8,8 @@
 Programme TI-Basic tout-en-un (`19 083 octets`, compatible **TI-83 Premium CE** en français sans module Python) couvrant l'ensemble des calculs et points de vigilance des séances 1 à 5 de TD ([[Drive/Josepha/S3/fiscalité des entreprises/TD/TD1 - l_impôt sur le revenu\|TD1 - l_impôt sur le revenu]], [[Drive/Josepha/S3/fiscalité des entreprises/TD/TD2 - l_imposition de l_entreprise individuelle\|TD2 - l_imposition de l_entreprise individuelle]], [[TD Séance 3 - Fiscalité des entreprises\|TD Séance 3 - Fiscalité des entreprises]], [[TD Séance 4 - L'impôt sur les sociétés\|TD Séance 4 - L'impôt sur les sociétés]], [[TD Séance 5 - La taxe sur la valeur ajoutée\|TD Séance 5 - La taxe sur la valeur ajoutée]]) ainsi que les exercices types de contrôle continu et de partiel.
 
 > [!tip] Fichiers prêts à l'emploi
-> - **Fichier binaire prêt à transférer :** [[FISCA.8xp]] *(dans `Attachments/FISCA TI-83/FISCA.8xp`)*
-> - **Code source TI-Basic lisible :** [[FISCA_source_TI_Basic.txt]] *(dans `Attachments/FISCA TI-83/FISCA_source_TI_Basic.txt`)*
+> - **Fichier binaire prêt à transférer :** [[FISCA.8xp\|FISCA.8xp]] *(dans `Attachments/FISCA TI-83/FISCA.8xp`)*
+> - **Code source TI-Basic lisible :** [[FISCA_source_TI_Basic.txt\|FISCA_source_TI_Basic.txt]] *(dans `Attachments/FISCA TI-83/FISCA_source_TI_Basic.txt`)*
 
 ---
 

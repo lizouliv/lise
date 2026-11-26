@@ -5,8 +5,12 @@
 
 # [[References/Micro\|Micro]]
 
+- [[La fonction d'offre agrégée\|La fonction d'offre agrégée]]: — 25/11/2026
+- [[Agrégation horizontale\|Agrégation horizontale]]: — 25/11/2026
+- [[Fonction d'offre individuelle\|Fonction d'offre individuelle]]: — 25/11/2026
+- [[Coût marginal\|Coût marginal]]: — 25/11/2026
 - [[Microéconomie - Plan\|Microéconomie - Plan]]: — 15/11/2026
-- [[Production, coûts, salariés, graphes, fonctions\|Production, coûts, salariés, graphes, fonctions]]: — 14/10/2026
+- [[Production, coûts, salariés, graphes, fonctions\|Production, coûts, salariés, graphes, fonctions]]: — 17/10/2026
 - [[Fonction de production\|Fonction de production]]: — 16/09/2026
 - [[Introduction -Microéconomie\|Introduction -Microéconomie]]: — 09/09/2026
 - [[Microéconomie de la production -Méthodo\|Microéconomie de la production -Méthodo]]: — 09/09/2026

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mandat-criminel/","ctime":"2026-11-18T11:47:51.428+01:00","mtime":"2026-11-18T13:23:26.835+01:00","dg-note-properties":{"date created":"2026-11-18, 11 47","date modified":"2026-11-18, 13 25","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/mandat-criminel/","ctime":"2026-11-18T11:47:51.428+01:00","mtime":"2026-11-25T10:16:22.125+01:00","dg-note-properties":{"date created":"2026-11-18, 11 47","date modified":"2026-11-25, 10 16","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

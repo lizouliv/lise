@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/fiscal/lexis-l-impot-sur-le-revenu/","ctime":"2026-11-18T18:51:29.037+01:00","mtime":"2026-11-18T18:51:29.038+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-18, 18 50","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/fiscal/lexis-l-impot-sur-le-revenu/","ctime":"2026-11-18T18:51:29.037+01:00","mtime":"2026-11-20T13:38:04.704+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-20, 13 38","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
-# Lexis - L’impôt sur le revenu
+# Lexis - L'impôt sur le revenu
 
 > [!info] Documentation externe — Lexis 360 Intelligence (Guillaume Lamouroux, 1er sept. 2026)
 > Fiche pratique de documentation juridique externe, distincte de tes notes de cours.

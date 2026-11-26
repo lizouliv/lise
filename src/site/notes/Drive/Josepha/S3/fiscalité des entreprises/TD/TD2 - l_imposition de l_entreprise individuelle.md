@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/drive/josepha/s3/fiscalite-des-entreprises/td/td-2-l-imposition-de-l-entreprise-individuelle/","ctime":"2026-11-08T15:49:15.933+01:00","mtime":"2026-11-08T17:44:13.289+01:00","dg-note-properties":{"date created":"2026-11-08, 15 41","date modified":"2026-11-08, 15 59","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/TD]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/drive/josepha/s3/fiscalite-des-entreprises/td/td-2-l-imposition-de-l-entreprise-individuelle/","ctime":"2026-11-08T15:49:15.933+01:00","mtime":"2026-11-21T14:13:45.060+01:00","dg-note-properties":{"date created":"2026-11-08, 15 49","date modified":"2026-11-21, 14 13","sector":"[[References/Josepha]]","semester":"[[References/S3]]","class":"[[References/Fiscal]]","form":"[[References/TD]]","part":"[[References/2]]"}}
 ---
 
 
@@ -81,7 +81,7 @@ Depuis 2010, le résultat fiscal d'une entreprise individuelle ne doit prendre e
 
 #### Étape n°2 --> Plus-value ou moins-value ?
 
-- Prix de vente - valeur nette comptable =+ou- value
+- Prix de vente - valeur nette comptable =+ouvalue
 
 #### Étape 3 --> BIC, IR, plus/moins-value à court terme ou à long terme ?
 

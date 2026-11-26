@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-les-contrats-publics/","ctime":"2026-11-18T18:53:16.399+01:00","mtime":"2026-11-18T18:53:16.400+01:00","dg-note-properties":{"date created":"2026-11-18, 18 40","date modified":"2026-11-18, 18 52","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-les-contrats-publics/","ctime":"2026-11-18T18:53:16.399+01:00","mtime":"2026-11-25T18:56:04.798+01:00","dg-note-properties":{"date created":"2026-11-18, 18 40","date modified":"2026-11-25, 18 56","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
@@ -74,13 +74,13 @@
 | Demandeur | Phase / Objet du recours | Voie et régime applicables |
 | :--- | :--- | :--- |
 | **Candidat évincé** | Avant la signature (manquement aux règles de publicité/concurrence) | **Référé précontractuel** (*CJA, art. L. 551-1 s.*) : annulation de la procédure avant signature |
-| **Candidat évincé** | Après la signature (vices limités : absence totale de publicité, signature en délai de *standstill*...) | **Référé contractuel** (*CJA, art. L. 551-13 s.*) : annulation, résiliation, réduction de durée ou pénalités |
+| **Candidat évincé** | Après la signature (vices limités : absence totale de publicité, signature en délai de *standstill*…) | **Référé contractuel** (*CJA, art. L. 551-13 s.*) : annulation, résiliation, réduction de durée ou pénalités |
 | **Préfet** | Contrôle de légalité des contrats des collectivités | **Déféré préfectoral** requalifié en recours de pleine juridiction (*CE, 23 déc. 2011, Min. Intérieur c/ SIDEN*) |
-| **Tiers lésé** | Contestation de la validité du contrat signé | **Recours « Tarn-et-Garonne »** (*CE, ass., 4 avr. 2014*) : recours de pleine juridiction dans un délai de **2 mois** à compter des mesures de publicité appropriées (ou délai raisonnable *Czabaj* d'**1 an** à défaut) ; uniquement moyens en lien direct avec l'intérêt lésé (sauf membres de l'organe délibérant et préfet) |
+| **Tiers lésé** | Contestation de la validité du contrat signé | **Recours " Tarn-et-Garonne "** (*CE, ass., 4 avr. 2014*) : recours de pleine juridiction dans un délai de **2 mois** à compter des mesures de publicité appropriées (ou délai raisonnable *Czabaj* d'**1 an** à défaut) ; uniquement moyens en lien direct avec l'intérêt lésé (sauf membres de l'organe délibérant et préfet) |
 | **Tiers** | Refus de résilier un contrat en cours d'exécution | **Recours tendant à mettre fin à l'exécution** (*CE, sect., 30 juin 2017, Synd. mixte de promotion de l'activité transmanche*) |
 | **Usager / Agent** | Clauses réglementaires d'un contrat ou contrat d'agent public | **REP** recevable contre les clauses réglementaires (*CE, ass., 10 juill. 1996, Cayzeele*) et contre les contrats de recrutement d'agents publics (*CE, sect., 30 oct. 1998, Ville de Lisieux*) ; **REP** également maintenu contre les actes détachables des **contrats privés** (*CE, 27 oct. 2017, Assoc. Avenir d'Alet*) |
-| **Parties au contrat** | Contestation de validité / loyauté contractuelle | **Recours « Béziers I »** (*CE, ass., 28 déc. 2009*) : loyauté des relations contractuelles ; écarte le contrat seulement pour vice d'une particulière gravité ou contenu illicite |
-| **Parties au contrat** | Reprise des relations après résiliation unilatérale | **Recours « Béziers II »** (*CE, sect., 21 mars 2011*) : le juge peut ordonner la **reprise des relations contractuelles** ou accorder une indemnisation (délai : 2 mois) |
+| **Parties au contrat** | Contestation de validité / loyauté contractuelle | **Recours " Béziers I "** (*CE, ass., 28 déc. 2009*) : loyauté des relations contractuelles ; écarte le contrat seulement pour vice d'une particulière gravité ou contenu illicite |
+| **Parties au contrat** | Reprise des relations après résiliation unilatérale | **Recours " Béziers II "** (*CE, sect., 21 mars 2011*) : le juge peut ordonner la **reprise des relations contractuelles** ou accorder une indemnisation (délai : 2 mois) |
 
 ---
 

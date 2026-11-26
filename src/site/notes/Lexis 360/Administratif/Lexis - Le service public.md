@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-le-service-public/","ctime":"2026-11-18T18:53:15.179+01:00","mtime":"2026-11-18T18:53:15.179+01:00","dg-note-properties":{"date created":"2026-11-18, 18 40","date modified":"2026-11-18, 18 52","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-le-service-public/","ctime":"2026-11-18T18:53:15.179+01:00","mtime":"2026-11-25T18:56:04.554+01:00","dg-note-properties":{"date created":"2026-11-18, 18 40","date modified":"2026-11-25, 18 56","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
@@ -15,7 +15,7 @@
 
 ## 1. Identification du service public (critères jurisprudentiels)
 
-En l'absence de qualification législative expresse (*« service public virtuel »* ou innommé), la jurisprudence retient trois éléments :
+En l'absence de qualification législative expresse (*" service public virtuel "* ou innommé), la jurisprudence retient trois éléments :
 
 1. **Une activité d'intérêt général :**
    - Notion contingente dans le temps et l'espace (activités matérielles, intellectuelles ou financières ; ex. création culturelle d'un théâtre *CE, 7 avr. 1916, Astruc* ; activité touristique lucrative *CE, 25 mars 1966, Ville de Royan*).
@@ -34,7 +34,7 @@ En l'absence de qualification législative expresse (*« service public virtuel 
 
 ## 2. La distinction fondamentale : SPA et SPIC
 
-Consacrée dès *TC, 22 janv. 1921, Sté Commerciale de l'Ouest africain* (dit *Bac d'Eloka*), la somme **SPA + SPIC** est **exhaustive** : la catégorie intermédiaire des *« services publics sociaux »* (*TC, 22 janv. 1955, Naliato*) a été abandonnée (*TC, 4 juill. 1983, Gambini*).
+Consacrée dès *TC, 22 janv. 1921, Sté Commerciale de l'Ouest africain* (dit *Bac d'Eloka*), la somme **SPA + SPIC** est **exhaustive** : la catégorie intermédiaire des *" services publics sociaux "* (*TC, 22 janv. 1955, Naliato*) a été abandonnée (*TC, 4 juill. 1983, Gambini*).
 
 ### A. Critères d'identification
 
@@ -54,12 +54,12 @@ Consacrée dès *TC, 22 janv. 1921, Sté Commerciale de l'Ouest africain* (dit *
 | **Situation des usagers** | Situation **légale et réglementaire de droit public** (modification unilatérale possible) | Lien contractuel de **droit privé** (même en cas de monopole) |
 | **Personnel** | Agents publics (statutaires ou contractuels de droit public) | Salariés de droit privé, sauf le **directeur** et le **comptable public** |
 
-> [!warning] Établissements à régime mixte et « visage inversé »
-> Un établissement public qualifié d'EPA peut gérer un SPIC ou employer majoritairement du personnel de droit privé par détermination de la loi — exemple classique de **Pôle emploi** (désormais France Travail : *TC, 9 déc. 2013, Ramoul* ; *CE, 23 juill. 2014*). Inversement, le juge peut requalifier un établissement « à double visage ».
+> [!warning] Établissements à régime mixte et " visage inversé "
+> Un établissement public qualifié d'EPA peut gérer un SPIC ou employer majoritairement du personnel de droit privé par détermination de la loi — exemple classique de **Pôle emploi** (désormais France Travail : *TC, 9 déc. 2013, Ramoul* ; *CE, 23 juill. 2014*). Inversement, le juge peut requalifier un établissement " à double visage ".
 
 ---
 
-## 3. Les principes régissant le service public (« Lois de Rolland »)
+## 3. Les principes régissant le service public (" Lois de Rolland ")
 
 Les **lois du service public** s'imposent à tout gestionnaire public ou privé :
 
@@ -78,7 +78,7 @@ Les **lois du service public** s'imposent à tout gestionnaire public ou privé 
 
 4. **Neutralité et laïcité :**
    - **Agents publics :** interdiction stricte de manifester leurs opinions politiques ou religieuses dans le service (*CE, avis, 3 mai 2000, Marteaux* ; validée par [[Cour européenne des droits de l'homme (CEDH)\|CEDH]], *26 nov. 2015, Ebrahimian* ; [[CJUE\|CJUE]], *28 nov. 2023, Cne d'Ans*).
-   - **Extension aux organismes privés gérant un SP et contrôle :** la loi du 24 août 2021 (*art. 5*) étend expressément neutralité et laïcité aux salariés d'organismes privés participant à un service public et crée le **« déféré laïcité »** ; encadrement strict de la neutralité dans les fédérations sportives délégataires (ex. FFF : *CE, 29 juin 2023*).
+   - **Extension aux organismes privés gérant un SP et contrôle :** la loi du 24 août 2021 (*art. 5*) étend expressément neutralité et laïcité aux salariés d'organismes privés participant à un service public et crée le **" déféré laïcité "** ; encadrement strict de la neutralité dans les fédérations sportives délégataires (ex. FFF : *CE, 29 juin 2023*).
    - **Cantines scolaires :** pas d'obligation pour une commune de proposer des repas confessionnels, mais faculté d'offrir des menus de substitution (*CE, 11 déc. 2020, Cne de Chalon-sur-Saône*).
 
 5. **Principes complémentaires :**

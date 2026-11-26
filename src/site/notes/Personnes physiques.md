@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personnes-physiques/","ctime":"2026-11-18T11:20:21.629+01:00","mtime":"2026-11-18T13:03:48.999+01:00","dg-note-properties":{"date created":"2026-11-18, 11 20","date modified":"2026-11-18, 13 00","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/personnes-physiques/","ctime":"2026-11-18T11:20:21.629+01:00","mtime":"2026-11-25T10:23:04.743+01:00","dg-note-properties":{"date created":"2026-11-18, 11 20","date modified":"2026-11-25, 10 23","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

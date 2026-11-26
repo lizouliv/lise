@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/loi-du-10-juillet-2000/","ctime":"2026-11-18T11:37:27.055+01:00","mtime":"2026-11-18T13:23:26.740+01:00","dg-note-properties":{"date created":"2026-11-18, 11 37","date modified":"2026-11-18, 13 25","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/loi-du-10-juillet-2000/","ctime":"2026-11-18T11:37:27.055+01:00","mtime":"2026-11-25T10:35:52.360+01:00","dg-note-properties":{"date created":"2026-11-18, 11 37","date modified":"2026-11-25, 10 35","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

@@ -9,5 +9,7 @@
 - [[Compta - Séance TD 2\|Compta - Séance TD 2]]: — 11/11/2026
 - [[Comptabilité financière\|Comptabilité financière]]: — 15/09/2026
 - [[cc compta\|cc compta]]: — 18/11/2026
+- [[Entraînement Compta — Écritures, Bilan et Compte de Résultat\|Entraînement Compta — Écritures, Bilan et Compte de Résultat]]: — 23/11/2026
+- [[Script TI-83 - Comptabilité générale\|Script TI-83 - Comptabilité générale]]: — 23/11/2026
 
 { .block-language-dataview}

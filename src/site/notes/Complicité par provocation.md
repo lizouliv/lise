@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/complicite-par-provocation/","ctime":"2026-11-18T11:50:49.870+01:00","mtime":"2026-11-18T13:23:26.818+01:00","dg-note-properties":{"date created":"2026-11-18, 11 50","date modified":"2026-11-18, 13 00","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
+{"dg-publish":true,"permalink":"/complicite-par-provocation/","ctime":"2026-11-18T11:50:49.870+01:00","mtime":"2026-11-25T10:11:41.772+01:00","dg-note-properties":{"date created":"2026-11-18, 11 50","date modified":"2026-11-25, 10 11","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Pénal]]","form":"[[References/Notion]]","part":null}}
 ---
 
 

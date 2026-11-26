@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-contentieux-administratif-la-classification-des-recours-contentieux/","ctime":"2026-11-18T18:53:14.084+01:00","mtime":"2026-11-18T18:53:14.084+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-18, 18 52","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-contentieux-administratif-la-classification-des-recours-contentieux/","ctime":"2026-11-18T18:53:14.084+01:00","mtime":"2026-11-25T18:56:04.230+01:00","dg-note-properties":{"date created":"2026-11-18, 18 22","date modified":"2026-11-25, 18 56","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
@@ -23,7 +23,7 @@
 ## 2. Le recours pour excès de pouvoir (REP)
 
 ### A. Caractères généraux et recevabilité
-- **Recours objectif (« procès fait à un acte ») :** vise l'annulation rétroactive d'une décision administrative illégale (réputée n'être jamais intervenue).
+- **Recours objectif (" procès fait à un acte ") :** vise l'annulation rétroactive d'une décision administrative illégale (réputée n'être jamais intervenue).
 - **PGD d'ouverture générale :** toujours ouvert contre toute décision administrative sans texte exprès (**CE, ass., 17 févr. 1950, *Dame Lamotte***) ; recours d'ordre public auquel on ne peut renoncer.
 - **Délais de recours :** **2 mois** à compter de la notification ou publication (**CJA, art. R. 421-1**), inopposables en l'absence de mention des voies et délais (**CJA, art. R. 421-5**), mais enfermés malgré tout dans un **délai raisonnable d'1 an** en principe au nom de la sécurité juridique (**CE, ass., 13 juill. 2016, *Czabaj*** ; étendu au contentieux CADA par **CE, 11 mars 2024**).
 - **Règles procédurales et moyens :** dispense du **ministère d'avocat** (en 1er ressort et en appel devant le [[Conseil d'État\|Conseil d'État]]) ; intérêt à agir apprécié souplement ; **seuls des moyens de légalité** peuvent être soulevés (exclusion des moyens tirés de la violation d'un contrat, sauf clauses réglementaires : CE, 21 déc. 1906, *Croix-de-Seguey-Tivoli*) ; appréciation de la légalité **à la date d'édiction de la décision**.

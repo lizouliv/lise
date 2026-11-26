@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapitre-2-les-actes-d-administration/","ctime":"2026-11-12T15:38:08.657+01:00","mtime":"2026-11-13T01:22:02.644+01:00","dg-note-properties":{"date created":"2026-11-12, 15 38","date modified":"2026-11-13, 1 22","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/2]]"}}
+{"dg-publish":true,"permalink":"/chapitre-2-les-actes-d-administration/","ctime":"2026-11-12T15:38:08.657+01:00","mtime":"2026-11-26T18:00:32.891+01:00","dg-note-properties":{"date created":"2026-11-12, 15 38","date modified":"2026-11-26, 18 00","sector":"[[References/AES]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/CM]]","part":"[[References/2]]"}}
 ---
 
 
@@ -124,7 +124,11 @@ L'article L. 200-1 du [[CRPA - Code des relations entre public et administration
 
 ---
 
+> [!info] Suite du chapitre
+> L'étude approfondie des [[Actes non-décisoires\|Actes non-décisoires]] et l'ouverture de la Section 2 sur les [[Contrats administratifs\|Contrats administratifs]] se poursuivent dans [[Les actes non-décisoires et les contrats administratifs\|Les actes non-décisoires et les contrats administratifs]].
+
 ## Liens associés
+- [[Les actes non-décisoires et les contrats administratifs\|Les actes non-décisoires et les contrats administratifs]]
 - [[Actes administratifs unilatéraux\|Actes administratifs unilatéraux]]
 - [[Actes décisoires\|Actes décisoires]]
 - [[Actes non-décisoires\|Actes non-décisoires]]

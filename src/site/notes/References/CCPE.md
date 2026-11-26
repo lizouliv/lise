@@ -15,6 +15,8 @@
 > 
 >  | Articles                                                                            | Chapitre                                                                                |
 > | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+> | [[Plus-value\|Plus-value]]                                                       | [[Correction CC Fiscalité 2026\|Correction CC Fiscalité 2026]]                       |
+> | [[Plus-value\|Plus-value]]                                                       | [[Entraînement Fiscalité - BIC, IS, IR\|Entraînement Fiscalité - BIC, IS, IR]]       |
 > | [[Plus-value\|Plus-value]]                                                       | [[TD Séance 4 - L'impôt sur les sociétés\|TD Séance 4 - L'impôt sur les sociétés]]   |
 > | [[Plus-value\|Plus-value]]                                                       | [[TD Séance 3 - Fiscalité des entreprises\|TD Séance 3 - Fiscalité des entreprises]] |
 > | [[Équilibre partiel\|Équilibre partiel]]                                         | [[Alfred Marshall\|Alfred Marshall]]                                                 |

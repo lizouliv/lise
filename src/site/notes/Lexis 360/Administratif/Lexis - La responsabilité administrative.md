@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-la-responsabilite-administrative/","ctime":"2026-11-18T18:53:11.478+01:00","mtime":"2026-11-18T18:53:11.478+01:00","dg-note-properties":{"date created":"2026-11-12, 16 27","date modified":"2026-11-18, 18 52","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
+{"dg-publish":true,"permalink":"/lexis-360/administratif/lexis-la-responsabilite-administrative/","ctime":"2026-11-18T18:53:11.478+01:00","mtime":"2026-11-25T18:56:03.340+01:00","dg-note-properties":{"date created":"2026-11-12, 16 27","date modified":"2026-11-25, 18 56","sector":"[[References/Lexis]]","semester":"[[References/S3]]","class":"[[References/Administratif]]","form":"[[References/Lexis]]","part":null}}
 ---
 
 
@@ -50,7 +50,7 @@
 
 > [!warning] Conseils d'examen (fiche Lexis)
 > - En commentaire d'arrêt ou cas pratique, toujours identifier d'abord le terrain (**faute** puis **sans faute** — cette dernière étant d'**ordre public**, relevée d'office après contradiction) et vérifier s'il existe un **régime législatif spécial** prioritaire sur les principes jurisprudentiels.
-> - **Exercices corrigés dans le PDF :** Commentaire de *CE, 2 mars 2007, n° 283257, La BFCOI* (voir [[Lexis 360/Méthodologie/Lexis - Maîtriser le commentaire d'arrêt\|Fiche pédagogique n° 3334]]) + Dissertation *« La place de la faute lourde dans le régime de la responsabilité administrative »*.
+> - **Exercices corrigés dans le PDF :** Commentaire de *CE, 2 mars 2007, n° 283257, La BFCOI* (voir [[Lexis 360/Méthodologie/Lexis - Maîtriser le commentaire d'arrêt\|Fiche pédagogique n° 3334]]) + Dissertation *" La place de la faute lourde dans le régime de la responsabilité administrative "*.
 
 ---
 
